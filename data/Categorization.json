@@ -1,0 +1,6528 @@
+[
+  {
+    "year": "00",
+    "question": "1",
+    "part": "a",
+    "topics": [
+      "1.2"
+    ]
+  },
+  {
+    "year": "00",
+    "question": "1",
+    "part": "b",
+    "topics": [
+      "1.2"
+    ]
+  },
+  {
+    "year": "00",
+    "question": "1",
+    "part": "c",
+    "topics": [
+      "1.2"
+    ]
+  },
+  {
+    "year": "00",
+    "question": "1",
+    "part": "d",
+    "topics": [
+      "1.2"
+    ]
+  },
+  {
+    "year": "00",
+    "question": "1",
+    "part": "e",
+    "topics": [
+      "1.1",
+      "4.1"
+    ]
+  },
+  {
+    "year": "00",
+    "question": "2",
+    "part": "a",
+    "topics": [
+      "2.3"
+    ]
+  },
+  {
+    "year": "00",
+    "question": "2",
+    "part": "b",
+    "topics": [
+      "2.3"
+    ]
+  },
+  {
+    "year": "00",
+    "question": "2",
+    "part": "c",
+    "topics": [
+      "2.6"
+    ]
+  },
+  {
+    "year": "00",
+    "question": "2",
+    "part": "d",
+    "topics": [
+      "2.6"
+    ]
+  },
+  {
+    "year": "00",
+    "question": "3",
+    "part": "a",
+    "topics": [
+      "electricity"
+    ]
+  },
+  {
+    "year": "00",
+    "question": "3",
+    "part": "b",
+    "topics": [
+      "electricity"
+    ]
+  },
+  {
+    "year": "00",
+    "question": "3",
+    "part": "c",
+    "topics": [
+      "electricity"
+    ]
+  },
+  {
+    "year": "00",
+    "question": "4",
+    "part": "a",
+    "topics": [
+      "optics"
+    ]
+  },
+  {
+    "year": "00",
+    "question": "4",
+    "part": "b",
+    "topics": [
+      "optics"
+    ]
+  },
+  {
+    "year": "00",
+    "question": "5",
+    "part": "a",
+    "topics": [
+      "atomic"
+    ]
+  },
+  {
+    "year": "00",
+    "question": "5",
+    "part": "b",
+    "topics": [
+      "atomic"
+    ]
+  },
+  {
+    "year": "00",
+    "question": "5",
+    "part": "c",
+    "topics": [
+      "atomic"
+    ]
+  },
+  {
+    "year": "00",
+    "question": "6",
+    "part": "a",
+    "topics": [
+      "experiment"
+    ]
+  },
+  {
+    "year": "00",
+    "question": "6",
+    "part": "b",
+    "topics": [
+      "experiment"
+    ]
+  },
+  {
+    "year": "00",
+    "question": "6",
+    "part": "c",
+    "topics": [
+      "experiment"
+    ]
+  },
+  {
+    "year": "00",
+    "question": "6",
+    "part": "d",
+    "topics": [
+      "experiment"
+    ]
+  },
+  {
+    "year": "00",
+    "question": "7",
+    "part": "a",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "00",
+    "question": "7",
+    "part": "b",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "00",
+    "question": "7",
+    "part": "c",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "00",
+    "question": "7",
+    "part": "d",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "01",
+    "question": "1",
+    "part": "a",
+    "topics": [
+      "3.7"
+    ]
+  },
+  {
+    "year": "01",
+    "question": "1",
+    "part": "b",
+    "topics": [
+      "3.6"
+    ]
+  },
+  {
+    "year": "01",
+    "question": "1",
+    "part": "c",
+    "topics": [
+      "3.6"
+    ]
+  },
+  {
+    "year": "01",
+    "question": "1",
+    "part": "d",
+    "topics": [
+      "3.6"
+    ]
+  },
+  {
+    "year": "01",
+    "question": "2",
+    "part": "a",
+    "topics": [
+      "5.4"
+    ]
+  },
+  {
+    "year": "01",
+    "question": "2",
+    "part": "b",
+    "topics": [
+      "5.4",
+      "1.1"
+    ]
+  },
+  {
+    "year": "01",
+    "question": "2",
+    "part": "c",
+    "topics": [
+      "5.4",
+      "1.1"
+    ]
+  },
+  {
+    "year": "01",
+    "question": "2",
+    "part": "d",
+    "topics": [
+      "5.4",
+      "1.1"
+    ]
+  },
+  {
+    "year": "01",
+    "question": "3",
+    "part": "a",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "01",
+    "question": "3",
+    "part": "b",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "01",
+    "question": "3",
+    "part": "c",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "01",
+    "question": "4",
+    "part": "a",
+    "topics": [
+      "optics",
+      "analysis"
+    ]
+  },
+  {
+    "year": "01",
+    "question": "4",
+    "part": "b",
+    "topics": [
+      "optics"
+    ]
+  },
+  {
+    "year": "01",
+    "question": "4",
+    "part": "c",
+    "topics": [
+      "optics"
+    ]
+  },
+  {
+    "year": "01",
+    "question": "4",
+    "part": "d",
+    "topics": [
+      "optics"
+    ]
+  },
+  {
+    "year": "01",
+    "question": "5",
+    "part": "a",
+    "topics": [
+      "electronics",
+      "experiment"
+    ]
+  },
+  {
+    "year": "01",
+    "question": "5",
+    "part": "b",
+    "topics": [
+      "electronics",
+      "experiment"
+    ]
+  },
+  {
+    "year": "01",
+    "question": "5",
+    "part": "c",
+    "topics": [
+      "electronics",
+      "experiment"
+    ]
+  },
+  {
+    "year": "01",
+    "question": "6",
+    "part": "a",
+    "topics": [
+      "thermodynamics"
+    ]
+  },
+  {
+    "year": "01",
+    "question": "6",
+    "part": "b",
+    "topics": [
+      "thermodynamics"
+    ]
+  },
+  {
+    "year": "01",
+    "question": "6",
+    "part": "c",
+    "topics": [
+      "thermodynamics"
+    ]
+  },
+  {
+    "year": "01",
+    "question": "6",
+    "part": "d",
+    "topics": [
+      "thermodynamics"
+    ]
+  },
+  {
+    "year": "01",
+    "question": "6",
+    "part": "e",
+    "topics": [
+      "thermodynamics"
+    ]
+  },
+  {
+    "year": "01",
+    "question": "7",
+    "part": "a",
+    "topics": [
+      "atomic"
+    ]
+  },
+  {
+    "year": "01",
+    "question": "7",
+    "part": "b",
+    "topics": [
+      "atomic"
+    ]
+  },
+  {
+    "year": "01",
+    "question": "7",
+    "part": "c",
+    "topics": [
+      "atomic"
+    ]
+  },
+  {
+    "year": "01",
+    "question": "7",
+    "part": "d",
+    "topics": [
+      "atomic"
+    ]
+  },
+  {
+    "year": "02B",
+    "question": "1",
+    "part": "a",
+    "topics": [
+      "5.1"
+    ]
+  },
+  {
+    "year": "02B",
+    "question": "1",
+    "part": "b",
+    "topics": [
+      "5.4"
+    ]
+  },
+  {
+    "year": "02B",
+    "question": "1",
+    "part": "c",
+    "topics": [
+      "1.1"
+    ]
+  },
+  {
+    "year": "02B",
+    "question": "1",
+    "part": "d",
+    "topics": [
+      "1.1"
+    ]
+  },
+  {
+    "year": "02B",
+    "question": "1",
+    "part": "e",
+    "topics": [
+      "4.3"
+    ]
+  },
+  {
+    "year": "02B",
+    "question": "2",
+    "part": "a",
+    "topics": [
+      "2.5"
+    ]
+  },
+  {
+    "year": "02B",
+    "question": "2",
+    "part": "b",
+    "topics": [
+      "2.7"
+    ]
+  },
+  {
+    "year": "02B",
+    "question": "2",
+    "part": "c",
+    "topics": [
+      "3.6"
+    ]
+  },
+  {
+    "year": "02B",
+    "question": "2",
+    "part": "d",
+    "topics": [
+      "3.6"
+    ]
+  },
+  {
+    "year": "02B",
+    "question": "2",
+    "part": "e",
+    "topics": [
+      "3.6"
+    ]
+  },
+  {
+    "year": "02B",
+    "question": "3",
+    "part": "a",
+    "topics": [
+      "electronics"
+    ]
+  },
+  {
+    "year": "02B",
+    "question": "3",
+    "part": "b",
+    "topics": [
+      "electronics"
+    ]
+  },
+  {
+    "year": "02B",
+    "question": "3",
+    "part": "c",
+    "topics": [
+      "electronics"
+    ]
+  },
+  {
+    "year": "02B",
+    "question": "4",
+    "part": "a",
+    "topics": [
+      "optics"
+    ]
+  },
+  {
+    "year": "02B",
+    "question": "4",
+    "part": "b",
+    "topics": [
+      "optics"
+    ]
+  },
+  {
+    "year": "02B",
+    "question": "4",
+    "part": "c",
+    "topics": [
+      "optics"
+    ]
+  },
+  {
+    "year": "02B",
+    "question": "4",
+    "part": "d",
+    "topics": [
+      "optics"
+    ]
+  },
+  {
+    "year": "02B",
+    "question": "4",
+    "part": "e",
+    "topics": [
+      "optics"
+    ]
+  },
+  {
+    "year": "02B",
+    "question": "5",
+    "part": "a",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "02B",
+    "question": "5",
+    "part": "b",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "02B",
+    "question": "5",
+    "part": "c",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "02B",
+    "question": "5",
+    "part": "d",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "02B",
+    "question": "5",
+    "part": "e",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "02B",
+    "question": "6",
+    "part": "a",
+    "topics": [
+      "thermodynamics"
+    ]
+  },
+  {
+    "year": "02B",
+    "question": "6",
+    "part": "b",
+    "topics": [
+      "thermodynamics"
+    ]
+  },
+  {
+    "year": "02B",
+    "question": "6",
+    "part": "c",
+    "topics": [
+      "thermodynamics"
+    ]
+  },
+  {
+    "year": "02B",
+    "question": "7",
+    "part": "a",
+    "topics": [
+      "atomic"
+    ]
+  },
+  {
+    "year": "02B",
+    "question": "7",
+    "part": "b",
+    "topics": [
+      "atomic"
+    ]
+  },
+  {
+    "year": "02B",
+    "question": "7",
+    "part": "c",
+    "topics": [
+      "atomic"
+    ]
+  },
+  {
+    "year": "02",
+    "question": "1",
+    "part": "a",
+    "topics": [
+      "2.5"
+    ]
+  },
+  {
+    "year": "02",
+    "question": "1",
+    "part": "b",
+    "topics": [
+      "5.1"
+    ]
+  },
+  {
+    "year": "02",
+    "question": "1",
+    "part": "c",
+    "topics": [
+      "4.3"
+    ]
+  },
+  {
+    "year": "02",
+    "question": "1",
+    "part": "d",
+    "topics": [
+      "1.1"
+    ]
+  },
+  {
+    "year": "02",
+    "question": "2",
+    "part": "a",
+    "topics": [
+      "6.2"
+    ]
+  },
+  {
+    "year": "02",
+    "question": "2",
+    "part": "b",
+    "topics": [
+      "6.2"
+    ]
+  },
+  {
+    "year": "02",
+    "question": "2",
+    "part": "c",
+    "topics": [
+      "4.3"
+    ]
+  },
+  {
+    "year": "02",
+    "question": "2",
+    "part": "d",
+    "topics": [
+      "4.3"
+    ]
+  },
+  {
+    "year": "02",
+    "question": "2",
+    "part": "e",
+    "topics": [
+      "4.3"
+    ]
+  },
+  {
+    "year": "02",
+    "question": "3",
+    "part": "a",
+    "topics": [
+      "electronics"
+    ]
+  },
+  {
+    "year": "02",
+    "question": "3",
+    "part": "b",
+    "topics": [
+      "electronics"
+    ]
+  },
+  {
+    "year": "02",
+    "question": "3",
+    "part": "c",
+    "topics": [
+      "electronics"
+    ]
+  },
+  {
+    "year": "02",
+    "question": "3",
+    "part": "d",
+    "topics": [
+      "electronics"
+    ]
+  },
+  {
+    "year": "02",
+    "question": "4",
+    "part": "a",
+    "topics": [
+      "optics"
+    ]
+  },
+  {
+    "year": "02",
+    "question": "4",
+    "part": "b",
+    "topics": [
+      "optics"
+    ]
+  },
+  {
+    "year": "02",
+    "question": "4",
+    "part": "c",
+    "topics": [
+      "optics"
+    ]
+  },
+  {
+    "year": "02",
+    "question": "4",
+    "part": "d",
+    "topics": [
+      "optics"
+    ]
+  },
+  {
+    "year": "02",
+    "question": "4",
+    "part": "e",
+    "topics": [
+      "optics"
+    ]
+  },
+  {
+    "year": "02",
+    "question": "5",
+    "part": "a",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "02",
+    "question": "5",
+    "part": "b",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "02",
+    "question": "5",
+    "part": "c",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "02",
+    "question": "5",
+    "part": "d",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "02",
+    "question": "6",
+    "part": "a",
+    "topics": [
+      "experiment"
+    ]
+  },
+  {
+    "year": "02",
+    "question": "6",
+    "part": "b",
+    "topics": [
+      "experiment"
+    ]
+  },
+  {
+    "year": "02",
+    "question": "6",
+    "part": "c",
+    "topics": [
+      "experiment"
+    ]
+  },
+  {
+    "year": "02",
+    "question": "6",
+    "part": "d",
+    "topics": [
+      "experiment"
+    ]
+  },
+  {
+    "year": "02",
+    "question": "7",
+    "part": "a",
+    "topics": [
+      "atomic"
+    ]
+  },
+  {
+    "year": "02",
+    "question": "7",
+    "part": "b",
+    "topics": [
+      "atomic"
+    ]
+  },
+  {
+    "year": "02",
+    "question": "7",
+    "part": "c",
+    "topics": [
+      "atomic"
+    ]
+  },
+  {
+    "year": "02",
+    "question": "7",
+    "part": "d",
+    "topics": [
+      "atomic"
+    ]
+  },
+  {
+    "year": "03B",
+    "question": "1",
+    "part": "a",
+    "topics": [
+      "2.5"
+    ]
+  },
+  {
+    "year": "03B",
+    "question": "1",
+    "part": "b",
+    "topics": [
+      "1.1"
+    ]
+  },
+  {
+    "year": "03B",
+    "question": "1",
+    "part": "c",
+    "topics": [
+      "2.6"
+    ]
+  },
+  {
+    "year": "03B",
+    "question": "1",
+    "part": "d",
+    "topics": [
+      "4.3"
+    ]
+  },
+  {
+    "year": "03B",
+    "question": "2",
+    "part": "a",
+    "topics": [
+      "circuits"
+    ]
+  },
+  {
+    "year": "03B",
+    "question": "2",
+    "part": "b",
+    "topics": [
+      "circuits"
+    ]
+  },
+  {
+    "year": "03B",
+    "question": "2",
+    "part": "c",
+    "topics": [
+      "circuits"
+    ]
+  },
+  {
+    "year": "03B",
+    "question": "2",
+    "part": "d",
+    "topics": [
+      "circuits"
+    ]
+  },
+  {
+    "year": "03B",
+    "question": "3",
+    "part": "a",
+    "topics": [
+      "optics"
+    ]
+  },
+  {
+    "year": "03B",
+    "question": "3",
+    "part": "b",
+    "topics": [
+      "optics"
+    ]
+  },
+  {
+    "year": "03B",
+    "question": "3",
+    "part": "c",
+    "topics": [
+      "optics"
+    ]
+  },
+  {
+    "year": "03B",
+    "question": "3",
+    "part": "d",
+    "topics": [
+      "optics"
+    ]
+  },
+  {
+    "year": "03B",
+    "question": "3",
+    "part": "e",
+    "topics": [
+      "optics"
+    ]
+  },
+  {
+    "year": "03B",
+    "question": "4",
+    "part": "a",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "03B",
+    "question": "4",
+    "part": "b",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "03B",
+    "question": "4",
+    "part": "c",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "03B",
+    "question": "4",
+    "part": "d",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "03B",
+    "question": "4",
+    "part": "e",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "03B",
+    "question": "5",
+    "part": "a",
+    "topics": [
+      "thermodynamics"
+    ]
+  },
+  {
+    "year": "03B",
+    "question": "5",
+    "part": "b",
+    "topics": [
+      "thermodynamics"
+    ]
+  },
+  {
+    "year": "03B",
+    "question": "5",
+    "part": "c",
+    "topics": [
+      "thermodynamics"
+    ]
+  },
+  {
+    "year": "03B",
+    "question": "5",
+    "part": "d",
+    "topics": [
+      "thermodynamics"
+    ]
+  },
+  {
+    "year": "03B",
+    "question": "5",
+    "part": "e",
+    "topics": [
+      "thermodynamics"
+    ]
+  },
+  {
+    "year": "03B",
+    "question": "6",
+    "part": "a",
+    "topics": [
+      "4.3"
+    ]
+  },
+  {
+    "year": "03B",
+    "question": "6",
+    "part": "b",
+    "topics": [
+      "4.3"
+    ]
+  },
+  {
+    "year": "03B",
+    "question": "7",
+    "part": "a",
+    "topics": [
+      "atomic"
+    ]
+  },
+  {
+    "year": "03B",
+    "question": "7",
+    "part": "b",
+    "topics": [
+      "atomic"
+    ]
+  },
+  {
+    "year": "03",
+    "question": "1",
+    "part": "a",
+    "topics": [
+      "2.5"
+    ]
+  },
+  {
+    "year": "03",
+    "question": "1",
+    "part": "b",
+    "topics": [
+      "2.6"
+    ]
+  },
+  {
+    "year": "03",
+    "question": "1",
+    "part": "c",
+    "topics": [
+      "2.6"
+    ]
+  },
+  {
+    "year": "03",
+    "question": "1",
+    "part": "d",
+    "topics": [
+      "2.6"
+    ]
+  },
+  {
+    "year": "03",
+    "question": "1",
+    "part": "e",
+    "topics": [
+      "2.6"
+    ]
+  },
+  {
+    "year": "03",
+    "question": "2",
+    "part": "a",
+    "topics": [
+      "circuits"
+    ]
+  },
+  {
+    "year": "03",
+    "question": "2",
+    "part": "b",
+    "topics": [
+      "circuits"
+    ]
+  },
+  {
+    "year": "03",
+    "question": "2",
+    "part": "c",
+    "topics": [
+      "circuits"
+    ]
+  },
+  {
+    "year": "03",
+    "question": "2",
+    "part": "d",
+    "topics": [
+      "circuits"
+    ]
+  },
+  {
+    "year": "03",
+    "question": "2",
+    "part": "e",
+    "topics": [
+      "circuits"
+    ]
+  },
+  {
+    "year": "03",
+    "question": "3",
+    "part": "a",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "03",
+    "question": "3",
+    "part": "b",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "03",
+    "question": "3",
+    "part": "c",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "03",
+    "question": "3",
+    "part": "d",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "03",
+    "question": "3",
+    "part": "e",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "03",
+    "question": "4",
+    "part": "a",
+    "topics": [
+      "experiment",
+      "optics"
+    ]
+  },
+  {
+    "year": "03",
+    "question": "4",
+    "part": "b",
+    "topics": [
+      "experiment",
+      "optics"
+    ]
+  },
+  {
+    "year": "03",
+    "question": "4",
+    "part": "c",
+    "topics": [
+      "optics"
+    ]
+  },
+  {
+    "year": "03",
+    "question": "4",
+    "part": "d",
+    "topics": [
+      "optics"
+    ]
+  },
+  {
+    "year": "03",
+    "question": "4",
+    "part": "e",
+    "topics": [
+      "optics"
+    ]
+  },
+  {
+    "year": "03",
+    "question": "5",
+    "part": "a",
+    "topics": [
+      "thermodynamics"
+    ]
+  },
+  {
+    "year": "03",
+    "question": "5",
+    "part": "b",
+    "topics": [
+      "thermodynamics"
+    ]
+  },
+  {
+    "year": "03",
+    "question": "5",
+    "part": "c",
+    "topics": [
+      "thermodynamics"
+    ]
+  },
+  {
+    "year": "03",
+    "question": "5",
+    "part": "d",
+    "topics": [
+      "thermodynamics"
+    ]
+  },
+  {
+    "year": "03",
+    "question": "6",
+    "part": "a",
+    "topics": [
+      "fluids"
+    ]
+  },
+  {
+    "year": "03",
+    "question": "6",
+    "part": "b",
+    "topics": [
+      "fluids"
+    ]
+  },
+  {
+    "year": "03",
+    "question": "6",
+    "part": "c",
+    "topics": [
+      "fluids"
+    ]
+  },
+  {
+    "year": "03",
+    "question": "6",
+    "part": "d",
+    "topics": [
+      "2.7"
+    ]
+  },
+  {
+    "year": "03",
+    "question": "7",
+    "part": "a",
+    "topics": [
+      "atomic"
+    ]
+  },
+  {
+    "year": "03",
+    "question": "7",
+    "part": "b",
+    "topics": [
+      "atomic"
+    ]
+  },
+  {
+    "year": "03",
+    "question": "7",
+    "part": "c",
+    "topics": [
+      "atomic"
+    ]
+  },
+  {
+    "year": "03",
+    "question": "7",
+    "part": "d",
+    "topics": [
+      "atomic"
+    ]
+  },
+  {
+    "year": "04B",
+    "question": "1",
+    "part": "a",
+    "topics": [
+      "3.6",
+      "4.3"
+    ]
+  },
+  {
+    "year": "04B",
+    "question": "1",
+    "part": "b",
+    "topics": [
+      "2.5"
+    ]
+  },
+  {
+    "year": "04B",
+    "question": "1",
+    "part": "c",
+    "topics": [
+      "3.6"
+    ]
+  },
+  {
+    "year": "04B",
+    "question": "1",
+    "part": "d",
+    "topics": [
+      "4.3"
+    ]
+  },
+  {
+    "year": "04B",
+    "question": "1",
+    "part": "e",
+    "topics": [
+      "3.6"
+    ]
+  },
+  {
+    "year": "04B",
+    "question": "2",
+    "part": "a",
+    "topics": [
+      "fluids"
+    ]
+  },
+  {
+    "year": "04B",
+    "question": "2",
+    "part": "b",
+    "topics": [
+      "fluids"
+    ]
+  },
+  {
+    "year": "04B",
+    "question": "2",
+    "part": "c",
+    "topics": [
+      "fluids"
+    ]
+  },
+  {
+    "year": "04B",
+    "question": "2",
+    "part": "d",
+    "topics": [
+      "fluids"
+    ]
+  },
+  {
+    "year": "04B",
+    "question": "2",
+    "part": "e",
+    "topics": [
+      "fluids"
+    ]
+  },
+  {
+    "year": "04B",
+    "question": "3",
+    "part": "a",
+    "topics": [
+      "waves"
+    ]
+  },
+  {
+    "year": "04B",
+    "question": "3",
+    "part": "b",
+    "topics": [
+      "waves"
+    ]
+  },
+  {
+    "year": "04B",
+    "question": "3",
+    "part": "c",
+    "topics": [
+      "waves"
+    ]
+  },
+  {
+    "year": "04B",
+    "question": "3",
+    "part": "d",
+    "topics": [
+      "waves"
+    ]
+  },
+  {
+    "year": "04B",
+    "question": "3",
+    "part": "e",
+    "topics": [
+      "waves"
+    ]
+  },
+  {
+    "year": "04B",
+    "question": "4",
+    "part": "a",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "04B",
+    "question": "4",
+    "part": "b",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "04B",
+    "question": "4",
+    "part": "c",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "04B",
+    "question": "4",
+    "part": "d",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "04B",
+    "question": "4",
+    "part": "e",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "04B",
+    "question": "5",
+    "part": "a",
+    "topics": [
+      "thermodynamics"
+    ]
+  },
+  {
+    "year": "04B",
+    "question": "5",
+    "part": "b",
+    "topics": [
+      "thermodynamics"
+    ]
+  },
+  {
+    "year": "04B",
+    "question": "5",
+    "part": "c",
+    "topics": [
+      "thermodynamics"
+    ]
+  },
+  {
+    "year": "04B",
+    "question": "5",
+    "part": "d",
+    "topics": [
+      "thermodynamics"
+    ]
+  },
+  {
+    "year": "04B",
+    "question": "6",
+    "part": "a",
+    "topics": [
+      "experiment"
+    ]
+  },
+  {
+    "year": "04B",
+    "question": "6",
+    "part": "b",
+    "topics": [
+      "atomic"
+    ]
+  },
+  {
+    "year": "04B",
+    "question": "6",
+    "part": "c",
+    "topics": [
+      "atomic"
+    ]
+  },
+  {
+    "year": "04B",
+    "question": "6",
+    "part": "d",
+    "topics": [
+      "atomic"
+    ]
+  },
+  {
+    "year": "04",
+    "question": "1",
+    "part": "a",
+    "topics": [
+      "4.3"
+    ]
+  },
+  {
+    "year": "04",
+    "question": "1",
+    "part": "b",
+    "topics": [
+      "4.3"
+    ]
+  },
+  {
+    "year": "04",
+    "question": "1",
+    "part": "c",
+    "topics": [
+      "3.6"
+    ]
+  },
+  {
+    "year": "04",
+    "question": "1",
+    "part": "d",
+    "topics": [
+      "3.6"
+    ]
+  },
+  {
+    "year": "04",
+    "question": "2",
+    "part": "a",
+    "topics": [
+      "fluids"
+    ]
+  },
+  {
+    "year": "04",
+    "question": "2",
+    "part": "b",
+    "topics": [
+      "fluids"
+    ]
+  },
+  {
+    "year": "04",
+    "question": "2",
+    "part": "c",
+    "topics": [
+      "fluids"
+    ]
+  },
+  {
+    "year": "04",
+    "question": "2",
+    "part": "d",
+    "topics": [
+      "1.1"
+    ]
+  },
+  {
+    "year": "04",
+    "question": "2",
+    "part": "e",
+    "topics": [
+      "1.1"
+    ]
+  },
+  {
+    "year": "04",
+    "question": "2",
+    "part": "f",
+    "topics": [
+      "1.1"
+    ]
+  },
+  {
+    "year": "04",
+    "question": "3",
+    "part": "a",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "04",
+    "question": "3",
+    "part": "b",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "04",
+    "question": "3",
+    "part": "c",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "04",
+    "question": "3",
+    "part": "d",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "04",
+    "question": "4",
+    "part": "a",
+    "topics": [
+      "waves"
+    ]
+  },
+  {
+    "year": "04",
+    "question": "4",
+    "part": "b",
+    "topics": [
+      "waves"
+    ]
+  },
+  {
+    "year": "04",
+    "question": "4",
+    "part": "c",
+    "topics": [
+      "waves"
+    ]
+  },
+  {
+    "year": "04",
+    "question": "4",
+    "part": "d",
+    "topics": [
+      "waves"
+    ]
+  },
+  {
+    "year": "04",
+    "question": "5",
+    "part": "a",
+    "topics": [
+      "thermodynamics"
+    ]
+  },
+  {
+    "year": "04",
+    "question": "5",
+    "part": "b",
+    "topics": [
+      "thermodynamics"
+    ]
+  },
+  {
+    "year": "04",
+    "question": "5",
+    "part": "c",
+    "topics": [
+      "thermodynamics"
+    ]
+  },
+  {
+    "year": "04",
+    "question": "6",
+    "part": "a",
+    "topics": [
+      "electronics"
+    ]
+  },
+  {
+    "year": "04",
+    "question": "6",
+    "part": "b",
+    "topics": [
+      "experiment"
+    ]
+  },
+  {
+    "year": "04",
+    "question": "6",
+    "part": "c",
+    "topics": [
+      "atomic"
+    ]
+  },
+  {
+    "year": "04",
+    "question": "6",
+    "part": "d",
+    "topics": [
+      "atomic"
+    ]
+  },
+  {
+    "year": "05B",
+    "question": "1",
+    "part": "a",
+    "topics": [
+      "2.5"
+    ]
+  },
+  {
+    "year": "05B",
+    "question": "1",
+    "part": "b",
+    "topics": [
+      "2.7"
+    ]
+  },
+  {
+    "year": "05B",
+    "question": "1",
+    "part": "c",
+    "topics": [
+      "2.7"
+    ]
+  },
+  {
+    "year": "05B",
+    "question": "1",
+    "part": "d",
+    "topics": [
+      "1.1"
+    ]
+  },
+  {
+    "year": "05B",
+    "question": "2",
+    "part": "a",
+    "topics": [
+      "3.7"
+    ]
+  },
+  {
+    "year": "05B",
+    "question": "2",
+    "part": "b",
+    "topics": [
+      "3.6"
+    ]
+  },
+  {
+    "year": "05B",
+    "question": "2",
+    "part": "c",
+    "topics": [
+      "3.6"
+    ]
+  },
+  {
+    "year": "05B",
+    "question": "2",
+    "part": "d",
+    "topics": [
+      "6.1"
+    ]
+  },
+  {
+    "year": "05B",
+    "question": "3",
+    "part": "a",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "05B",
+    "question": "3",
+    "part": "b",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "05B",
+    "question": "3",
+    "part": "c",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "05B",
+    "question": "3",
+    "part": "d",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "05B",
+    "question": "4",
+    "part": "a",
+    "topics": [
+      "waves",
+      "experiment"
+    ]
+  },
+  {
+    "year": "05B",
+    "question": "4",
+    "part": "b",
+    "topics": [
+      "waves",
+      "experiment"
+    ]
+  },
+  {
+    "year": "05B",
+    "question": "4",
+    "part": "c",
+    "topics": [
+      "waves",
+      "experiment"
+    ]
+  },
+  {
+    "year": "05B",
+    "question": "4",
+    "part": "d",
+    "topics": [
+      "waves",
+      "experiment"
+    ]
+  },
+  {
+    "year": "05B",
+    "question": "4",
+    "part": "e",
+    "topics": [
+      "waves",
+      "experiment"
+    ]
+  },
+  {
+    "year": "05B",
+    "question": "5",
+    "part": "a",
+    "topics": [
+      "fluids"
+    ]
+  },
+  {
+    "year": "05B",
+    "question": "5",
+    "part": "b",
+    "topics": [
+      "fluids"
+    ]
+  },
+  {
+    "year": "05B",
+    "question": "5",
+    "part": "c",
+    "topics": [
+      "fluids"
+    ]
+  },
+  {
+    "year": "05B",
+    "question": "6",
+    "part": "a",
+    "topics": [
+      "thermodynamics"
+    ]
+  },
+  {
+    "year": "05B",
+    "question": "6",
+    "part": "b",
+    "topics": [
+      "thermodynamics"
+    ]
+  },
+  {
+    "year": "05B",
+    "question": "6",
+    "part": "c",
+    "topics": [
+      "thermodynamics",
+      "experiment"
+    ]
+  },
+  {
+    "year": "05B",
+    "question": "6",
+    "part": "d",
+    "topics": [
+      "thermodynamics",
+      "experiment"
+    ]
+  },
+  {
+    "year": "05B",
+    "question": "7",
+    "part": "a",
+    "topics": [
+      "atomic"
+    ]
+  },
+  {
+    "year": "05B",
+    "question": "7",
+    "part": "b",
+    "topics": [
+      "atomic"
+    ]
+  },
+  {
+    "year": "05B",
+    "question": "7",
+    "part": "c",
+    "topics": [
+      "atomic"
+    ]
+  },
+  {
+    "year": "05B",
+    "question": "7",
+    "part": "d",
+    "topics": [
+      "atomic"
+    ]
+  },
+  {
+    "year": "05",
+    "question": "1",
+    "part": "a",
+    "topics": [
+      "1.1"
+    ]
+  },
+  {
+    "year": "05",
+    "question": "1",
+    "part": "b",
+    "topics": [
+      "1.2"
+    ]
+  },
+  {
+    "year": "05",
+    "question": "1",
+    "part": "c",
+    "topics": [
+      "2.7"
+    ]
+  },
+  {
+    "year": "05",
+    "question": "2",
+    "part": "a",
+    "topics": [
+      "3.7"
+    ]
+  },
+  {
+    "year": "05",
+    "question": "2",
+    "part": "b",
+    "topics": [
+      "3.8"
+    ]
+  },
+  {
+    "year": "05",
+    "question": "2",
+    "part": "c",
+    "topics": [
+      "4.3"
+    ]
+  },
+  {
+    "year": "05",
+    "question": "3",
+    "part": "a",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "05",
+    "question": "3",
+    "part": "b",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "05",
+    "question": "3",
+    "part": "c",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "05",
+    "question": "3",
+    "part": "d",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "05",
+    "question": "4",
+    "part": "a",
+    "topics": [
+      "waves",
+      "experiment"
+    ]
+  },
+  {
+    "year": "05",
+    "question": "4",
+    "part": "b",
+    "topics": [
+      "waves",
+      "experiment"
+    ]
+  },
+  {
+    "year": "05",
+    "question": "4",
+    "part": "c",
+    "topics": [
+      "waves",
+      "experiment"
+    ]
+  },
+  {
+    "year": "05",
+    "question": "4",
+    "part": "d",
+    "topics": [
+      "waves",
+      "experiment"
+    ]
+  },
+  {
+    "year": "05",
+    "question": "4",
+    "part": "e",
+    "topics": [
+      "waves",
+      "experiment"
+    ]
+  },
+  {
+    "year": "05",
+    "question": "5",
+    "part": "a",
+    "topics": [
+      "fluids"
+    ]
+  },
+  {
+    "year": "05",
+    "question": "5",
+    "part": "b",
+    "topics": [
+      "fluids"
+    ]
+  },
+  {
+    "year": "05",
+    "question": "5",
+    "part": "c",
+    "topics": [
+      "fluids"
+    ]
+  },
+  {
+    "year": "05",
+    "question": "6",
+    "part": "a",
+    "topics": [
+      "thermodynamics"
+    ]
+  },
+  {
+    "year": "05",
+    "question": "6",
+    "part": "b",
+    "topics": [
+      "thermodynamics",
+      "experiment"
+    ]
+  },
+  {
+    "year": "05",
+    "question": "6",
+    "part": "c",
+    "topics": [
+      "thermodynamics",
+      "experiment"
+    ]
+  },
+  {
+    "year": "05",
+    "question": "7",
+    "part": "a",
+    "topics": [
+      "atomic"
+    ]
+  },
+  {
+    "year": "05",
+    "question": "7",
+    "part": "b",
+    "topics": [
+      "atomic"
+    ]
+  },
+  {
+    "year": "05",
+    "question": "7",
+    "part": "c",
+    "topics": [
+      "atomic"
+    ]
+  },
+  {
+    "year": "05",
+    "question": "7",
+    "part": "d",
+    "topics": [
+      "atomic"
+    ]
+  },
+  {
+    "year": "06B",
+    "question": "1",
+    "part": "a",
+    "topics": [
+      "experiment"
+    ]
+  },
+  {
+    "year": "06B",
+    "question": "1",
+    "part": "b",
+    "topics": [
+      "1.2",
+      "experiment"
+    ]
+  },
+  {
+    "year": "06B",
+    "question": "1",
+    "part": "c",
+    "topics": [
+      "1.2",
+      "experiment"
+    ]
+  },
+  {
+    "year": "06B",
+    "question": "1",
+    "part": "d",
+    "topics": [
+      "1.2",
+      "experiment"
+    ]
+  },
+  {
+    "year": "06B",
+    "question": "1",
+    "part": "e",
+    "topics": [
+      "1.2",
+      "experiment"
+    ]
+  },
+  {
+    "year": "06B",
+    "question": "2",
+    "part": "a",
+    "topics": [
+      "4.3"
+    ]
+  },
+  {
+    "year": "06B",
+    "question": "2",
+    "part": "b",
+    "topics": [
+      "5.4"
+    ]
+  },
+  {
+    "year": "06B",
+    "question": "2",
+    "part": "c",
+    "topics": [
+      "2.7"
+    ]
+  },
+  {
+    "year": "06B",
+    "question": "2",
+    "part": "d",
+    "topics": [
+      "5.4"
+    ]
+  },
+  {
+    "year": "06B",
+    "question": "3",
+    "part": "a",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "06B",
+    "question": "3",
+    "part": "b",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "06B",
+    "question": "3",
+    "part": "c",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "06B",
+    "question": "3",
+    "part": "d",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "06B",
+    "question": "3",
+    "part": "e",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "06B",
+    "question": "4",
+    "part": "a",
+    "topics": [
+      "optics"
+    ]
+  },
+  {
+    "year": "06B",
+    "question": "4",
+    "part": "b",
+    "topics": [
+      "optics"
+    ]
+  },
+  {
+    "year": "06B",
+    "question": "4",
+    "part": "c",
+    "topics": [
+      "waves"
+    ]
+  },
+  {
+    "year": "06B",
+    "question": "5",
+    "part": "a",
+    "topics": [
+      "thermodynamics"
+    ]
+  },
+  {
+    "year": "06B",
+    "question": "5",
+    "part": "b",
+    "topics": [
+      "thermodynamics"
+    ]
+  },
+  {
+    "year": "06B",
+    "question": "5",
+    "part": "c",
+    "topics": [
+      "thermodynamics"
+    ]
+  },
+  {
+    "year": "06B",
+    "question": "6",
+    "part": "a",
+    "topics": [
+      "atomic"
+    ]
+  },
+  {
+    "year": "06B",
+    "question": "6",
+    "part": "b",
+    "topics": [
+      "atomic"
+    ]
+  },
+  {
+    "year": "06B",
+    "question": "6",
+    "part": "c",
+    "topics": [
+      "atomic"
+    ]
+  },
+  {
+    "year": "06B",
+    "question": "6",
+    "part": "d",
+    "topics": [
+      "atomic"
+    ]
+  },
+  {
+    "year": "06B",
+    "question": "6",
+    "part": "e",
+    "topics": [
+      "atomic"
+    ]
+  },
+  {
+    "year": "06",
+    "question": "1",
+    "part": "a",
+    "topics": [
+      "2.5"
+    ]
+  },
+  {
+    "year": "06",
+    "question": "1",
+    "part": "b",
+    "topics": [
+      "2.7"
+    ]
+  },
+  {
+    "year": "06",
+    "question": "1",
+    "part": "c",
+    "topics": [
+      "2.7"
+    ]
+  },
+  {
+    "year": "06",
+    "question": "1",
+    "part": "d",
+    "topics": [
+      "1.1"
+    ]
+  },
+  {
+    "year": "06",
+    "question": "1",
+    "part": "e",
+    "topics": [
+      "6.1"
+    ]
+  },
+  {
+    "year": "06",
+    "question": "1",
+    "part": "f",
+    "topics": [
+      "6.2"
+    ]
+  },
+  {
+    "year": "06",
+    "question": "2",
+    "part": "a",
+    "topics": [
+      "1.1",
+      "experiment"
+    ]
+  },
+  {
+    "year": "06",
+    "question": "2",
+    "part": "b",
+    "topics": [
+      "1.1",
+      "experiment"
+    ]
+  },
+  {
+    "year": "06",
+    "question": "2",
+    "part": "c",
+    "topics": [
+      "1.1",
+      "experiment"
+    ]
+  },
+  {
+    "year": "06",
+    "question": "3",
+    "part": "a",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "06",
+    "question": "3",
+    "part": "b",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "06",
+    "question": "3",
+    "part": "c",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "06",
+    "question": "3",
+    "part": "d",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "06",
+    "question": "3",
+    "part": "e",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "06",
+    "question": "4",
+    "part": "a",
+    "topics": [
+      "optics",
+      "experiment"
+    ]
+  },
+  {
+    "year": "06",
+    "question": "4",
+    "part": "b",
+    "topics": [
+      "optics",
+      "experiment"
+    ]
+  },
+  {
+    "year": "06",
+    "question": "4",
+    "part": "c",
+    "topics": [
+      "optics",
+      "experiment"
+    ]
+  },
+  {
+    "year": "06",
+    "question": "4",
+    "part": "d",
+    "topics": [
+      "optics"
+    ]
+  },
+  {
+    "year": "06",
+    "question": "4",
+    "part": "e",
+    "topics": [
+      "optics"
+    ]
+  },
+  {
+    "year": "06",
+    "question": "5",
+    "part": "a",
+    "topics": [
+      "thermodynamics"
+    ]
+  },
+  {
+    "year": "06",
+    "question": "5",
+    "part": "b",
+    "topics": [
+      "thermodynamics"
+    ]
+  },
+  {
+    "year": "06",
+    "question": "5",
+    "part": "c",
+    "topics": [
+      "thermodynamics"
+    ]
+  },
+  {
+    "year": "06",
+    "question": "6",
+    "part": "a",
+    "topics": [
+      "atomic"
+    ]
+  },
+  {
+    "year": "06",
+    "question": "6",
+    "part": "b",
+    "topics": [
+      "atomic"
+    ]
+  },
+  {
+    "year": "06",
+    "question": "6",
+    "part": "c",
+    "topics": [
+      "atomic"
+    ]
+  },
+  {
+    "year": "07B",
+    "question": "1",
+    "part": "a",
+    "topics": [
+      "2.5"
+    ]
+  },
+  {
+    "year": "07B",
+    "question": "1",
+    "part": "b",
+    "topics": [
+      "2.7"
+    ]
+  },
+  {
+    "year": "07B",
+    "question": "1",
+    "part": "c",
+    "topics": [
+      "2.7"
+    ]
+  },
+  {
+    "year": "07B",
+    "question": "1",
+    "part": "d",
+    "topics": [
+      "4.2"
+    ]
+  },
+  {
+    "year": "07B",
+    "question": "1",
+    "part": "e",
+    "topics": [
+      "5.4"
+    ]
+  },
+  {
+    "year": "07B",
+    "question": "2",
+    "part": "a",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "07B",
+    "question": "2",
+    "part": "b",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "07B",
+    "question": "2",
+    "part": "c",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "07B",
+    "question": "2",
+    "part": "d",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "07B",
+    "question": "3",
+    "part": "a",
+    "topics": [
+      "circuits"
+    ]
+  },
+  {
+    "year": "07B",
+    "question": "3",
+    "part": "b",
+    "topics": [
+      "circuits"
+    ]
+  },
+  {
+    "year": "07B",
+    "question": "3",
+    "part": "c",
+    "topics": [
+      "circuits"
+    ]
+  },
+  {
+    "year": "07B",
+    "question": "3",
+    "part": "d",
+    "topics": [
+      "circuits"
+    ]
+  },
+  {
+    "year": "07B",
+    "question": "3",
+    "part": "e",
+    "topics": [
+      "circuits"
+    ]
+  },
+  {
+    "year": "07B",
+    "question": "4",
+    "part": "a",
+    "topics": [
+      "fluids"
+    ]
+  },
+  {
+    "year": "07B",
+    "question": "4",
+    "part": "b",
+    "topics": [
+      "fluids"
+    ]
+  },
+  {
+    "year": "07B",
+    "question": "4",
+    "part": "c",
+    "topics": [
+      "fluids"
+    ]
+  },
+  {
+    "year": "07B",
+    "question": "4",
+    "part": "d",
+    "topics": [
+      "fluids"
+    ]
+  },
+  {
+    "year": "07B",
+    "question": "5",
+    "part": "a",
+    "topics": [
+      "thermodynamics"
+    ]
+  },
+  {
+    "year": "07B",
+    "question": "5",
+    "part": "b",
+    "topics": [
+      "thermodynamics"
+    ]
+  },
+  {
+    "year": "07B",
+    "question": "5",
+    "part": "c",
+    "topics": [
+      "thermodynamics"
+    ]
+  },
+  {
+    "year": "07B",
+    "question": "6",
+    "part": "a",
+    "topics": [
+      "optics",
+      "experiment"
+    ]
+  },
+  {
+    "year": "07B",
+    "question": "6",
+    "part": "b",
+    "topics": [
+      "optics",
+      "experiment"
+    ]
+  },
+  {
+    "year": "07B",
+    "question": "6",
+    "part": "c",
+    "topics": [
+      "optics",
+      "experiment"
+    ]
+  },
+  {
+    "year": "07B",
+    "question": "6",
+    "part": "d",
+    "topics": [
+      "optics",
+      "experiment"
+    ]
+  },
+  {
+    "year": "07B",
+    "question": "7",
+    "part": "a",
+    "topics": [
+      "atomic"
+    ]
+  },
+  {
+    "year": "07B",
+    "question": "7",
+    "part": "b",
+    "topics": [
+      "atomic"
+    ]
+  },
+  {
+    "year": "07B",
+    "question": "7",
+    "part": "c",
+    "topics": [
+      "atomic"
+    ]
+  },
+  {
+    "year": "07B",
+    "question": "7",
+    "part": "d",
+    "topics": [
+      "atomic"
+    ]
+  },
+  {
+    "year": "07",
+    "question": "1",
+    "part": "a",
+    "topics": [
+      "1.1"
+    ]
+  },
+  {
+    "year": "07",
+    "question": "1",
+    "part": "b",
+    "topics": [
+      "2.5"
+    ]
+  },
+  {
+    "year": "07",
+    "question": "1",
+    "part": "c",
+    "topics": [
+      "2.7"
+    ]
+  },
+  {
+    "year": "07",
+    "question": "1",
+    "part": "d",
+    "topics": [
+      "2.7"
+    ]
+  },
+  {
+    "year": "07",
+    "question": "1",
+    "part": "e",
+    "topics": [
+      "2.7"
+    ]
+  },
+  {
+    "year": "07",
+    "question": "2",
+    "part": "a",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "07",
+    "question": "2",
+    "part": "b",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "07",
+    "question": "2",
+    "part": "c",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "07",
+    "question": "2",
+    "part": "d",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "07",
+    "question": "3",
+    "part": "a",
+    "topics": [
+      "circuits"
+    ]
+  },
+  {
+    "year": "07",
+    "question": "3",
+    "part": "b",
+    "topics": [
+      "circuits"
+    ]
+  },
+  {
+    "year": "07",
+    "question": "3",
+    "part": "c",
+    "topics": [
+      "circuits"
+    ]
+  },
+  {
+    "year": "07",
+    "question": "3",
+    "part": "d",
+    "topics": [
+      "circuits"
+    ]
+  },
+  {
+    "year": "07",
+    "question": "3",
+    "part": "e",
+    "topics": [
+      "circuits"
+    ]
+  },
+  {
+    "year": "07",
+    "question": "4",
+    "part": "a",
+    "topics": [
+      "fluids"
+    ]
+  },
+  {
+    "year": "07",
+    "question": "4",
+    "part": "b",
+    "topics": [
+      "fluids"
+    ]
+  },
+  {
+    "year": "07",
+    "question": "4",
+    "part": "c",
+    "topics": [
+      "fluids"
+    ]
+  },
+  {
+    "year": "07",
+    "question": "4",
+    "part": "d",
+    "topics": [
+      "fluids"
+    ]
+  },
+  {
+    "year": "07",
+    "question": "5",
+    "part": "a",
+    "topics": [
+      "thermodynamics"
+    ]
+  },
+  {
+    "year": "07",
+    "question": "5",
+    "part": "b",
+    "topics": [
+      "thermodynamics"
+    ]
+  },
+  {
+    "year": "07",
+    "question": "5",
+    "part": "c",
+    "topics": [
+      "thermodynamics"
+    ]
+  },
+  {
+    "year": "07",
+    "question": "5",
+    "part": "d",
+    "topics": [
+      "thermodynamics"
+    ]
+  },
+  {
+    "year": "07",
+    "question": "6",
+    "part": "a",
+    "topics": [
+      "optics",
+      "experiment"
+    ]
+  },
+  {
+    "year": "07",
+    "question": "6",
+    "part": "b",
+    "topics": [
+      "optics",
+      "experiment"
+    ]
+  },
+  {
+    "year": "07",
+    "question": "6",
+    "part": "c",
+    "topics": [
+      "optics",
+      "experiment"
+    ]
+  },
+  {
+    "year": "07",
+    "question": "6",
+    "part": "d",
+    "topics": [
+      "optics",
+      "experiment"
+    ]
+  },
+  {
+    "year": "07",
+    "question": "6",
+    "part": "e",
+    "topics": [
+      "optics",
+      "experiment"
+    ]
+  },
+  {
+    "year": "07",
+    "question": "7",
+    "part": "a",
+    "topics": [
+      "atomic"
+    ]
+  },
+  {
+    "year": "07",
+    "question": "7",
+    "part": "b",
+    "topics": [
+      "atomic"
+    ]
+  },
+  {
+    "year": "07",
+    "question": "7",
+    "part": "c",
+    "topics": [
+      "atomic"
+    ]
+  },
+  {
+    "year": "07",
+    "question": "7",
+    "part": "d",
+    "topics": [
+      "atomic"
+    ]
+  },
+  {
+    "year": "07",
+    "question": "7",
+    "part": "e",
+    "topics": [
+      "atomic"
+    ]
+  },
+  {
+    "year": "08B",
+    "question": "1",
+    "part": "a",
+    "topics": [
+      "5.4"
+    ]
+  },
+  {
+    "year": "08B",
+    "question": "1",
+    "part": "b",
+    "topics": [
+      "5.1"
+    ]
+  },
+  {
+    "year": "08B",
+    "question": "1",
+    "part": "c",
+    "topics": [
+      "2.5"
+    ]
+  },
+  {
+    "year": "08B",
+    "question": "1",
+    "part": "d",
+    "topics": [
+      "2.7"
+    ]
+  },
+  {
+    "year": "08B",
+    "question": "2",
+    "part": "a",
+    "topics": [
+      "1.1"
+    ]
+  },
+  {
+    "year": "08B",
+    "question": "2",
+    "part": "b",
+    "topics": [
+      "2.5"
+    ]
+  },
+  {
+    "year": "08B",
+    "question": "2",
+    "part": "c",
+    "topics": [
+      "2.7"
+    ]
+  },
+  {
+    "year": "08B",
+    "question": "2",
+    "part": "d",
+    "topics": [
+      "2.3"
+    ]
+  },
+  {
+    "year": "08B",
+    "question": "2",
+    "part": "e",
+    "topics": [
+      "2.7"
+    ]
+  },
+  {
+    "year": "08B",
+    "question": "3",
+    "part": "a",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "08B",
+    "question": "3",
+    "part": "b",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "08B",
+    "question": "3",
+    "part": "c",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "08B",
+    "question": "3",
+    "part": "d",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "08B",
+    "question": "3",
+    "part": "e",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "08B",
+    "question": "3",
+    "part": "f",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "08B",
+    "question": "4",
+    "part": "a",
+    "topics": [
+      "fluids"
+    ]
+  },
+  {
+    "year": "08B",
+    "question": "4",
+    "part": "b",
+    "topics": [
+      "fluids"
+    ]
+  },
+  {
+    "year": "08B",
+    "question": "4",
+    "part": "c",
+    "topics": [
+      "fluids"
+    ]
+  },
+  {
+    "year": "08B",
+    "question": "5",
+    "part": "a",
+    "topics": [
+      "optics"
+    ]
+  },
+  {
+    "year": "08B",
+    "question": "5",
+    "part": "b",
+    "topics": [
+      "optics"
+    ]
+  },
+  {
+    "year": "08B",
+    "question": "5",
+    "part": "c",
+    "topics": [
+      "optics"
+    ]
+  },
+  {
+    "year": "08B",
+    "question": "5",
+    "part": "d",
+    "topics": [
+      "optics"
+    ]
+  },
+  {
+    "year": "08B",
+    "question": "6",
+    "part": "a",
+    "topics": [
+      "thermodynamics"
+    ]
+  },
+  {
+    "year": "08B",
+    "question": "6",
+    "part": "b",
+    "topics": [
+      "thermodynamics"
+    ]
+  },
+  {
+    "year": "08B",
+    "question": "6",
+    "part": "c",
+    "topics": [
+      "thermodynamics"
+    ]
+  },
+  {
+    "year": "08B",
+    "question": "6",
+    "part": "d",
+    "topics": [
+      "thermodynamics"
+    ]
+  },
+  {
+    "year": "08B",
+    "question": "7",
+    "part": "a",
+    "topics": [
+      "atomic"
+    ]
+  },
+  {
+    "year": "08B",
+    "question": "7",
+    "part": "b",
+    "topics": [
+      "atomic"
+    ]
+  },
+  {
+    "year": "08B",
+    "question": "7",
+    "part": "c",
+    "topics": [
+      "atomic"
+    ]
+  },
+  {
+    "year": "08B",
+    "question": "7",
+    "part": "d",
+    "topics": [
+      "atomic"
+    ]
+  },
+  {
+    "year": "08",
+    "question": "1",
+    "part": "a",
+    "topics": [
+      "1.1"
+    ]
+  },
+  {
+    "year": "08",
+    "question": "1",
+    "part": "b",
+    "topics": [
+      "5.4"
+    ]
+  },
+  {
+    "year": "08",
+    "question": "1",
+    "part": "c",
+    "topics": [
+      "5.4",
+      "4.3"
+    ]
+  },
+  {
+    "year": "08",
+    "question": "2",
+    "part": "a",
+    "topics": [
+      "2.7"
+    ]
+  },
+  {
+    "year": "08",
+    "question": "2",
+    "part": "b",
+    "topics": [
+      "2.7"
+    ]
+  },
+  {
+    "year": "08",
+    "question": "2",
+    "part": "c",
+    "topics": [
+      "2.7"
+    ]
+  },
+  {
+    "year": "08",
+    "question": "2",
+    "part": "d",
+    "topics": [
+      "2.7"
+    ]
+  },
+  {
+    "year": "08",
+    "question": "2",
+    "part": "e",
+    "topics": [
+      "4.3"
+    ]
+  },
+  {
+    "year": "08",
+    "question": "3",
+    "part": "a",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "08",
+    "question": "3",
+    "part": "b",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "08",
+    "question": "3",
+    "part": "c",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "08",
+    "question": "3",
+    "part": "d",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "08",
+    "question": "3",
+    "part": "e",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "08",
+    "question": "4",
+    "part": "a",
+    "topics": [
+      "fluids"
+    ]
+  },
+  {
+    "year": "08",
+    "question": "4",
+    "part": "b",
+    "topics": [
+      "fluids"
+    ]
+  },
+  {
+    "year": "08",
+    "question": "4",
+    "part": "c",
+    "topics": [
+      "fluids"
+    ]
+  },
+  {
+    "year": "08",
+    "question": "5",
+    "part": "a",
+    "topics": [
+      "thermodynamics"
+    ]
+  },
+  {
+    "year": "08",
+    "question": "5",
+    "part": "b",
+    "topics": [
+      "thermodynamics"
+    ]
+  },
+  {
+    "year": "08",
+    "question": "5",
+    "part": "c",
+    "topics": [
+      "thermodynamics"
+    ]
+  },
+  {
+    "year": "08",
+    "question": "6",
+    "part": "a",
+    "topics": [
+      "optics"
+    ]
+  },
+  {
+    "year": "08",
+    "question": "6",
+    "part": "b",
+    "topics": [
+      "optics"
+    ]
+  },
+  {
+    "year": "08",
+    "question": "6",
+    "part": "c",
+    "topics": [
+      "optics"
+    ]
+  },
+  {
+    "year": "08",
+    "question": "6",
+    "part": "d",
+    "topics": [
+      "optics"
+    ]
+  },
+  {
+    "year": "08",
+    "question": "7",
+    "part": "a",
+    "topics": [
+      "atomic"
+    ]
+  },
+  {
+    "year": "08",
+    "question": "7",
+    "part": "b",
+    "topics": [
+      "atomic"
+    ]
+  },
+  {
+    "year": "08",
+    "question": "7",
+    "part": "c",
+    "topics": [
+      "atomic"
+    ]
+  },
+  {
+    "year": "08",
+    "question": "7",
+    "part": "d",
+    "topics": [
+      "atomic"
+    ]
+  },
+  {
+    "year": "09B",
+    "question": "1",
+    "part": "a",
+    "topics": [
+      "3.8"
+    ]
+  },
+  {
+    "year": "09B",
+    "question": "1",
+    "part": "b",
+    "topics": [
+      "3.8",
+      "experiment"
+    ]
+  },
+  {
+    "year": "09B",
+    "question": "1",
+    "part": "c",
+    "topics": [
+      "3.8",
+      "experiment"
+    ]
+  },
+  {
+    "year": "09B",
+    "question": "1",
+    "part": "d",
+    "topics": [
+      "3.8",
+      "experiment"
+    ]
+  },
+  {
+    "year": "09B",
+    "question": "2",
+    "part": "a",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "09B",
+    "question": "2",
+    "part": "b",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "09B",
+    "question": "2",
+    "part": "c",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "09B",
+    "question": "2",
+    "part": "d",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "09B",
+    "question": "2",
+    "part": "e",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "09B",
+    "question": "3",
+    "part": "a",
+    "topics": [
+      "fluids"
+    ]
+  },
+  {
+    "year": "09B",
+    "question": "3",
+    "part": "b",
+    "topics": [
+      "fluids"
+    ]
+  },
+  {
+    "year": "09B",
+    "question": "3",
+    "part": "c",
+    "topics": [
+      "fluids"
+    ]
+  },
+  {
+    "year": "09B",
+    "question": "3",
+    "part": "d",
+    "topics": [
+      "fluids"
+    ]
+  },
+  {
+    "year": "09B",
+    "question": "4",
+    "part": "a",
+    "topics": [
+      "thermodynamics"
+    ]
+  },
+  {
+    "year": "09B",
+    "question": "4",
+    "part": "b",
+    "topics": [
+      "thermodynamics"
+    ]
+  },
+  {
+    "year": "09B",
+    "question": "4",
+    "part": "c",
+    "topics": [
+      "thermodynamics"
+    ]
+  },
+  {
+    "year": "09B",
+    "question": "4",
+    "part": "d",
+    "topics": [
+      "thermodynamics"
+    ]
+  },
+  {
+    "year": "09B",
+    "question": "4",
+    "part": "e",
+    "topics": [
+      "thermodynamics"
+    ]
+  },
+  {
+    "year": "09B",
+    "question": "5",
+    "part": "a",
+    "topics": [
+      "optics"
+    ]
+  },
+  {
+    "year": "09B",
+    "question": "5",
+    "part": "b",
+    "topics": [
+      "optics"
+    ]
+  },
+  {
+    "year": "09B",
+    "question": "5",
+    "part": "c",
+    "topics": [
+      "optics"
+    ]
+  },
+  {
+    "year": "09B",
+    "question": "5",
+    "part": "d",
+    "topics": [
+      "optics"
+    ]
+  },
+  {
+    "year": "09B",
+    "question": "6",
+    "part": "a",
+    "topics": [
+      "atomic"
+    ]
+  },
+  {
+    "year": "09B",
+    "question": "6",
+    "part": "b",
+    "topics": [
+      "atomic"
+    ]
+  },
+  {
+    "year": "09B",
+    "question": "6",
+    "part": "c",
+    "topics": [
+      "atomic"
+    ]
+  },
+  {
+    "year": "09B",
+    "question": "6",
+    "part": "d",
+    "topics": [
+      "atomic"
+    ]
+  },
+  {
+    "year": "09",
+    "question": "1",
+    "part": "a",
+    "topics": [
+      "4.3"
+    ]
+  },
+  {
+    "year": "09",
+    "question": "1",
+    "part": "b",
+    "topics": [
+      "4.3",
+      "experiment"
+    ]
+  },
+  {
+    "year": "09",
+    "question": "1",
+    "part": "c",
+    "topics": [
+      "4.3",
+      "experiment"
+    ]
+  },
+  {
+    "year": "09",
+    "question": "1",
+    "part": "d",
+    "topics": [
+      "4.3",
+      "experiment"
+    ]
+  },
+  {
+    "year": "09",
+    "question": "1",
+    "part": "e",
+    "topics": [
+      "4.3",
+      "experiment"
+    ]
+  },
+  {
+    "year": "09",
+    "question": "2",
+    "part": "a",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "09",
+    "question": "2",
+    "part": "b",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "09",
+    "question": "2",
+    "part": "c",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "09",
+    "question": "2",
+    "part": "d",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "09",
+    "question": "3",
+    "part": "a",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "09",
+    "question": "3",
+    "part": "b",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "09",
+    "question": "3",
+    "part": "c",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "09",
+    "question": "3",
+    "part": "d",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "09",
+    "question": "3",
+    "part": "e",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "09",
+    "question": "4",
+    "part": "a",
+    "topics": [
+      "thermodynamics"
+    ]
+  },
+  {
+    "year": "09",
+    "question": "4",
+    "part": "b",
+    "topics": [
+      "thermodynamics"
+    ]
+  },
+  {
+    "year": "09",
+    "question": "4",
+    "part": "c",
+    "topics": [
+      "thermodynamics"
+    ]
+  },
+  {
+    "year": "09",
+    "question": "4",
+    "part": "d",
+    "topics": [
+      "thermodynamics"
+    ]
+  },
+  {
+    "year": "09",
+    "question": "5",
+    "part": "a",
+    "topics": [
+      "fluids"
+    ]
+  },
+  {
+    "year": "09",
+    "question": "5",
+    "part": "b",
+    "topics": [
+      "fluids"
+    ]
+  },
+  {
+    "year": "09",
+    "question": "5",
+    "part": "c",
+    "topics": [
+      "fluids"
+    ]
+  },
+  {
+    "year": "09",
+    "question": "5",
+    "part": "d",
+    "topics": [
+      "fluids"
+    ]
+  },
+  {
+    "year": "09",
+    "question": "6",
+    "part": "a",
+    "topics": [
+      "waves",
+      "optics"
+    ]
+  },
+  {
+    "year": "09",
+    "question": "6",
+    "part": "b",
+    "topics": [
+      "waves",
+      "optics"
+    ]
+  },
+  {
+    "year": "09",
+    "question": "6",
+    "part": "c",
+    "topics": [
+      "waves",
+      "optics"
+    ]
+  },
+  {
+    "year": "09",
+    "question": "6",
+    "part": "d",
+    "topics": [
+      "waves",
+      "optics"
+    ]
+  },
+  {
+    "year": "09",
+    "question": "7",
+    "part": "a",
+    "topics": [
+      "atomic"
+    ]
+  },
+  {
+    "year": "09",
+    "question": "7",
+    "part": "b",
+    "topics": [
+      "atomic"
+    ]
+  },
+  {
+    "year": "09",
+    "question": "7",
+    "part": "c",
+    "topics": [
+      "atomic"
+    ]
+  },
+  {
+    "year": "10B",
+    "question": "1",
+    "part": "a",
+    "topics": [
+      "4.3"
+    ]
+  },
+  {
+    "year": "10B",
+    "question": "1",
+    "part": "b",
+    "topics": [
+      "3.7"
+    ]
+  },
+  {
+    "year": "10B",
+    "question": "1",
+    "part": "c",
+    "topics": [
+      "3.6"
+    ]
+  },
+  {
+    "year": "10B",
+    "question": "1",
+    "part": "d",
+    "topics": [
+      "3.6"
+    ]
+  },
+  {
+    "year": "10B",
+    "question": "2",
+    "part": "a",
+    "topics": [
+      "6.1",
+      "experiment"
+    ]
+  },
+  {
+    "year": "10B",
+    "question": "2",
+    "part": "b",
+    "topics": [
+      "6.1",
+      "experiment"
+    ]
+  },
+  {
+    "year": "10B",
+    "question": "2",
+    "part": "c",
+    "topics": [
+      "6.1",
+      "experiment"
+    ]
+  },
+  {
+    "year": "10B",
+    "question": "2",
+    "part": "d",
+    "topics": [
+      "6.1",
+      "experiment"
+    ]
+  },
+  {
+    "year": "10B",
+    "question": "2",
+    "part": "e",
+    "topics": [
+      "6.1",
+      "experiment"
+    ]
+  },
+  {
+    "year": "10B",
+    "question": "3",
+    "part": "a",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "10B",
+    "question": "3",
+    "part": "b",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "10B",
+    "question": "3",
+    "part": "c",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "10B",
+    "question": "3",
+    "part": "d",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "10B",
+    "question": "3",
+    "part": "e",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "10B",
+    "question": "4",
+    "part": "a",
+    "topics": [
+      "circuits"
+    ]
+  },
+  {
+    "year": "10B",
+    "question": "4",
+    "part": "b",
+    "topics": [
+      "circuits"
+    ]
+  },
+  {
+    "year": "10B",
+    "question": "4",
+    "part": "c",
+    "topics": [
+      "circuits"
+    ]
+  },
+  {
+    "year": "10B",
+    "question": "4",
+    "part": "d",
+    "topics": [
+      "circuits"
+    ]
+  },
+  {
+    "year": "10B",
+    "question": "5",
+    "part": "a",
+    "topics": [
+      "waves",
+      "optics"
+    ]
+  },
+  {
+    "year": "10B",
+    "question": "5",
+    "part": "b",
+    "topics": [
+      "waves",
+      "optics"
+    ]
+  },
+  {
+    "year": "10B",
+    "question": "5",
+    "part": "c",
+    "topics": [
+      "waves",
+      "optics"
+    ]
+  },
+  {
+    "year": "10B",
+    "question": "5",
+    "part": "d",
+    "topics": [
+      "waves",
+      "optics"
+    ]
+  },
+  {
+    "year": "10B",
+    "question": "6",
+    "part": "a",
+    "topics": [
+      "fluids"
+    ]
+  },
+  {
+    "year": "10B",
+    "question": "6",
+    "part": "b",
+    "topics": [
+      "fluids"
+    ]
+  },
+  {
+    "year": "10B",
+    "question": "6",
+    "part": "c",
+    "topics": [
+      "fluids"
+    ]
+  },
+  {
+    "year": "10B",
+    "question": "6",
+    "part": "d",
+    "topics": [
+      "fluids"
+    ]
+  },
+  {
+    "year": "10B",
+    "question": "7",
+    "part": "a",
+    "topics": [
+      "atomic"
+    ]
+  },
+  {
+    "year": "10B",
+    "question": "7",
+    "part": "b",
+    "topics": [
+      "atomic"
+    ]
+  },
+  {
+    "year": "10B",
+    "question": "7",
+    "part": "c",
+    "topics": [
+      "atomic"
+    ]
+  },
+  {
+    "year": "10B",
+    "question": "7",
+    "part": "d",
+    "topics": [
+      "atomic"
+    ]
+  },
+  {
+    "year": "10",
+    "question": "1",
+    "part": "a",
+    "topics": [
+      "1.1"
+    ]
+  },
+  {
+    "year": "10",
+    "question": "1",
+    "part": "b",
+    "topics": [
+      "1.1"
+    ]
+  },
+  {
+    "year": "10",
+    "question": "1",
+    "part": "c",
+    "topics": [
+      "4.3"
+    ]
+  },
+  {
+    "year": "10",
+    "question": "1",
+    "part": "d",
+    "topics": [
+      "5.4"
+    ]
+  },
+  {
+    "year": "10",
+    "question": "1",
+    "part": "e",
+    "topics": [
+      "4.3"
+    ]
+  },
+  {
+    "year": "10",
+    "question": "2",
+    "part": "a",
+    "topics": [
+      "fluids"
+    ]
+  },
+  {
+    "year": "10",
+    "question": "2",
+    "part": "b",
+    "topics": [
+      "fluids"
+    ]
+  },
+  {
+    "year": "10",
+    "question": "2",
+    "part": "c",
+    "topics": [
+      "fluids",
+      "experiment"
+    ]
+  },
+  {
+    "year": "10",
+    "question": "2",
+    "part": "d",
+    "topics": [
+      "fluids",
+      "experiment"
+    ]
+  },
+  {
+    "year": "10",
+    "question": "2",
+    "part": "e",
+    "topics": [
+      "fluids",
+      "experiment"
+    ]
+  },
+  {
+    "year": "10",
+    "question": "3",
+    "part": "a",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "10",
+    "question": "3",
+    "part": "b",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "10",
+    "question": "3",
+    "part": "c",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "10",
+    "question": "3",
+    "part": "d",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "10",
+    "question": "3",
+    "part": "e",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "10",
+    "question": "4",
+    "part": "a",
+    "topics": [
+      "thermodynamics"
+    ]
+  },
+  {
+    "year": "10",
+    "question": "4",
+    "part": "b",
+    "topics": [
+      "thermodynamics"
+    ]
+  },
+  {
+    "year": "10",
+    "question": "4",
+    "part": "c",
+    "topics": [
+      "thermodynamics"
+    ]
+  },
+  {
+    "year": "10",
+    "question": "4",
+    "part": "d",
+    "topics": [
+      "thermodynamics"
+    ]
+  },
+  {
+    "year": "10",
+    "question": "5",
+    "part": "a",
+    "topics": [
+      "optics"
+    ]
+  },
+  {
+    "year": "10",
+    "question": "5",
+    "part": "b",
+    "topics": [
+      "optics"
+    ]
+  },
+  {
+    "year": "10",
+    "question": "5",
+    "part": "c",
+    "topics": [
+      "optics"
+    ]
+  },
+  {
+    "year": "10",
+    "question": "6",
+    "part": "a",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "10",
+    "question": "6",
+    "part": "b",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "10",
+    "question": "6",
+    "part": "c",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "10",
+    "question": "7",
+    "part": "a",
+    "topics": [
+      "atomic"
+    ]
+  },
+  {
+    "year": "10",
+    "question": "7",
+    "part": "b",
+    "topics": [
+      "atomic"
+    ]
+  },
+  {
+    "year": "10",
+    "question": "7",
+    "part": "c",
+    "topics": [
+      "atomic"
+    ]
+  },
+  {
+    "year": "10",
+    "question": "7",
+    "part": "d",
+    "topics": [
+      "atomic"
+    ]
+  },
+  {
+    "year": "11B",
+    "question": "1",
+    "part": "a",
+    "topics": [
+      "2.5"
+    ]
+  },
+  {
+    "year": "11B",
+    "question": "1",
+    "part": "b",
+    "topics": [
+      "2.7"
+    ]
+  },
+  {
+    "year": "11B",
+    "question": "1",
+    "part": "c",
+    "topics": [
+      "2.7"
+    ]
+  },
+  {
+    "year": "11B",
+    "question": "1",
+    "part": "d",
+    "topics": [
+      "2.7"
+    ]
+  },
+  {
+    "year": "11B",
+    "question": "1",
+    "part": "e",
+    "topics": [
+      "2.7"
+    ]
+  },
+  {
+    "year": "11B",
+    "question": "1",
+    "part": "f",
+    "topics": [
+      "4.2"
+    ]
+  },
+  {
+    "year": "11B",
+    "question": "2",
+    "part": "a",
+    "topics": [
+      "electromagnetism",
+      "experiment"
+    ]
+  },
+  {
+    "year": "11B",
+    "question": "2",
+    "part": "b",
+    "topics": [
+      "electromagnetism",
+      "experiment"
+    ]
+  },
+  {
+    "year": "11B",
+    "question": "2",
+    "part": "c",
+    "topics": [
+      "electromagnetism",
+      "experiment"
+    ]
+  },
+  {
+    "year": "11B",
+    "question": "2",
+    "part": "d",
+    "topics": [
+      "electromagnetism",
+      "experiment"
+    ]
+  },
+  {
+    "year": "11B",
+    "question": "3",
+    "part": "a",
+    "topics": [
+      "waves",
+      "optics"
+    ]
+  },
+  {
+    "year": "11B",
+    "question": "3",
+    "part": "b",
+    "topics": [
+      "waves",
+      "optics"
+    ]
+  },
+  {
+    "year": "11B",
+    "question": "3",
+    "part": "c",
+    "topics": [
+      "waves",
+      "optics"
+    ]
+  },
+  {
+    "year": "11B",
+    "question": "3",
+    "part": "d",
+    "topics": [
+      "waves",
+      "optics"
+    ]
+  },
+  {
+    "year": "11B",
+    "question": "3",
+    "part": "e",
+    "topics": [
+      "waves",
+      "optics"
+    ]
+  },
+  {
+    "year": "11B",
+    "question": "4",
+    "part": "a",
+    "topics": [
+      "fluids"
+    ]
+  },
+  {
+    "year": "11B",
+    "question": "4",
+    "part": "b",
+    "topics": [
+      "fluids"
+    ]
+  },
+  {
+    "year": "11B",
+    "question": "4",
+    "part": "c",
+    "topics": [
+      "fluids"
+    ]
+  },
+  {
+    "year": "11B",
+    "question": "4",
+    "part": "d",
+    "topics": [
+      "fluids"
+    ]
+  },
+  {
+    "year": "11B",
+    "question": "5",
+    "part": "a",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "11B",
+    "question": "5",
+    "part": "b",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "11B",
+    "question": "5",
+    "part": "c",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "11B",
+    "question": "5",
+    "part": "d",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "11B",
+    "question": "5",
+    "part": "e",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "11B",
+    "question": "6",
+    "part": "a",
+    "topics": [
+      "atomic"
+    ]
+  },
+  {
+    "year": "11B",
+    "question": "6",
+    "part": "b",
+    "topics": [
+      "atomic"
+    ]
+  },
+  {
+    "year": "11B",
+    "question": "6",
+    "part": "c",
+    "topics": [
+      "atomic"
+    ]
+  },
+  {
+    "year": "11B",
+    "question": "6",
+    "part": "d",
+    "topics": [
+      "atomic"
+    ]
+  },
+  {
+    "year": "11",
+    "question": "1",
+    "part": "a",
+    "topics": [
+      "1.2"
+    ]
+  },
+  {
+    "year": "11",
+    "question": "1",
+    "part": "b",
+    "topics": [
+      "1.1"
+    ]
+  },
+  {
+    "year": "11",
+    "question": "1",
+    "part": "c",
+    "topics": [
+      "2.6"
+    ]
+  },
+  {
+    "year": "11",
+    "question": "1",
+    "part": "d",
+    "topics": [
+      "2.6"
+    ]
+  },
+  {
+    "year": "11",
+    "question": "1",
+    "part": "e",
+    "topics": [
+      "4.2"
+    ]
+  },
+  {
+    "year": "11",
+    "question": "1",
+    "part": "f",
+    "topics": [
+      "4.2"
+    ]
+  },
+  {
+    "year": "11",
+    "question": "2",
+    "part": "a",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "11",
+    "question": "2",
+    "part": "b",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "11",
+    "question": "2",
+    "part": "c",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "11",
+    "question": "2",
+    "part": "d",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "11",
+    "question": "3",
+    "part": "a",
+    "topics": [
+      "waves",
+      "optics",
+      "experiment"
+    ]
+  },
+  {
+    "year": "11",
+    "question": "3",
+    "part": "b",
+    "topics": [
+      "waves",
+      "optics",
+      "experiment"
+    ]
+  },
+  {
+    "year": "11",
+    "question": "3",
+    "part": "c",
+    "topics": [
+      "waves",
+      "optics",
+      "experiment"
+    ]
+  },
+  {
+    "year": "11",
+    "question": "3",
+    "part": "d",
+    "topics": [
+      "waves",
+      "optics",
+      "experiment"
+    ]
+  },
+  {
+    "year": "11",
+    "question": "3",
+    "part": "e",
+    "topics": [
+      "waves",
+      "optics",
+      "experiment"
+    ]
+  },
+  {
+    "year": "11",
+    "question": "4",
+    "part": "a",
+    "topics": [
+      "fluids"
+    ]
+  },
+  {
+    "year": "11",
+    "question": "4",
+    "part": "b",
+    "topics": [
+      "fluids"
+    ]
+  },
+  {
+    "year": "11",
+    "question": "4",
+    "part": "c",
+    "topics": [
+      "fluids"
+    ]
+  },
+  {
+    "year": "11",
+    "question": "4",
+    "part": "d",
+    "topics": [
+      "fluids"
+    ]
+  },
+  {
+    "year": "11",
+    "question": "4",
+    "part": "e",
+    "topics": [
+      "fluids"
+    ]
+  },
+  {
+    "year": "11",
+    "question": "5",
+    "part": "a",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "11",
+    "question": "5",
+    "part": "b",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "11",
+    "question": "5",
+    "part": "c",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "11",
+    "question": "5",
+    "part": "d",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "11",
+    "question": "5",
+    "part": "e",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "11",
+    "question": "6",
+    "part": "a",
+    "topics": [
+      "atomic"
+    ]
+  },
+  {
+    "year": "11",
+    "question": "6",
+    "part": "b",
+    "topics": [
+      "atomic"
+    ]
+  },
+  {
+    "year": "11",
+    "question": "6",
+    "part": "c",
+    "topics": [
+      "atomic"
+    ]
+  },
+  {
+    "year": "11",
+    "question": "6",
+    "part": "d",
+    "topics": [
+      "atomic"
+    ]
+  },
+  {
+    "year": "12",
+    "question": "1",
+    "part": "a",
+    "topics": [
+      "2.5"
+    ]
+  },
+  {
+    "year": "12",
+    "question": "1",
+    "part": "b",
+    "topics": [
+      "2.7"
+    ]
+  },
+  {
+    "year": "12",
+    "question": "1",
+    "part": "c",
+    "topics": [
+      "2.7"
+    ]
+  },
+  {
+    "year": "12",
+    "question": "1",
+    "part": "d",
+    "topics": [
+      "2.7"
+    ]
+  },
+  {
+    "year": "12",
+    "question": "1",
+    "part": "e",
+    "topics": [
+      "2.7"
+    ]
+  },
+  {
+    "year": "12",
+    "question": "1",
+    "part": "f",
+    "topics": [
+      "2.7"
+    ]
+  },
+  {
+    "year": "12",
+    "question": "2",
+    "part": "a",
+    "topics": [
+      "1.1"
+    ]
+  },
+  {
+    "year": "12",
+    "question": "2",
+    "part": "b",
+    "topics": [
+      "5.4"
+    ]
+  },
+  {
+    "year": "12",
+    "question": "2",
+    "part": "c",
+    "topics": [
+      "5.4"
+    ]
+  },
+  {
+    "year": "12",
+    "question": "2",
+    "part": "d",
+    "topics": [
+      "4.3"
+    ]
+  },
+  {
+    "year": "12",
+    "question": "2",
+    "part": "e",
+    "topics": [
+      "5.4",
+      "4.3"
+    ]
+  },
+  {
+    "year": "12",
+    "question": "3",
+    "part": "a",
+    "topics": [
+      "fluids"
+    ]
+  },
+  {
+    "year": "12",
+    "question": "3",
+    "part": "b",
+    "topics": [
+      "fluids"
+    ]
+  },
+  {
+    "year": "12",
+    "question": "3",
+    "part": "c",
+    "topics": [
+      "fluids"
+    ]
+  },
+  {
+    "year": "12",
+    "question": "3",
+    "part": "d",
+    "topics": [
+      "fluids"
+    ]
+  },
+  {
+    "year": "12",
+    "question": "4",
+    "part": "a",
+    "topics": [
+      "thermodynamics"
+    ]
+  },
+  {
+    "year": "12",
+    "question": "4",
+    "part": "b",
+    "topics": [
+      "thermodynamics"
+    ]
+  },
+  {
+    "year": "12",
+    "question": "4",
+    "part": "c",
+    "topics": [
+      "thermodynamics"
+    ]
+  },
+  {
+    "year": "12",
+    "question": "4",
+    "part": "d",
+    "topics": [
+      "thermodynamics"
+    ]
+  },
+  {
+    "year": "12",
+    "question": "5",
+    "part": "a",
+    "topics": [
+      "circuits"
+    ]
+  },
+  {
+    "year": "12",
+    "question": "5",
+    "part": "b",
+    "topics": [
+      "circuits"
+    ]
+  },
+  {
+    "year": "12",
+    "question": "5",
+    "part": "c",
+    "topics": [
+      "circuits"
+    ]
+  },
+  {
+    "year": "12",
+    "question": "5",
+    "part": "d",
+    "topics": [
+      "circuits"
+    ]
+  },
+  {
+    "year": "12",
+    "question": "5",
+    "part": "e",
+    "topics": [
+      "circuits"
+    ]
+  },
+  {
+    "year": "12",
+    "question": "6",
+    "part": "a",
+    "topics": [
+      "6.1",
+      "experiment"
+    ]
+  },
+  {
+    "year": "12",
+    "question": "6",
+    "part": "b",
+    "topics": [
+      "6.1",
+      "experiment"
+    ]
+  },
+  {
+    "year": "12",
+    "question": "6",
+    "part": "c",
+    "topics": [
+      "6.1",
+      "experiment"
+    ]
+  },
+  {
+    "year": "12",
+    "question": "7",
+    "part": "a",
+    "topics": [
+      "atomic"
+    ]
+  },
+  {
+    "year": "12",
+    "question": "7",
+    "part": "b",
+    "topics": [
+      "atomic"
+    ]
+  },
+  {
+    "year": "12",
+    "question": "7",
+    "part": "c",
+    "topics": [
+      "atomic"
+    ]
+  },
+  {
+    "year": "12",
+    "question": "7",
+    "part": "d",
+    "topics": [
+      "atomic"
+    ]
+  },
+  {
+    "year": "13",
+    "question": "1",
+    "part": "a",
+    "topics": [
+      "fluids"
+    ]
+  },
+  {
+    "year": "13",
+    "question": "1",
+    "part": "b",
+    "topics": [
+      "fluids"
+    ]
+  },
+  {
+    "year": "13",
+    "question": "1",
+    "part": "c",
+    "topics": [
+      "fluids"
+    ]
+  },
+  {
+    "year": "13",
+    "question": "1",
+    "part": "d",
+    "topics": [
+      "fluids"
+    ]
+  },
+  {
+    "year": "13",
+    "question": "2",
+    "part": "a",
+    "topics": [
+      "4.2"
+    ]
+  },
+  {
+    "year": "13",
+    "question": "2",
+    "part": "b",
+    "topics": [
+      "4.3"
+    ]
+  },
+  {
+    "year": "13",
+    "question": "2",
+    "part": "c",
+    "topics": [
+      "6.1"
+    ]
+  },
+  {
+    "year": "13",
+    "question": "2",
+    "part": "d",
+    "topics": [
+      "6.1"
+    ]
+  },
+  {
+    "year": "13",
+    "question": "2",
+    "part": "e",
+    "topics": [
+      "4.3"
+    ]
+  },
+  {
+    "year": "13",
+    "question": "3",
+    "part": "a",
+    "topics": [
+      "optics",
+      "experiment"
+    ]
+  },
+  {
+    "year": "13",
+    "question": "3",
+    "part": "b",
+    "topics": [
+      "optics",
+      "experiment"
+    ]
+  },
+  {
+    "year": "13",
+    "question": "3",
+    "part": "c",
+    "topics": [
+      "optics",
+      "experiment"
+    ]
+  },
+  {
+    "year": "13",
+    "question": "4",
+    "part": "a",
+    "topics": [
+      "1.1"
+    ]
+  },
+  {
+    "year": "13",
+    "question": "4",
+    "part": "b",
+    "topics": [
+      "1.1"
+    ]
+  },
+  {
+    "year": "13",
+    "question": "4",
+    "part": "c",
+    "topics": [
+      "2.6"
+    ]
+  },
+  {
+    "year": "13",
+    "question": "4",
+    "part": "d",
+    "topics": [
+      "2.6"
+    ]
+  },
+  {
+    "year": "13",
+    "question": "5",
+    "part": "a",
+    "topics": [
+      "thermodynamics"
+    ]
+  },
+  {
+    "year": "13",
+    "question": "5",
+    "part": "b",
+    "topics": [
+      "thermodynamics"
+    ]
+  },
+  {
+    "year": "13",
+    "question": "5",
+    "part": "c",
+    "topics": [
+      "thermodynamics"
+    ]
+  },
+  {
+    "year": "13",
+    "question": "5",
+    "part": "d",
+    "topics": [
+      "thermodynamics"
+    ]
+  },
+  {
+    "year": "13",
+    "question": "6",
+    "part": "a",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "13",
+    "question": "6",
+    "part": "b",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "13",
+    "question": "6",
+    "part": "c",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "13",
+    "question": "6",
+    "part": "d",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "13",
+    "question": "6",
+    "part": "e",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "13",
+    "question": "7",
+    "part": "a",
+    "topics": [
+      "atomic"
+    ]
+  },
+  {
+    "year": "13",
+    "question": "7",
+    "part": "b",
+    "topics": [
+      "atomic"
+    ]
+  },
+  {
+    "year": "13",
+    "question": "7",
+    "part": "c",
+    "topics": [
+      "atomic"
+    ]
+  },
+  {
+    "year": "13",
+    "question": "7",
+    "part": "d",
+    "topics": [
+      "atomic"
+    ]
+  },
+  {
+    "year": "13",
+    "question": "7",
+    "part": "e",
+    "topics": [
+      "atomic"
+    ]
+  },
+  {
+    "year": "14",
+    "question": "1",
+    "part": "a",
+    "topics": [
+      "3.7"
+    ]
+  },
+  {
+    "year": "14",
+    "question": "1",
+    "part": "b",
+    "topics": [
+      "4.3"
+    ]
+  },
+  {
+    "year": "14",
+    "question": "1",
+    "part": "c",
+    "topics": [
+      "4.3"
+    ]
+  },
+  {
+    "year": "14",
+    "question": "1",
+    "part": "d",
+    "topics": [
+      "3.6",
+      "1.1"
+    ]
+  },
+  {
+    "year": "14",
+    "question": "1",
+    "part": "e",
+    "topics": [
+      "5.4"
+    ]
+  },
+  {
+    "year": "14",
+    "question": "2",
+    "part": "a",
+    "topics": [
+      "fluids"
+    ]
+  },
+  {
+    "year": "14",
+    "question": "2",
+    "part": "b",
+    "topics": [
+      "fluids"
+    ]
+  },
+  {
+    "year": "14",
+    "question": "2",
+    "part": "c",
+    "topics": [
+      "fluids"
+    ]
+  },
+  {
+    "year": "14",
+    "question": "2",
+    "part": "d",
+    "topics": [
+      "fluids"
+    ]
+  },
+  {
+    "year": "14",
+    "question": "3",
+    "part": "a",
+    "topics": [
+      "thermodynamics"
+    ]
+  },
+  {
+    "year": "14",
+    "question": "3",
+    "part": "b",
+    "topics": [
+      "thermodynamics"
+    ]
+  },
+  {
+    "year": "14",
+    "question": "3",
+    "part": "c",
+    "topics": [
+      "thermodynamics"
+    ]
+  },
+  {
+    "year": "14",
+    "question": "3",
+    "part": "d",
+    "topics": [
+      "thermodynamics"
+    ]
+  },
+  {
+    "year": "14",
+    "question": "4",
+    "part": "a",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "14",
+    "question": "4",
+    "part": "b",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "14",
+    "question": "4",
+    "part": "c",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "14",
+    "question": "4",
+    "part": "d",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "14",
+    "question": "4",
+    "part": "e",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "14",
+    "question": "5",
+    "part": "a",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "14",
+    "question": "5",
+    "part": "b",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "14",
+    "question": "5",
+    "part": "c",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "14",
+    "question": "5",
+    "part": "d",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "14",
+    "question": "5",
+    "part": "e",
+    "topics": [
+      "electromagnetism"
+    ]
+  },
+  {
+    "year": "14",
+    "question": "6",
+    "part": "a",
+    "topics": [
+      "atomic"
+    ]
+  },
+  {
+    "year": "14",
+    "question": "6",
+    "part": "b",
+    "topics": [
+      "atomic"
+    ]
+  },
+  {
+    "year": "14",
+    "question": "6",
+    "part": "c",
+    "topics": [
+      "atomic"
+    ]
+  },
+  {
+    "year": "14",
+    "question": "6",
+    "part": "d",
+    "topics": [
+      "atomic"
+    ]
+  },
+  {
+    "year": "14",
+    "question": "6",
+    "part": "e",
+    "topics": [
+      "atomic"
+    ]
+  },
+  {
+    "year": "14",
+    "question": "7",
+    "part": "a",
+    "topics": [
+      "optics"
+    ]
+  },
+  {
+    "year": "14",
+    "question": "7",
+    "part": "b",
+    "topics": [
+      "optics"
+    ]
+  },
+  {
+    "year": "14",
+    "question": "7",
+    "part": "c",
+    "topics": [
+      "optics"
+    ]
+  },
+  {
+    "year": "14",
+    "question": "7",
+    "part": "d",
+    "topics": [
+      "optics"
+    ]
+  },
+  {
+    "year": "14",
+    "question": "7",
+    "part": "e",
+    "topics": [
+      "optics"
+    ]
+  },
+  {
+    "year": "15",
+    "question": "1",
+    "part": "a",
+    "topics": [
+      "2.5"
+    ]
+  },
+  {
+    "year": "15",
+    "question": "1",
+    "part": "b",
+    "topics": [
+      "2.7"
+    ]
+  },
+  {
+    "year": "15",
+    "question": "1",
+    "part": "c",
+    "topics": [
+      "2.7"
+    ]
+  },
+  {
+    "year": "15",
+    "question": "2",
+    "part": "a",
+    "topics": [
+      "expt (electricity)"
+    ]
+  },
+  {
+    "year": "15",
+    "question": "2",
+    "part": "b",
+    "topics": [
+      "expt (electricity)"
+    ]
+  },
+  {
+    "year": "15",
+    "question": "2",
+    "part": "c",
+    "topics": [
+      "expt (electricity)"
+    ]
+  },
+  {
+    "year": "15",
+    "question": "2",
+    "part": "d",
+    "topics": [
+      "expt (electricity)"
+    ]
+  },
+  {
+    "year": "15",
+    "question": "3",
+    "part": "a",
+    "topics": [
+      "4.3"
+    ]
+  },
+  {
+    "year": "15",
+    "question": "3",
+    "part": "b",
+    "topics": [
+      "4.3"
+    ]
+  },
+  {
+    "year": "15",
+    "question": "3",
+    "part": "c",
+    "topics": [
+      "4.3"
+    ]
+  },
+  {
+    "year": "15",
+    "question": "3",
+    "part": "d",
+    "topics": [
+      "4.3"
+    ]
+  },
+  {
+    "year": "15",
+    "question": "4",
+    "part": "a",
+    "topics": [
+      "2.5"
+    ]
+  },
+  {
+    "year": "15",
+    "question": "4",
+    "part": "b",
+    "topics": [
+      "1.2"
+    ]
+  },
+  {
+    "year": "15",
+    "question": "4",
+    "part": "c",
+    "topics": [
+      "1.2"
+    ]
+  },
+  {
+    "year": "15",
+    "question": "5",
+    "part": "a",
+    "topics": [
+      "6.1"
+    ]
+  },
+  {
+    "year": "15",
+    "question": "5",
+    "part": "b",
+    "topics": [
+      "6.1",
+      "analysis"
+    ]
+  },
+  {
+    "year": "15",
+    "question": "5",
+    "part": "c",
+    "topics": [
+      "6.1"
+    ]
+  },
+  {
+    "year": "16",
+    "question": "1",
+    "part": "a",
+    "topics": [
+      "2.5",
+      "7.2"
+    ]
+  },
+  {
+    "year": "16",
+    "question": "1",
+    "part": "b",
+    "topics": [
+      "2.7"
+    ]
+  },
+  {
+    "year": "16",
+    "question": "1",
+    "part": "c",
+    "topics": [
+      "7.2"
+    ]
+  },
+  {
+    "year": "16",
+    "question": "2",
+    "part": "a",
+    "topics": [
+      "5.4",
+      "expt"
+    ]
+  },
+  {
+    "year": "16",
+    "question": "2",
+    "part": "b",
+    "topics": [
+      "5.4",
+      "expt"
+    ]
+  },
+  {
+    "year": "16",
+    "question": "2",
+    "part": "c",
+    "topics": [
+      "5.4",
+      "expt"
+    ]
+  },
+  {
+    "year": "16",
+    "question": "3",
+    "part": "a",
+    "topics": [
+      "1.2"
+    ]
+  },
+  {
+    "year": "16",
+    "question": "3",
+    "part": "b",
+    "topics": [
+      "2.7"
+    ]
+  },
+  {
+    "year": "16",
+    "question": "3",
+    "part": "c",
+    "topics": [
+      "2.7"
+    ]
+  },
+  {
+    "year": "16",
+    "question": "3",
+    "part": "d",
+    "topics": [
+      "expt"
+    ]
+  },
+  {
+    "year": "16",
+    "question": "4",
+    "part": "a",
+    "topics": [
+      "electricity"
+    ]
+  },
+  {
+    "year": "16",
+    "question": "4",
+    "part": "b",
+    "topics": [
+      "electricity"
+    ]
+  },
+  {
+    "year": "16",
+    "question": "4",
+    "part": "c",
+    "topics": [
+      "electricity"
+    ]
+  },
+  {
+    "year": "16",
+    "question": "5",
+    "part": "a",
+    "topics": [
+      "2.5"
+    ]
+  },
+  {
+    "year": "16",
+    "question": "5",
+    "part": "b",
+    "topics": [
+      "6.1"
+    ]
+  },
+  {
+    "year": "17",
+    "question": "1",
+    "part": "a",
+    "topics": [
+      "electricity"
+    ]
+  },
+  {
+    "year": "17",
+    "question": "1",
+    "part": "b",
+    "topics": [
+      "electricity"
+    ]
+  },
+  {
+    "year": "17",
+    "question": "2",
+    "part": "a",
+    "topics": [
+      "2.7",
+      "expt"
+    ]
+  },
+  {
+    "year": "17",
+    "question": "2",
+    "part": "b",
+    "topics": [
+      "2.7",
+      "expt"
+    ]
+  },
+  {
+    "year": "17",
+    "question": "2",
+    "part": "c",
+    "topics": [
+      "expt"
+    ]
+  },
+  {
+    "year": "17",
+    "question": "2",
+    "part": "d",
+    "topics": [
+      "2.7"
+    ]
+  },
+  {
+    "year": "17",
+    "question": "3",
+    "part": "a",
+    "topics": [
+      "7.2"
+    ]
+  },
+  {
+    "year": "17",
+    "question": "3",
+    "part": "b",
+    "topics": [
+      "7.2"
+    ]
+  },
+  {
+    "year": "17",
+    "question": "3",
+    "part": "c",
+    "topics": [
+      "7.2",
+      "dim"
+    ]
+  },
+  {
+    "year": "17",
+    "question": "3",
+    "part": "d",
+    "topics": [
+      "7.4"
+    ]
+  },
+  {
+    "year": "17",
+    "question": "3",
+    "part": "e",
+    "topics": [
+      "7.4"
+    ]
+  },
+  {
+    "year": "17",
+    "question": "4",
+    "part": "a",
+    "topics": [
+      "4.3"
+    ]
+  },
+  {
+    "year": "17",
+    "question": "4",
+    "part": "b",
+    "topics": [
+      "4.3"
+    ]
+  },
+  {
+    "year": "17",
+    "question": "5",
+    "part": "a",
+    "topics": [
+      "6.1"
+    ]
+  },
+  {
+    "year": "17",
+    "question": "5",
+    "part": "b",
+    "topics": [
+      "6.1"
+    ]
+  },
+  {
+    "year": "18",
+    "question": "1",
+    "part": "a",
+    "topics": [
+      "3.7"
+    ]
+  },
+  {
+    "year": "18",
+    "question": "1",
+    "part": "b",
+    "topics": [
+      "3.8"
+    ]
+  },
+  {
+    "year": "18",
+    "question": "1",
+    "part": "c",
+    "topics": [
+      "3.8"
+    ]
+  },
+  {
+    "year": "18",
+    "question": "2",
+    "part": "a",
+    "topics": [
+      "electricity"
+    ]
+  },
+  {
+    "year": "18",
+    "question": "2",
+    "part": "b",
+    "topics": [
+      "electricity"
+    ]
+  },
+  {
+    "year": "18",
+    "question": "2",
+    "part": "c",
+    "topics": [
+      "electricity"
+    ]
+  },
+  {
+    "year": "18",
+    "question": "3",
+    "part": "a",
+    "topics": [
+      "7.2"
+    ]
+  },
+  {
+    "year": "18",
+    "question": "3",
+    "part": "b",
+    "topics": [
+      "7.2"
+    ]
+  },
+  {
+    "year": "18",
+    "question": "3",
+    "part": "c",
+    "topics": [
+      "7.4"
+    ]
+  },
+  {
+    "year": "18",
+    "question": "3",
+    "part": "d",
+    "topics": [
+      "7.4"
+    ]
+  },
+  {
+    "year": "18",
+    "question": "4",
+    "part": "a",
+    "topics": [
+      "6.1"
+    ]
+  },
+  {
+    "year": "18",
+    "question": "4",
+    "part": "b",
+    "topics": [
+      "6.1"
+    ]
+  },
+  {
+    "year": "18",
+    "question": "4",
+    "part": "c",
+    "topics": [
+      "6.1"
+    ]
+  },
+  {
+    "year": "18",
+    "question": "5",
+    "part": "a",
+    "topics": [
+      "6.1"
+    ]
+  },
+  {
+    "year": "18",
+    "question": "5",
+    "part": "b",
+    "topics": [
+      "6.1"
+    ]
+  },
+  {
+    "year": "19",
+    "question": "1",
+    "part": "a",
+    "topics": [
+      "5.4"
+    ]
+  },
+  {
+    "year": "19",
+    "question": "1",
+    "part": "b",
+    "topics": [
+      "7.4"
+    ]
+  },
+  {
+    "year": "19",
+    "question": "2",
+    "part": "a",
+    "topics": [
+      "2.7"
+    ]
+  },
+  {
+    "year": "19",
+    "question": "2",
+    "part": "b",
+    "topics": [
+      "2.5"
+    ]
+  },
+  {
+    "year": "19",
+    "question": "2",
+    "part": "c",
+    "topics": [
+      "2.7"
+    ]
+  },
+  {
+    "year": "19",
+    "question": "2",
+    "part": "d",
+    "topics": [
+      "2.7"
+    ]
+  },
+  {
+    "year": "19",
+    "question": "2",
+    "part": "e",
+    "topics": [
+      "2.7"
+    ]
+  },
+  {
+    "year": "19",
+    "question": "3",
+    "part": "a",
+    "topics": [
+      "2.7",
+      "expt"
+    ]
+  },
+  {
+    "year": "19",
+    "question": "3",
+    "part": "b",
+    "topics": [
+      "2.7",
+      "expt"
+    ]
+  },
+  {
+    "year": "19",
+    "question": "3",
+    "part": "c",
+    "topics": [
+      "2.7",
+      "expt"
+    ]
+  },
+  {
+    "year": "19",
+    "question": "3",
+    "part": "d",
+    "topics": [
+      "4.3",
+      "expt"
+    ]
+  },
+  {
+    "year": "19",
+    "question": "4",
+    "part": "a",
+    "topics": [
+      "4.3"
+    ]
+  },
+  {
+    "year": "19",
+    "question": "4",
+    "part": "b",
+    "topics": [
+      "electricity"
+    ]
+  },
+  {
+    "year": "19",
+    "question": "5",
+    "part": "a",
+    "topics": [
+      "6.1"
+    ]
+  },
+  {
+    "year": "19",
+    "question": "5",
+    "part": "b",
+    "topics": [
+      "6.1"
+    ]
+  },
+  {
+    "year": "19",
+    "question": "5",
+    "part": "c",
+    "topics": [
+      "6.1"
+    ]
+  },
+  {
+    "year": "21",
+    "question": "1",
+    "part": "a",
+    "topics": [
+      "4.3"
+    ]
+  },
+  {
+    "year": "21",
+    "question": "1",
+    "part": "b",
+    "topics": [
+      "4.3"
+    ]
+  },
+  {
+    "year": "21",
+    "question": "1",
+    "part": "c",
+    "topics": [
+      "4.3",
+      "1.2"
+    ]
+  },
+  {
+    "year": "21",
+    "question": "2",
+    "part": "a",
+    "topics": [
+      "2.7",
+      "expt"
+    ]
+  },
+  {
+    "year": "21",
+    "question": "2",
+    "part": "b",
+    "topics": [
+      "expt"
+    ]
+  },
+  {
+    "year": "21",
+    "question": "2",
+    "part": "c",
+    "topics": [
+      "expt"
+    ]
+  },
+  {
+    "year": "21",
+    "question": "2",
+    "part": "d",
+    "topics": [
+      "expt"
+    ]
+  },
+  {
+    "year": "21",
+    "question": "3",
+    "part": "a",
+    "topics": [
+      "2.6"
+    ]
+  },
+  {
+    "year": "21",
+    "question": "3",
+    "part": "b",
+    "topics": [
+      "2.6",
+      "expt"
+    ]
+  },
+  {
+    "year": "21",
+    "question": "3",
+    "part": "c",
+    "topics": [
+      "5.4"
+    ]
+  },
+  {
+    "year": "21",
+    "question": "4",
+    "part": "a",
+    "topics": [
+      "7.2"
+    ]
+  },
+  {
+    "year": "21",
+    "question": "4",
+    "part": "b",
+    "topics": [
+      "7.2"
+    ]
+  },
+  {
+    "year": "21",
+    "question": "5",
+    "part": "a",
+    "topics": [
+      "7.2"
+    ]
+  },
+  {
+    "year": "21",
+    "question": "5",
+    "part": "b",
+    "topics": [
+      "7.4"
+    ]
+  },
+  {
+    "year": "21",
+    "question": "5",
+    "part": "c",
+    "topics": [
+      "7.4"
+    ]
+  }
+]

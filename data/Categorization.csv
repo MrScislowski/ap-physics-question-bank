@@ -1,0 +1,803 @@
+Filename,Category
+00Q1a.png,1.2
+00Q1b.png,1.2
+00Q1c.png,1.2
+00Q1d.png,1.2
+00Q1e.png,"1.1, 4.1"
+00Q2a.png,2.3
+00Q2b.png,2.3
+00Q2c.png,2.6
+00Q2d.png,2.6
+00Q3a.png,electricity
+00Q3b.png,electricity
+00Q3c.png,electricity
+00Q4a.png,optics
+00Q4b.png,optics
+00Q5a.png,atomic
+00Q5b.png,atomic
+00Q5c.png,atomic
+00Q6a.png,experiment
+00Q6b.png,experiment
+00Q6c.png,experiment
+00Q6d.png,experiment
+00Q7a.png,electromagnetism
+00Q7b.png,electromagnetism
+00Q7c.png,electromagnetism
+00Q7d.png,electromagnetism
+01Q1a.png,3.7
+01Q1b.png,3.6
+01Q1c.png,3.6
+01Q1d.png,3.6
+01Q2a.png,5.4
+01Q2b.png,"5.4, 1.1"
+01Q2c.png,"5.4, 1.1"
+01Q2d.png,"5.4, 1.1"
+01Q3a.png,electromagnetism
+01Q3b.png,electromagnetism
+01Q3c.png,electromagnetism
+01Q4a.png,"optics, analysis"
+01Q4b.png,optics
+01Q4c.png,optics
+01Q4d.png,optics
+01Q5a.png,"electronics, experiment"
+01Q5b.png,"electronics, experiment"
+01Q5c.png,"electronics, experiment"
+01Q6a.png,thermodynamics
+01Q6b.png,thermodynamics
+01Q6c.png,thermodynamics
+01Q6d.png,thermodynamics
+01Q6e.png,thermodynamics
+01Q7a.png,atomic
+01Q7b.png,atomic
+01Q7c.png,atomic
+01Q7d.png,atomic
+02BQ1a.png,5.1
+02BQ1b.png,5.4
+02BQ1c.png,1.1
+02BQ1d.png,1.1
+02BQ1e.png,4.3
+02BQ2a.png,2.5
+02BQ2b.png,2.7
+02BQ2c.png,3.6
+02BQ2d.png,3.6
+02BQ2e.png,3.6
+02BQ3a.png,electronics
+02BQ3b.png,electronics
+02BQ3c.png,electronics
+02BQ4a.png,optics
+02BQ4b.png,optics
+02BQ4c.png,optics
+02BQ4d.png,optics
+02BQ4e.png,optics
+02BQ5a.png,electromagnetism
+02BQ5b.png,electromagnetism
+02BQ5c.png,electromagnetism
+02BQ5d.png,electromagnetism
+02BQ5e.png,electromagnetism
+02BQ6a.png,thermodynamics
+02BQ6b.png,thermodynamics
+02BQ6c.png,thermodynamics
+02BQ7a.png,atomic
+02BQ7b.png,atomic
+02BQ7c.png,atomic
+02Q1a.png,2.5
+02Q1b.png,5.1
+02Q1c.png,4.3
+02Q1d.png,1.1
+02Q2a.png,6.2
+02Q2b.png,6.2
+02Q2c.png,4.3
+02Q2d.png,4.3
+02Q2e.png,4.3
+02Q3a.png,electronics
+02Q3b.png,electronics
+02Q3c.png,electronics
+02Q3d.png,electronics
+02Q4a.png,optics
+02Q4b.png,optics
+02Q4c.png,optics
+02Q4d.png,optics
+02Q4e.png,optics
+02Q5a.png,electromagnetism
+02Q5b.png,electromagnetism
+02Q5c.png,electromagnetism
+02Q5d.png,electromagnetism
+02Q6a.png,experiment
+02Q6b.png,experiment
+02Q6c.png,experiment
+02Q6d.png,experiment
+02Q7a.png,atomic
+02Q7b.png,atomic
+02Q7c.png,atomic
+02Q7d.png,atomic
+03BQ1a.png,2.5
+03BQ1b.png,1.1
+03BQ1c.png,2.6
+03BQ1d.png,4.3
+03BQ2a.png,circuits
+03BQ2b.png,circuits
+03BQ2c.png,circuits
+03BQ2d.png,circuits
+03BQ3a.png,optics
+03BQ3b.png,optics
+03BQ3c.png,optics
+03BQ3d.png,optics
+03BQ3e.png,optics
+03BQ4a.png,electromagnetism
+03BQ4b.png,electromagnetism
+03BQ4c.png,electromagnetism
+03BQ4d.png,electromagnetism
+03BQ4e.png,electromagnetism
+03BQ5a.png,thermodynamics
+03BQ5b.png,thermodynamics
+03BQ5c.png,thermodynamics
+03BQ5d.png,thermodynamics
+03BQ5e.png,thermodynamics
+03BQ6a.png,4.3
+03BQ6b.png,4.3
+03BQ7a.png,atomic
+03BQ7b.png,atomic
+03Q1a.png,2.5
+03Q1b.png,2.6
+03Q1c.png,2.6
+03Q1d.png,2.6
+03Q1e.png,2.6
+03Q2a.png,circuits
+03Q2b.png,circuits
+03Q2c.png,circuits
+03Q2d.png,circuits
+03Q2e.png,circuits
+03Q3a.png,electromagnetism
+03Q3b.png,electromagnetism
+03Q3c.png,electromagnetism
+03Q3d.png,electromagnetism
+03Q3e.png,electromagnetism
+03Q4a.png,"experiment, optics"
+03Q4b.png,"experiment, optics"
+03Q4c.png,optics
+03Q4d.png,optics
+03Q4e.png,optics
+03Q5a.png,thermodynamics
+03Q5b.png,thermodynamics
+03Q5c.png,thermodynamics
+03Q5d.png,thermodynamics
+03Q6a.png,fluids
+03Q6b.png,fluids
+03Q6c.png,fluids
+03Q6d.png,2.7
+03Q7a.png,atomic
+03Q7b.png,atomic
+03Q7c.png,atomic
+03Q7d.png,atomic
+04BQ1a.png,"3.6, 4.3"
+04BQ1b.png,2.5
+04BQ1c.png,3.6
+04BQ1d.png,4.3
+04BQ1e.png,3.6
+04BQ2a.png,fluids
+04BQ2b.png,fluids
+04BQ2c.png,fluids
+04BQ2d.png,fluids
+04BQ2e.png,fluids
+04BQ3a.png,waves
+04BQ3b.png,waves
+04BQ3c.png,waves
+04BQ3d.png,waves
+04BQ3e.png,waves
+04BQ4a.png,electromagnetism
+04BQ4b.png,electromagnetism
+04BQ4c.png,electromagnetism
+04BQ4d.png,electromagnetism
+04BQ4e.png,electromagnetism
+04BQ5a.png,thermodynamics
+04BQ5b.png,thermodynamics
+04BQ5c.png,thermodynamics
+04BQ5d.png,thermodynamics
+04BQ6a.png,experiment
+04BQ6b.png,atomic
+04BQ6c.png,atomic
+04BQ6d.png,atomic
+04Q1a.png,4.3
+04Q1b.png,4.3
+04Q1c.png,3.6
+04Q1d.png,3.6
+04Q2a.png,fluids
+04Q2b.png,fluids
+04Q2c.png,fluids
+04Q2d.png,1.1
+04Q2e.png,1.1
+04Q2f.png,1.1
+04Q3a.png,electromagnetism
+04Q3b.png,electromagnetism
+04Q3c.png,electromagnetism
+04Q3d.png,electromagnetism
+04Q4a.png,waves
+04Q4b.png,waves
+04Q4c.png,waves
+04Q4d.png,waves
+04Q5a.png,thermodynamics
+04Q5b.png,thermodynamics
+04Q5c.png,thermodynamics
+04Q6a.png,electronics
+04Q6b.png,experiment
+04Q6c.png,atomic
+04Q6d.png,atomic
+05BQ1a.png,2.5
+05BQ1b.png,2.7
+05BQ1c.png,2.7
+05BQ1d.png,1.1
+05BQ2a.png,3.7
+05BQ2b.png,3.6
+05BQ2c.png,3.6
+05BQ2d.png,6.1
+05BQ3a.png,electromagnetism
+05BQ3b.png,electromagnetism
+05BQ3c.png,electromagnetism
+05BQ3d.png,electromagnetism
+05BQ4a.png,"waves, experiment"
+05BQ4b.png,"waves, experiment"
+05BQ4c.png,"waves, experiment"
+05BQ4d.png,"waves, experiment"
+05BQ4e.png,"waves, experiment"
+05BQ5a.png,fluids
+05BQ5b.png,fluids
+05BQ5c.png,fluids
+05BQ6a.png,thermodynamics
+05BQ6b.png,thermodynamics
+05BQ6c.png,"thermodynamics, experiment"
+05BQ6d.png,"thermodynamics, experiment"
+05BQ7a.png,atomic
+05BQ7b.png,atomic
+05BQ7c.png,atomic
+05BQ7d.png,atomic
+05Q1a.png,1.1
+05Q1b.png,1.2
+05Q1c.png,2.7
+05Q2a.png,3.7
+05Q2b.png,3.8
+05Q2c.png,4.3
+05Q3a.png,electromagnetism
+05Q3b.png,electromagnetism
+05Q3c.png,electromagnetism
+05Q3d.png,electromagnetism
+05Q4a.png,"waves, experiment"
+05Q4b.png,"waves, experiment"
+05Q4c.png,"waves, experiment"
+05Q4d.png,"waves, experiment"
+05Q4e.png,"waves, experiment"
+05Q5a.png,fluids
+05Q5b.png,fluids
+05Q5c.png,fluids
+05Q6a.png,thermodynamics
+05Q6b.png,"thermodynamics, experiment"
+05Q6c.png,"thermodynamics, experiment"
+05Q7a.png,atomic
+05Q7b.png,atomic
+05Q7c.png,atomic
+05Q7d.png,atomic
+06BQ1a.png,experiment
+06BQ1b.png,"1.2, experiment"
+06BQ1c.png,"1.2, experiment"
+06BQ1d.png,"1.2, experiment"
+06BQ1e.png,"1.2, experiment"
+06BQ2a.png,4.3
+06BQ2b.png,5.4
+06BQ2c.png,2.7
+06BQ2d.png,5.4
+06BQ3a.png,electromagnetism
+06BQ3b.png,electromagnetism
+06BQ3c.png,electromagnetism
+06BQ3d.png,electromagnetism
+06BQ3e.png,electromagnetism
+06BQ4a.png,optics
+06BQ4b.png,optics
+06BQ4c.png,waves
+06BQ5a.png,thermodynamics
+06BQ5b.png,thermodynamics
+06BQ5c.png,thermodynamics
+06BQ6a.png,atomic
+06BQ6b.png,atomic
+06BQ6c.png,atomic
+06BQ6d.png,atomic
+06BQ6e.png,atomic
+06Q1a.png,2.5
+06Q1b.png,2.7
+06Q1c.png,2.7
+06Q1d.png,1.1
+06Q1e.png,6.1
+06Q1f.png,6.2
+06Q2a.png,"1.1, experiment"
+06Q2b.png,"1.1, experiment"
+06Q2c.png,"1.1, experiment"
+06Q3a.png,electromagnetism
+06Q3b.png,electromagnetism
+06Q3c.png,electromagnetism
+06Q3d.png,electromagnetism
+06Q3e.png,electromagnetism
+06Q4a.png,"optics, experiment"
+06Q4b.png,"optics, experiment"
+06Q4c.png,"optics, experiment"
+06Q4d.png,optics
+06Q4e.png,optics
+06Q5a.png,thermodynamics
+06Q5b.png,thermodynamics
+06Q5c.png,thermodynamics
+06Q6a.png,atomic
+06Q6b.png,atomic
+06Q6c.png,atomic
+07BQ1a.png,2.5
+07BQ1b.png,2.7
+07BQ1c.png,2.7
+07BQ1d.png,4.2
+07BQ1e.png,5.4
+07BQ2a.png,electromagnetism
+07BQ2b.png,electromagnetism
+07BQ2c.png,electromagnetism
+07BQ2d.png,electromagnetism
+07BQ3a.png,circuits
+07BQ3b.png,circuits
+07BQ3c.png,circuits
+07BQ3d.png,circuits
+07BQ3e.png,circuits
+07BQ4a.png,fluids
+07BQ4b.png,fluids
+07BQ4c.png,fluids
+07BQ4d.png,fluids
+07BQ5a.png,thermodynamics
+07BQ5b.png,thermodynamics
+07BQ5c.png,thermodynamics
+07BQ6a.png,"optics, experiment"
+07BQ6b.png,"optics, experiment"
+07BQ6c.png,"optics, experiment"
+07BQ6d.png,"optics, experiment"
+07BQ7a.png,atomic
+07BQ7b.png,atomic
+07BQ7c.png,atomic
+07BQ7d.png,atomic
+07Q1a.png,1.1
+07Q1b.png,2.5
+07Q1c.png,2.7
+07Q1d.png,2.7
+07Q1e.png,2.7
+07Q2a.png,electromagnetism
+07Q2b.png,electromagnetism
+07Q2c.png,electromagnetism
+07Q2d.png,electromagnetism
+07Q3a.png,circuits
+07Q3b.png,circuits
+07Q3c.png,circuits
+07Q3d.png,circuits
+07Q3e.png,circuits
+07Q4a.png,fluids
+07Q4b.png,fluids
+07Q4c.png,fluids
+07Q4d.png,fluids
+07Q5a.png,thermodynamics
+07Q5b.png,thermodynamics
+07Q5c.png,thermodynamics
+07Q5d.png,thermodynamics
+07Q6a.png,"optics, experiment"
+07Q6b.png,"optics, experiment"
+07Q6c.png,"optics, experiment"
+07Q6d.png,"optics, experiment"
+07Q6e.png,"optics, experiment"
+07Q7a.png,atomic
+07Q7b.png,atomic
+07Q7c.png,atomic
+07Q7d.png,atomic
+07Q7e.png,atomic
+08BQ1a.png,5.4
+08BQ1b.png,5.1
+08BQ1c.png,2.5
+08BQ1d.png,2.7
+08BQ2a.png,1.1
+08BQ2b.png,2.5
+08BQ2c.png,2.7
+08BQ2d.png,2.3
+08BQ2e.png,2.7
+08BQ3a.png,electromagnetism
+08BQ3b.png,electromagnetism
+08BQ3c.png,electromagnetism
+08BQ3d.png,electromagnetism
+08BQ3e.png,electromagnetism
+08BQ3f.png,electromagnetism
+08BQ4a.png,fluids
+08BQ4b.png,fluids
+08BQ4c.png,fluids
+08BQ5a.png,optics
+08BQ5b.png,optics
+08BQ5c.png,optics
+08BQ5d.png,optics
+08BQ6a.png,thermodynamics
+08BQ6b.png,thermodynamics
+08BQ6c.png,thermodynamics
+08BQ6d.png,thermodynamics
+08BQ7a.png,atomic
+08BQ7b.png,atomic
+08BQ7c.png,atomic
+08BQ7d.png,atomic
+08Q1a.png,1.1
+08Q1b.png,5.4
+08Q1c.png,"5.4, 4.3"
+08Q2a.png,2.7
+08Q2b.png,2.7
+08Q2c.png,2.7
+08Q2d.png,2.7
+08Q2e.png,4.3
+08Q3a.png,electromagnetism
+08Q3b.png,electromagnetism
+08Q3c.png,electromagnetism
+08Q3d.png,electromagnetism
+08Q3e.png,electromagnetism
+08Q4a.png,fluids
+08Q4b.png,fluids
+08Q4c.png,fluids
+08Q5a.png,thermodynamics
+08Q5b.png,thermodynamics
+08Q5c.png,thermodynamics
+08Q6a.png,optics
+08Q6b.png,optics
+08Q6c.png,optics
+08Q6d.png,optics
+08Q7a.png,atomic
+08Q7b.png,atomic
+08Q7c.png,atomic
+08Q7d.png,atomic
+09BQ1a.png,3.8
+09BQ1b.png,"3.8, experiment"
+09BQ1c.png,"3.8, experiment"
+09BQ1d.png,"3.8, experiment"
+09BQ2a.png,electromagnetism
+09BQ2b.png,electromagnetism
+09BQ2c.png,electromagnetism
+09BQ2d.png,electromagnetism
+09BQ2e.png,electromagnetism
+09BQ3a.png,fluids
+09BQ3b.png,fluids
+09BQ3c.png,fluids
+09BQ3d.png,fluids
+09BQ4a.png,thermodynamics
+09BQ4b.png,thermodynamics
+09BQ4c.png,thermodynamics
+09BQ4d.png,thermodynamics
+09BQ4e.png,thermodynamics
+09BQ5a.png,optics
+09BQ5b.png,optics
+09BQ5c.png,optics
+09BQ5d.png,optics
+09BQ6a.png,atomic
+09BQ6b.png,atomic
+09BQ6c.png,atomic
+09BQ6d.png,atomic
+09Q1a.png,4.3
+09Q1b.png,"4.3, experiment"
+09Q1c.png,"4.3, experiment"
+09Q1d.png,"4.3, experiment"
+09Q1e.png,"4.3, experiment"
+09Q2a.png,electromagnetism
+09Q2b.png,electromagnetism
+09Q2c.png,electromagnetism
+09Q2d.png,electromagnetism
+09Q3a.png,electromagnetism
+09Q3b.png,electromagnetism
+09Q3c.png,electromagnetism
+09Q3d.png,electromagnetism
+09Q3e.png,electromagnetism
+09Q4a.png,thermodynamics
+09Q4b.png,thermodynamics
+09Q4c.png,thermodynamics
+09Q4d.png,thermodynamics
+09Q5a.png,fluids
+09Q5b.png,fluids
+09Q5c.png,fluids
+09Q5d.png,fluids
+09Q6a.png,"waves, optics"
+09Q6b.png,"waves, optics"
+09Q6c.png,"waves, optics"
+09Q6d.png,"waves, optics"
+09Q7a.png,atomic
+09Q7b.png,atomic
+09Q7c.png,atomic
+10BQ1a.png,4.3
+10BQ1b.png,3.7
+10BQ1c.png,3.6
+10BQ1d.png,3.6
+10BQ2a.png,"6.1, experiment"
+10BQ2b.png,"6.1, experiment"
+10BQ2c.png,"6.1, experiment"
+10BQ2d.png,"6.1, experiment"
+10BQ2e.png,"6.1, experiment"
+10BQ3a.png,electromagnetism
+10BQ3b.png,electromagnetism
+10BQ3c.png,electromagnetism
+10BQ3d.png,electromagnetism
+10BQ3e.png,electromagnetism
+10BQ4a.png,circuits
+10BQ4b.png,circuits
+10BQ4c.png,circuits
+10BQ4d.png,circuits
+10BQ5a.png,"waves, optics"
+10BQ5b.png,"waves, optics"
+10BQ5c.png,"waves, optics"
+10BQ5d.png,"waves, optics"
+10BQ6a.png,fluids
+10BQ6b.png,fluids
+10BQ6c.png,fluids
+10BQ6d.png,fluids
+10BQ7a.png,atomic
+10BQ7b.png,atomic
+10BQ7c.png,atomic
+10BQ7d.png,atomic
+10Q1a.png,1.1
+10Q1b.png,1.1
+10Q1c.png,4.3
+10Q1d.png,5.4
+10Q1e.png,4.3
+10Q2a.png,fluids
+10Q2b.png,fluids
+10Q2c.png,"fluids, experiment"
+10Q2d.png,"fluids, experiment"
+10Q2e.png,"fluids, experiment"
+10Q3a.png,electromagnetism
+10Q3b.png,electromagnetism
+10Q3c.png,electromagnetism
+10Q3d.png,electromagnetism
+10Q3e.png,electromagnetism
+10Q4a.png,thermodynamics
+10Q4b.png,thermodynamics
+10Q4c.png,thermodynamics
+10Q4d.png,thermodynamics
+10Q5a.png,optics
+10Q5b.png,optics
+10Q5c.png,optics
+10Q6a.png,electromagnetism
+10Q6b.png,electromagnetism
+10Q6c.png,electromagnetism
+10Q7a.png,atomic
+10Q7b.png,atomic
+10Q7c.png,atomic
+10Q7d.png,atomic
+11BQ1a.png,2.5
+11BQ1b.png,2.7
+11BQ1c.png,2.7
+11BQ1d.png,2.7
+11BQ1e.png,2.7
+11BQ1f.png,4.2
+11BQ2a.png,"electromagnetism, experiment"
+11BQ2b.png,"electromagnetism, experiment"
+11BQ2c.png,"electromagnetism, experiment"
+11BQ2d.png,"electromagnetism, experiment"
+11BQ3a.png,"waves, optics"
+11BQ3b.png,"waves, optics"
+11BQ3c.png,"waves, optics"
+11BQ3d.png,"waves, optics"
+11BQ3e.png,"waves, optics"
+11BQ4a.png,fluids
+11BQ4b.png,fluids
+11BQ4c.png,fluids
+11BQ4d.png,fluids
+11BQ5a.png,electromagnetism
+11BQ5b.png,electromagnetism
+11BQ5c.png,electromagnetism
+11BQ5d.png,electromagnetism
+11BQ5e.png,electromagnetism
+11BQ6a.png,atomic
+11BQ6b.png,atomic
+11BQ6c.png,atomic
+11BQ6d.png,atomic
+11Q1a.png,1.2
+11Q1b.png,1.1
+11Q1c.png,2.6
+11Q1d.png,2.6
+11Q1e.png,4.2
+11Q1f.png,4.2
+11Q2a.png,electromagnetism
+11Q2b.png,electromagnetism
+11Q2c.png,electromagnetism
+11Q2d.png,electromagnetism
+11Q3a.png,"waves, optics, experiment"
+11Q3b.png,"waves, optics, experiment"
+11Q3c.png,"waves, optics, experiment"
+11Q3d.png,"waves, optics, experiment"
+11Q3e.png,"waves, optics, experiment"
+11Q4a.png,fluids
+11Q4b.png,fluids
+11Q4c.png,fluids
+11Q4d.png,fluids
+11Q4e.png,fluids
+11Q5a.png,electromagnetism
+11Q5b.png,electromagnetism
+11Q5c.png,electromagnetism
+11Q5d.png,electromagnetism
+11Q5e.png,electromagnetism
+11Q6a.png,atomic
+11Q6b.png,atomic
+11Q6c.png,atomic
+11Q6d.png,atomic
+12Q1a.png,2.5
+12Q1b.png,2.7
+12Q1c.png,2.7
+12Q1d.png,2.7
+12Q1e.png,2.7
+12Q1f.png,2.7
+12Q2a.png,1.1
+12Q2b.png,5.4
+12Q2c.png,5.4
+12Q2d.png,4.3
+12Q2e.png,"5.4, 4.3"
+12Q3a.png,fluids
+12Q3b.png,fluids
+12Q3c.png,fluids
+12Q3d.png,fluids
+12Q4a.png,thermodynamics
+12Q4b.png,thermodynamics
+12Q4c.png,thermodynamics
+12Q4d.png,thermodynamics
+12Q5a.png,circuits
+12Q5b.png,circuits
+12Q5c.png,circuits
+12Q5d.png,circuits
+12Q5e.png,circuits
+12Q6a.png,"6.1, experiment"
+12Q6b.png,"6.1, experiment"
+12Q6c.png,"6.1, experiment"
+12Q7a.png,atomic
+12Q7b.png,atomic
+12Q7c.png,atomic
+12Q7d.png,atomic
+13Q1a.png,fluids
+13Q1b.png,fluids
+13Q1c.png,fluids
+13Q1d.png,fluids
+13Q2a.png,4.2
+13Q2b.png,4.3
+13Q2c.png,6.1
+13Q2d.png,6.1
+13Q2e.png,4.3
+13Q3a.png,"optics, experiment"
+13Q3b.png,"optics, experiment"
+13Q3c.png,"optics, experiment"
+13Q4a.png,1.1
+13Q4b.png,1.1
+13Q4c.png,2.6
+13Q4d.png,2.6
+13Q5a.png,thermodynamics
+13Q5b.png,thermodynamics
+13Q5c.png,thermodynamics
+13Q5d.png,thermodynamics
+13Q6a.png,electromagnetism
+13Q6b.png,electromagnetism
+13Q6c.png,electromagnetism
+13Q6d.png,electromagnetism
+13Q6e.png,electromagnetism
+13Q7a.png,atomic
+13Q7b.png,atomic
+13Q7c.png,atomic
+13Q7d.png,atomic
+13Q7e.png,atomic
+14Q1a.png,3.7
+14Q1b.png,4.3
+14Q1c.png,4.3
+14Q1d.png,"3.6, 1.1"
+14Q1e.png,5.4
+14Q2a.png,fluids
+14Q2b.png,fluids
+14Q2c.png,fluids
+14Q2d.png,fluids
+14Q3a.png,thermodynamics
+14Q3b.png,thermodynamics
+14Q3c.png,thermodynamics
+14Q3d.png,thermodynamics
+14Q4a.png,electromagnetism
+14Q4b.png,electromagnetism
+14Q4c.png,electromagnetism
+14Q4d.png,electromagnetism
+14Q4e.png,electromagnetism
+14Q5a.png,electromagnetism
+14Q5b.png,electromagnetism
+14Q5c.png,electromagnetism
+14Q5d.png,electromagnetism
+14Q5e.png,electromagnetism
+14Q6a.png,atomic
+14Q6b.png,atomic
+14Q6c.png,atomic
+14Q6d.png,atomic
+14Q6e.png,atomic
+14Q7a.png,optics
+14Q7b.png,optics
+14Q7c.png,optics
+14Q7d.png,optics
+14Q7e.png,optics
+15Q1a.png,2.5
+15Q1b.png,2.7
+15Q1c.png,2.7
+15Q2a.png,expt (electricity)
+15Q2b.png,expt (electricity)
+15Q2c.png,expt (electricity)
+15Q2d.png,expt (electricity)
+15Q3a.png,4.3
+15Q3b.png,4.3
+15Q3c.png,4.3
+15Q3d.png,4.3
+15Q4a.png,2.5
+15Q4b.png,1.2
+15Q4c.png,1.2
+15Q5a.png,6.1
+15Q5b.png,"6.1, analysis"
+15Q5c.png,6.1
+16Q1a.png,"2.5, 7.2"
+16Q1b.png,2.7
+16Q1c.png,7.2
+16Q2a.png,"5.4, expt"
+16Q2b.png,"5.4, expt"
+16Q2c.png,"5.4, expt"
+16Q3a.png,1.2
+16Q3b.png,2.7
+16Q3c.png,2.7
+16Q3d.png,expt 
+16Q4a.png,electricity
+16Q4b.png,electricity
+16Q4c.png,electricity
+16Q5a.png,2.5
+16Q5b.png,6.1
+17Q1a.png,electricity
+17Q1b.png,electricity
+17Q2a.png,"2.7, expt"
+17Q2b.png,"2.7, expt"
+17Q2c.png,expt 
+17Q2d.png,2.7
+17Q3a.png,7.2
+17Q3b.png,7.2
+17Q3c.png,"7.2, dim"
+17Q3d.png,7.4
+17Q3e.png,7.4
+17Q4a.png,4.3
+17Q4b.png,4.3
+17Q5a.png,6.1
+17Q5b.png,6.1
+18Q1a.png,3.7
+18Q1b.png,3.8
+18Q1c.png,3.8
+18Q2a.png,electricity
+18Q2b.png,electricity
+18Q2c.png,electricity
+18Q3a.png,7.2
+18Q3b.png,7.2
+18Q3c.png,7.4
+18Q3d.png,7.4
+18Q4a.png,6.1
+18Q4b.png,6.1
+18Q4c.png,6.1
+18Q5a.png,6.1
+18Q5b.png,6.1
+19Q1a.png,5.4
+19Q1b.png,7.4
+19Q2a.png,2.7
+19Q2b.png,2.5
+19Q2c.png,2.7
+19Q2d.png,2.7
+19Q2e.png,2.7
+19Q3a.png,"2.7, expt"
+19Q3b.png,"2.7, expt"
+19Q3c.png,"2.7, expt"
+19Q3d.png,"4.3, expt"
+19Q4a.png,4.3
+19Q4b.png,electricity
+19Q5a.png,6.1
+19Q5b.png,6.1
+19Q5c.png,6.1
+21Q1a.png,4.3
+21Q1b.png,4.3
+21Q1c.png,"4.3, 1.2"
+21Q2a.png,"2.7, expt"
+21Q2b.png,expt 
+21Q2c.png,expt 
+21Q2d.png,expt 
+21Q3a.png,2.6
+21Q3b.png,"2.6, expt"
+21Q3c.png,5.4
+21Q4a.png,7.2
+21Q4b.png,7.2
+21Q5a.png,7.2
+21Q5b.png,7.4
+21Q5c.png,7.4
