@@ -37,10 +37,11 @@ function readCategorizationData() {
         // ]
         const data = [];
         for (let curRow of rows.slice(1)) {
+          const actualFilename = curRow[0];
           const filenameRe = new RegExp("([0-9]{2}[B]?)Q([1-9])([a-z]).png");
-          const filenameMatches = filenameRe.exec(curRow[0]);
+          const filenameMatches = filenameRe.exec(actualFilename);
           if (!filenameMatches) {
-            console.log(`filename matches failed on filename ${curRow[0]}`)
+            console.log(`filename matches failed on filename ${actualFilename}`)
           } else {
             const topics = curRow[1].split(",").map(el => el.trim());
             const curRecord = {
@@ -48,6 +49,7 @@ function readCategorizationData() {
               "question": filenameMatches[2],
               "part": filenameMatches[3],
               "topics": topics,
+              "filename": actualFilename,
             };
             data.push(curRecord);
           }
@@ -60,7 +62,7 @@ function readCategorizationData() {
 
 readCategorizationData()
 .then(result => {
-  fs.writeFile("Categorization.json", JSON.stringify(result, null, "  "), (err) => {
-    console.log('Check contents of Categorization.json');
+  fs.writeFile("../src/assets/Categorization.json", JSON.stringify(result, null, "  "), (err) => {
+    console.log('Check contents of ~/src/assets/Categorization.json');
   });
 })

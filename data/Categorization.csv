@@ -8,9 +8,9 @@ Filename,Category
 00Q2b.png,2.3
 00Q2c.png,2.6
 00Q2d.png,2.6
-00Q3a.png,electricity
-00Q3b.png,electricity
-00Q3c.png,electricity
+00Q3a.png,circuits
+00Q3b.png,circuits
+00Q3c.png,circuits
 00Q4a.png,optics
 00Q4b.png,optics
 00Q5a.png,atomic
@@ -35,13 +35,13 @@ Filename,Category
 01Q3a.png,electromagnetism
 01Q3b.png,electromagnetism
 01Q3c.png,electromagnetism
-01Q4a.png,"optics, analysis"
+01Q4a.png,"optics, experiment"
 01Q4b.png,optics
 01Q4c.png,optics
 01Q4d.png,optics
-01Q5a.png,"electronics, experiment"
-01Q5b.png,"electronics, experiment"
-01Q5c.png,"electronics, experiment"
+01Q5a.png,"circuits, experiment"
+01Q5b.png,"circuits, experiment"
+01Q5c.png,"circuits, experiment"
 01Q6a.png,thermodynamics
 01Q6b.png,thermodynamics
 01Q6c.png,thermodynamics
@@ -61,9 +61,9 @@ Filename,Category
 02BQ2c.png,3.6
 02BQ2d.png,3.6
 02BQ2e.png,3.6
-02BQ3a.png,electronics
-02BQ3b.png,electronics
-02BQ3c.png,electronics
+02BQ3a.png,circuits
+02BQ3b.png,circuits
+02BQ3c.png,circuits
 02BQ4a.png,optics
 02BQ4b.png,optics
 02BQ4c.png,optics
@@ -89,10 +89,10 @@ Filename,Category
 02Q2c.png,4.3
 02Q2d.png,4.3
 02Q2e.png,4.3
-02Q3a.png,electronics
-02Q3b.png,electronics
-02Q3c.png,electronics
-02Q3d.png,electronics
+02Q3a.png,circuits
+02Q3b.png,circuits
+02Q3c.png,circuits
+02Q3d.png,circuits
 02Q4a.png,optics
 02Q4b.png,optics
 02Q4c.png,optics
@@ -218,7 +218,7 @@ Filename,Category
 04Q5a.png,thermodynamics
 04Q5b.png,thermodynamics
 04Q5c.png,thermodynamics
-04Q6a.png,electronics
+04Q6a.png,circuits
 04Q6b.png,experiment
 04Q6c.png,atomic
 04Q6d.png,atomic
@@ -711,10 +711,10 @@ Filename,Category
 15Q1a.png,2.5
 15Q1b.png,2.7
 15Q1c.png,2.7
-15Q2a.png,expt (electricity)
-15Q2b.png,expt (electricity)
-15Q2c.png,expt (electricity)
-15Q2d.png,expt (electricity)
+15Q2a.png,"experiment, circuits"
+15Q2b.png,"experiment, circuits"
+15Q2c.png,"experiment, circuits"
+15Q2d.png,"experiment, circuits"
 15Q3a.png,4.3
 15Q3b.png,4.3
 15Q3c.png,4.3
@@ -723,32 +723,32 @@ Filename,Category
 15Q4b.png,1.2
 15Q4c.png,1.2
 15Q5a.png,6.1
-15Q5b.png,"6.1, analysis"
+15Q5b.png,"6.1, experiment"
 15Q5c.png,6.1
 16Q1a.png,"2.5, 7.2"
 16Q1b.png,2.7
 16Q1c.png,7.2
-16Q2a.png,"5.4, expt"
-16Q2b.png,"5.4, expt"
-16Q2c.png,"5.4, expt"
+16Q2a.png,"5.4, experiment"
+16Q2b.png,"5.4, experiment"
+16Q2c.png,"5.4, experiment"
 16Q3a.png,1.2
 16Q3b.png,2.7
 16Q3c.png,2.7
-16Q3d.png,expt 
-16Q4a.png,electricity
-16Q4b.png,electricity
-16Q4c.png,electricity
+16Q3d.png,experiment 
+16Q4a.png,circuits
+16Q4b.png,circuits
+16Q4c.png,circuits
 16Q5a.png,2.5
 16Q5b.png,6.1
-17Q1a.png,electricity
-17Q1b.png,electricity
-17Q2a.png,"2.7, expt"
-17Q2b.png,"2.7, expt"
-17Q2c.png,expt 
+17Q1a.png,circuits
+17Q1b.png,circuits
+17Q2a.png,"2.7, experiment"
+17Q2b.png,"2.7, experiment"
+17Q2c.png,experiment 
 17Q2d.png,2.7
 17Q3a.png,7.2
 17Q3b.png,7.2
-17Q3c.png,"7.2, dim"
+17Q3c.png,7.2
 17Q3d.png,7.4
 17Q3e.png,7.4
 17Q4a.png,4.3
@@ -758,9 +758,9 @@ Filename,Category
 18Q1a.png,3.7
 18Q1b.png,3.8
 18Q1c.png,3.8
-18Q2a.png,electricity
-18Q2b.png,electricity
-18Q2c.png,electricity
+18Q2a.png,circuits
+18Q2b.png,circuits
+18Q2c.png,circuits
 18Q3a.png,7.2
 18Q3b.png,7.2
 18Q3c.png,7.4
@@ -777,24 +777,24 @@ Filename,Category
 19Q2c.png,2.7
 19Q2d.png,2.7
 19Q2e.png,2.7
-19Q3a.png,"2.7, expt"
-19Q3b.png,"2.7, expt"
-19Q3c.png,"2.7, expt"
-19Q3d.png,"4.3, expt"
+19Q3a.png,"2.7, experiment"
+19Q3b.png,"2.7, experiment"
+19Q3c.png,"2.7, experiment"
+19Q3d.png,"4.3, experiment"
 19Q4a.png,4.3
-19Q4b.png,electricity
+19Q4b.png,circuits
 19Q5a.png,6.1
 19Q5b.png,6.1
 19Q5c.png,6.1
 21Q1a.png,4.3
 21Q1b.png,4.3
 21Q1c.png,"4.3, 1.2"
-21Q2a.png,"2.7, expt"
-21Q2b.png,expt 
-21Q2c.png,expt 
-21Q2d.png,expt 
+21Q2a.png,"2.7, experiment"
+21Q2b.png,experiment 
+21Q2c.png,experiment 
+21Q2d.png,experiment 
 21Q3a.png,2.6
-21Q3b.png,"2.6, expt"
+21Q3b.png,"2.6, experiment"
 21Q3c.png,5.4
 21Q4a.png,7.2
 21Q4b.png,7.2
