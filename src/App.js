@@ -13,13 +13,17 @@ questionList.forEach(question => {
 })
 
 
-const filterQuestions = (allQuestions, selectedTopics) => {
+const filterQuestions = (allQuestions, selectedTopics, additionalTopics) => {
   const result = [];
   for (let question of allQuestions) {
-    for (let topic of question.topics) {
-      if (selectedTopics.includes(topic)) {
-        result.push(question);
-        break;
+    if (additionalTopics.map(topic => question.topics.includes(topic)).includes(false)) {
+      // do nothing
+    } else {
+      for (let topic of question.topics) {
+        if (selectedTopics.includes(topic)) {
+          result.push(question);
+          break;
+        }
       }
     }
   }
@@ -29,29 +33,28 @@ const filterQuestions = (allQuestions, selectedTopics) => {
 
 function App() {
   const [selectedTopics, setSelectedTopics] = useState([]);
+  const [additionalTopics, setAdditionalTopics] = useState([]);
 
-  const filteredQuestions = filterQuestions(questionList, selectedTopics);
+  const filteredQuestions = filterQuestions(questionList, selectedTopics, additionalTopics);
 
   return (
     <>
-    <form onSubmit={(event) => {event.preventDefault()}}>
-      <input 
-        value={selectedTopics} 
-        onChange={(event) => 
-        setSelectedTopics(event.target.value.split(",").map(el => el.trim()))} />
-      <button type="submit">Re-load</button>
-    </form>
+      <form onSubmit={(event) => { event.preventDefault() }}>
+        <input
+          value={selectedTopics}
+          onChange={(event) =>
+            setSelectedTopics(event.target.value.split(",").map(el => el.trim()))} />
 
-    <QuestionSet questionList={filteredQuestions} />
+        <input
+          value={additionalTopics}
+          onChange={(event) =>
+            setAdditionalTopics(event.target.value.split(",").map(el => el.trim()))} />
+      </form>
+
+      <QuestionSet questionList={filteredQuestions} />
     </>
   );
 }
 
-const getFilteredQuestions = () => {
-  const result = [];
-  for (let question of questionList) {
-
-  }
-}
 
 export default App;
