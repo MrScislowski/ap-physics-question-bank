@@ -44,3 +44,28 @@ But this last command generated the following:
 * npm update -g heroku
 * heroku buildpacks:set mars/create-react-app
 (worked this time... must've been outdated version of heroku)
+* git push heroku main
+Gave errors:
+```
+  remote: =====> Downloading Buildpack: https://github.com/mars/create-react-app-inner-buildpack.git#v9.0.0
+  remote: =====> Detected Framework: React.js (create-react-app)
+  remote:        Writing `static.json` to support create-react-app
+  remote:        Enabling runtime environment variables
+  remote: =====> Downloading Buildpack: https://github.com/heroku/heroku-buildpack-static.git#21c1f5175186b70cf247384fd0bf922504b419be
+  remote: =====> Detected Framework: Static HTML
+  remote: Stack heroku-22 is not supported!
+  remote:  !     Push rejected, failed to compile React.js (create-react-app) multi app.
+  remote:
+  remote:  !     Push failed
+  remote: Verifying deploy...
+  remote:
+  remote: !       Push rejected to ap-physics-question-bank.
+  remote:
+  To https://git.heroku.com/ap-physics-question-bank.git
+  ! [remote rejected] main -> main (pre-receive hook declined)
+  error: failed to push some refs to 'https://git.heroku.com/ap-physics-question-bank.git'
+```
+
+Trying this blog's solution: https://medium.com/captainme-ai/deploying-migrating-static-create-react-app-project-to-heroku-22-stack-b19a4255ea7c
+
+* npm install express
