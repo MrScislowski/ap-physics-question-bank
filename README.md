@@ -69,3 +69,8 @@ Gave errors:
 Trying this blog's solution: https://medium.com/captainme-ai/deploying-migrating-static-create-react-app-project-to-heroku-22-stack-b19a4255ea7c
 
 * npm install express
+* git push heroku main
+  ... still didn't work
+* heroku buildpacks:remove mars/create-react-app
+* git push heroku main
+  ... that finally worked!
