@@ -60,9 +60,43 @@ function readCategorizationData() {
   })
 }
 
+function readTopicData() {
+  return new Promise((resolve, reject) => {
+    fs.readFile("APTopicNames.csv", 'utf8', (err, fileData) => {
+      if (err) {
+        console.log(err);
+        reject(err);
+      }
+      parser.parse(fileData, { columns: false, trim: true }, (err, rows) => {
+        if (err) {
+          console.log(err);
+          reject(err);
+        }
+
+        const data = [];
+        for (let curRow of rows.slice(1)) {
+            const curRecord = {
+              // "computed property names", introduced in ES6
+              [curRow[0]]: curRow[1],
+            };
+            data.push(curRecord);
+          }
+        resolve(data);
+      })
+    })
+  })
+}
+
 readCategorizationData()
 .then(result => {
   fs.writeFile("../src/assets/Categorization.json", JSON.stringify(result, null, "  "), (err) => {
     console.log('Check contents of ~/src/assets/Categorization.json');
+  });
+})
+
+readTopicData()
+.then(result => {
+  fs.writeFile("../src/assets/APTopicNames.json", JSON.stringify(result, null, "  "), (err) => {
+    console.log('Check contents of ~/src/assets/APTopicNames.json');
   });
 })
