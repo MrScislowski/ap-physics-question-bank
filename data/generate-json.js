@@ -76,8 +76,8 @@ function readTopicData() {
         const data = [];
         for (let curRow of rows.slice(1)) {
             const curRecord = {
-              // "computed property names", introduced in ES6
-              [curRow[0]]: curRow[1],
+              "ApTopicId": curRow[0],
+              "TopicDescription": curRow[1],
             };
             data.push(curRecord);
           }

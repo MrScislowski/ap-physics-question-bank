@@ -1,116 +1,154 @@
 [
   {
-    "1.1": "Position, Velocity, and Acceleration"
+    "ApTopicId": "1.1",
+    "TopicDescription": "Position, Velocity, and Acceleration"
   },
   {
-    "1.2": "Representations of Motion"
+    "ApTopicId": "1.2",
+    "TopicDescription": "Representations of Motion"
   },
   {
-    "2.1": "Systems"
+    "ApTopicId": "2.1",
+    "TopicDescription": "Systems"
   },
   {
-    "2.2": "The Gravitational Field"
+    "ApTopicId": "2.2",
+    "TopicDescription": "The Gravitational Field"
   },
   {
-    "2.3": "Contact Forces"
+    "ApTopicId": "2.3",
+    "TopicDescription": "Contact Forces"
   },
   {
-    "2.4": "Newton�s First Law"
+    "ApTopicId": "2.4",
+    "TopicDescription": "Newton�s First Law"
   },
   {
-    "2.5": "Newton�s Third Law and Free-Body Diagrams"
+    "ApTopicId": "2.5",
+    "TopicDescription": "Newton�s Third Law and Free-Body Diagrams"
   },
   {
-    "2.6": "Newton�s Second Law"
+    "ApTopicId": "2.6",
+    "TopicDescription": "Newton�s Second Law"
   },
   {
-    "2.7": "Applications of Newton�s Second Law"
+    "ApTopicId": "2.7",
+    "TopicDescription": "Applications of Newton�s Second Law"
   },
   {
-    "3.1": "Vector Fields"
+    "ApTopicId": "3.1",
+    "TopicDescription": "Vector Fields"
   },
   {
-    "3.2": "Fundamental Forces"
+    "ApTopicId": "3.2",
+    "TopicDescription": "Fundamental Forces"
   },
   {
-    "3.3": "Gravitational and Electric Forces"
+    "ApTopicId": "3.3",
+    "TopicDescription": "Gravitational and Electric Forces"
   },
   {
-    "3.4": "Gravitational Field/Acceleration Due to Gravity on Different Planets"
+    "ApTopicId": "3.4",
+    "TopicDescription": "Gravitational Field/Acceleration Due to Gravity on Different Planets"
   },
   {
-    "3.5": "Inertial vs Gravitational Mass"
+    "ApTopicId": "3.5",
+    "TopicDescription": "Inertial vs Gravitational Mass"
   },
   {
-    "3.6": "Centripetal Acceleration and Centripetal Force"
+    "ApTopicId": "3.6",
+    "TopicDescription": "Centripetal Acceleration and Centripetal Force"
   },
   {
-    "3.7": "Free-Body Diagrams for Objects in Uniform Circular Motion"
+    "ApTopicId": "3.7",
+    "TopicDescription": "Free-Body Diagrams for Objects in Uniform Circular Motion"
   },
   {
-    "3.8": "Applications of Circular Motion and Gravitation"
+    "ApTopicId": "3.8",
+    "TopicDescription": "Applications of Circular Motion and Gravitation"
   },
   {
-    "4.1": "Open and Closed Systems: Energy"
+    "ApTopicId": "4.1",
+    "TopicDescription": "Open and Closed Systems: Energy"
   },
   {
-    "4.2": "Work and Mechanical Energy"
+    "ApTopicId": "4.2",
+    "TopicDescription": "Work and Mechanical Energy"
   },
   {
-    "4.3": "Conservation of Energy, the Work-Energy Principle, and Power"
+    "ApTopicId": "4.3",
+    "TopicDescription": "Conservation of Energy, the Work-Energy Principle, and Power"
   },
   {
-    "5.1": "Momentum and Impulse"
+    "ApTopicId": "5.1",
+    "TopicDescription": "Momentum and Impulse"
   },
   {
-    "5.2": "Representations of Changes in Momentum"
+    "ApTopicId": "5.2",
+    "TopicDescription": "Representations of Changes in Momentum"
   },
   {
-    "5.3": "Open and Closed Systems: Momentum"
+    "ApTopicId": "5.3",
+    "TopicDescription": "Open and Closed Systems: Momentum"
   },
   {
-    "5.4": "Conservation of Linear Momentum"
+    "ApTopicId": "5.4",
+    "TopicDescription": "Conservation of Linear Momentum"
   },
   {
-    "6.1": "Period of Simple Harmonic Oscillators"
+    "ApTopicId": "6.1",
+    "TopicDescription": "Period of Simple Harmonic Oscillators"
   },
   {
-    "6.2": "Energy of a Simple Harmonic Oscillator"
+    "ApTopicId": "6.2",
+    "TopicDescription": "Energy of a Simple Harmonic Oscillator"
   },
   {
-    "7.1": "Rotational Kinematics"
+    "ApTopicId": "7.1",
+    "TopicDescription": "Rotational Kinematics"
   },
   {
-    "7.2": "Torque and Angular Acceleration"
+    "ApTopicId": "7.2",
+    "TopicDescription": "Torque and Angular Acceleration"
   },
   {
-    "7.3": "Angular Momentum and Torque"
+    "ApTopicId": "7.3",
+    "TopicDescription": "Angular Momentum and Torque"
   },
   {
-    "7.4": "Conservation of Angular Momentum"
+    "ApTopicId": "7.4",
+    "TopicDescription": "Conservation of Angular Momentum"
   },
   {
-    "optics": "Optics"
+    "ApTopicId": "optics",
+    "TopicDescription": "Optics"
   },
   {
-    "circuits": "Electrical Circuits"
+    "ApTopicId": "circuits",
+    "TopicDescription": "Electrical Circuits"
   },
   {
-    "atomic": "Atomic and Nuclear Physics"
+    "ApTopicId": "atomic",
+    "TopicDescription": "Atomic and Nuclear Physics"
   },
   {
-    "electromagnetism": "Electromagnetism"
+    "ApTopicId": "electromagnetism",
+    "TopicDescription": "Electromagnetism"
   },
   {
-    "experiment": "Experimental Physics"
+    "ApTopicId": "experiment",
+    "TopicDescription": "Experimental Physics"
   },
   {
-    "thermodynamics": "Thermodynamics"
+    "ApTopicId": "thermodynamics",
+    "TopicDescription": "Thermodynamics"
   },
   {
-    "waves": "Waves"
+    "ApTopicId": "waves",
+    "TopicDescription": "Waves"
   },
   {
-    "fluids": "Fluid Mechanics"
+    "ApTopicId": "fluids",
+    "TopicDescription": "Fluid Mechanics"
   }
 ]
