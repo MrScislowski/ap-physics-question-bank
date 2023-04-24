@@ -1,6 +1,8 @@
 import { useState } from 'react';
 import { QuestionSet } from './QuestionSet';
 
+import styled from 'styled-components';
+
 
 // https://stackoverflow.com/questions/58524990/react-relative-imports-outside-of-src-are-not-supported
 const questionList = require("./assets/Categorization.json")
@@ -46,6 +48,13 @@ const filterQuestions = (allQuestions, selectedTopicIds, withContext) => {
   return result;
 }
 
+const Wrapper = styled.div`
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+`;
+
 function App() {
   const [checkboxesState, setCheckboxesState] = useState(new Array(topicList.length).fill(false));
   const [includeContext, setIncludeContext] = useState(false);
@@ -88,7 +97,9 @@ function App() {
         )
         
       })}
-      <QuestionSet questionList={filteredQuestions} />
+      <Wrapper>
+        <QuestionSet questionList={filteredQuestions} />
+      </Wrapper>
     </>
   );
 }

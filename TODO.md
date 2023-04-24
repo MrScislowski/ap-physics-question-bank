@@ -1,4 +1,1 @@
-[ ]
-[ ]
-[ ]
-[ ] make it look nicer with, like, flexbox
+[ ] make the checkboxes not have bullet points next to them.
