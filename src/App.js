@@ -55,6 +55,10 @@ const Wrapper = styled.div`
   flex-direction: column;
 `;
 
+const CheckboxList = styled.ul`
+  list-style-type: none;
+`;
+
 function App() {
   const [checkboxesState, setCheckboxesState] = useState(new Array(topicList.length).fill(false));
   const [includeContext, setIncludeContext] = useState(false);
@@ -80,6 +84,7 @@ function App() {
       onChange={() => setIncludeContext(!includeContext)} />
     <label htmlFor="include-context-checkbox">Include question context?</label>
 
+      <CheckboxList>
       {topicList.map((topicInfo, index) => {
         return (
           <li key={`custom-checkbox-${index}`}>
@@ -94,9 +99,9 @@ function App() {
           />
           <label htmlFor={`custom-checkbox-${index}`}>{`${topicInfo["ApTopicId"]} - ${topicInfo["TopicDescription"]}`}</label>
           </li>
-        )
-        
+        );
       })}
+      </CheckboxList>
       <Wrapper>
         <QuestionSet questionList={filteredQuestions} />
       </Wrapper>

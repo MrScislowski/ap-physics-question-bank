@@ -1,1 +1,1 @@
-[ ] make the checkboxes not have bullet points next to them.
+[ ] add some pop-up (or otherwise) thing that shows you all the categorizations of each particular question
