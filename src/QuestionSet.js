@@ -2,9 +2,9 @@ import { QuestionGroup } from "./QuestionGroup";
 
 const questionComparison = (a, b) => {
   if (a.year > b.year) {
-    return 1;
-  } else if (a.year < b.year) {
     return -1;
+  } else if (a.year < b.year) {
+    return 1;
   }
 
   if (a.question > b.question) {

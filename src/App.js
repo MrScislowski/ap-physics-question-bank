@@ -3,7 +3,6 @@ import { QuestionSet } from './QuestionSet';
 
 import styled from 'styled-components';
 
-
 // https://stackoverflow.com/questions/58524990/react-relative-imports-outside-of-src-are-not-supported
 const questionList = require("./assets/Categorization.json")
 const topicList = require("./assets/APTopicNames.json")
@@ -51,7 +50,7 @@ const filterQuestions = (allQuestions, selectedTopicIds, withContext) => {
 const Wrapper = styled.div`
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: left;
   flex-direction: column;
 `;
 

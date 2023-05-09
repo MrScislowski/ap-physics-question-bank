@@ -7332,21 +7332,21 @@ const data = [
   // }
 ]
 
-const grouped = data.reduce((group, currentQuestion) => {
-  const category = `${currentQuestion.year}Q${currentQuestion.question}`;
-  if (!group.hasOwnProperty(category)) {
-    // TODO: I don't understand why this wouldn't work with Sets...
-    // group[category] = new Set();
-    group[category] = [];
-  }
+// const grouped = data.reduce((group, currentQuestion) => {
+//   const category = `${currentQuestion.year}Q${currentQuestion.question}`;
+//   if (!group.hasOwnProperty(category)) {
+//     // TODO: I don't understand why this wouldn't work with Sets...
+//     // group[category] = new Set();
+//     group[category] = [];
+//   }
 
-  currentQuestion.topics.forEach(topic => {
-    // TODO: why don't sets work
-    // group[category].add(topic);
-    group[category].push(topic);
-  });
+//   currentQuestion.topics.forEach(topic => {
+//     // TODO: why don't sets work
+//     // group[category].add(topic);
+//     group[category].push(topic);
+//   });
 
-  return group;
-}, {});
+//   return group;
+// }, {});
 
-console.log(`${JSON.stringify(grouped)}`);
+// console.log(`${JSON.stringify(grouped)}`);
