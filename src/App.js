@@ -24,19 +24,19 @@ const filterQuestions = (allQuestions, selectedTopicIds, withContext) => {
     const grouped = allQuestions.reduce((group, currentQuestion) => {
       const category = `${currentQuestion.year}Q${currentQuestion.question}`;
       if (!group.hasOwnProperty(category)) {
-        group[category] = [];
+        group[category] = new Set();
       }
     
       currentQuestion.topics.forEach(topic => {
-        group[category].push(topic);
+        group[category].add(topic);
       });
     
       return group;
     }, {});
-
+    
     result = allQuestions.filter(question => {
       for (let topic of selectedTopicIds) {
-        if (grouped[`${question.year}Q${question.question}`].includes(topic)) {
+        if (grouped[`${question.year}Q${question.question}`].has(topic)) {
           return true;
         }
       }
