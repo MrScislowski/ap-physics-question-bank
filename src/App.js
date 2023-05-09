@@ -4,8 +4,25 @@ import { QuestionSet } from './QuestionSet';
 import styled from 'styled-components';
 
 // https://stackoverflow.com/questions/58524990/react-relative-imports-outside-of-src-are-not-supported
-const questionList = require("./assets/Categorization.json")
-const topicList = require("./assets/APTopicNames.json")
+const questionList = require("./assets/Categorization.json");
+let topicList = require("./assets/APTopicNames.json");
+
+
+// add a count to how many questions of each topic type exist
+topicList = topicList.map(topic => {
+  return {
+    ...topic,
+    count: 0,
+  }
+});
+
+questionList.forEach(question => {
+  question.topics.forEach(topic => {
+    topicList.find(topicElement => topicElement.ApTopicId === topic).count++;
+  });
+});
+
+console.log(topicList)
 
 const filterQuestions = (allQuestions, selectedTopicIds, withContext) => {
   let result = [];
@@ -96,7 +113,7 @@ function App() {
             onChange={() =>
               handleCheckboxChange(index)} 
           />
-          <label htmlFor={`custom-checkbox-${index}`}>{`${topicInfo["ApTopicId"]} - ${topicInfo["TopicDescription"]}`}</label>
+          <label htmlFor={`custom-checkbox-${index}`}>{`${topicInfo["ApTopicId"]} - ${topicInfo["TopicDescription"]} (${topicInfo["count"]})`}</label>
           </li>
         );
       })}
