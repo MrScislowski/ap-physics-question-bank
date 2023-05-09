@@ -1,4 +1,13 @@
 import { QuestionGroup } from "./QuestionGroup";
+import styled from 'styled-components';
+
+
+const Wrapper = styled.div`
+  display: flex;
+  align-items: center;
+  justify-content: left;
+  flex-direction: column;
+`;
 
 const questionComparison = (a, b) => {
   if (a.year > b.year) {
@@ -58,10 +67,10 @@ export const QuestionSet = (props) => {
   const questionGroups = partitionIntoGroups(props.questionList);
 
   return (
-    <>
+    <Wrapper>
     {questionGroups.map((questionGroup, index) => {
       return <QuestionGroup key={`QG${index}`} group={questionGroup} />
     })}
-    </>
+    </Wrapper>
   )
 }
