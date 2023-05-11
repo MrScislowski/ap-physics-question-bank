@@ -1,6 +1,8 @@
 import { useState } from 'react';
 import { QuestionSet } from './QuestionSet';
 import { TopicSelector } from './TopicSelector';
+import { ModeSelector } from './ModeSelector';
+import { DataFrame } from './DataFrame';
 
 import styled from 'styled-components';
 
@@ -10,10 +12,14 @@ let topicList = require("./assets/APTopicNames.json");
 
 
 function App() {
+
+  // topic, year, searchString
+  const [filterMode, setFilterMode] = useState('topic');
   
   return (
     <>
-    <TopicSelector questionList={questionList} topicList={topicList} />
+    <ModeSelector setFilterMode={setFilterMode} />
+    <DataFrame filterMode={filterMode} questionList={questionList} topicList={topicList} />
     </>
   );
 }
