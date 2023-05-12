@@ -1,0 +1,10 @@
+M=8.0kg
+
+1. (15 points)
+
+An ideal spring of unstretched length 0.20 m is placed horizontally on a frictionless table as shown above. One
+end of the spring is fixed and the other end is attached to a block of mass M = 8.0 kg. The 8.0 kg block is also
+attached to a massless string that passes over a small frictionless pulley. A block of mass m = 4.0 kg hangs from
+the other end of the string. When this spring-and-blocks system is in equilibrium, the length of the spring is
+0.25 m and the 4.0 kg block is 0.70 m above the floor.
+

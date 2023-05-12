@@ -1,0 +1,4 @@
+(©) Indicate below whether the process from state 2 to state 3 is isothermal, isobaric, or adiabatic.
+Isothermal ___Isobaric_ __ Adiabatic
+
+Explain your reasoning.

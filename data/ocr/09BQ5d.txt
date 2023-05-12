@@ -1,0 +1,12 @@
+(d) The oil film now rests on a thick slab of glass with index of refraction 1.4, as shown in the figure below. A
+light ray is incident on the film at the angle shown. On the figure, sketch the path of the refracted light ray
+that passes through the film and the glass slab and exits into the air. Clearly show any bending of the ray at
+each interface. You are NOT expected to calculate the sizes of any angles.
+
+™ Air n= 10
+
+H Oil n=17
+
+Glass n= 1.4
+
+Air n=1.0

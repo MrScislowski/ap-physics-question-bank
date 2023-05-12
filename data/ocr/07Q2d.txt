@@ -1,0 +1,2 @@
+(d) Calculate the accelerating voltage € needed for the ions with charge +2e to attain the speed you calculated
+in part (c).

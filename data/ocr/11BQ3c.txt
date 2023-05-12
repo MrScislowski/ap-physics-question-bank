@@ -1,0 +1,7 @@
+(©) Consider points on the screen located at x = 0.00 m, x = 0.15 m, and x = 0.30 m. Rank the intensity at those
+points from highest to lowest, with number 1 corresponding to the highest intensity. If two points have equal
+intensity, give them the same ranking.
+
+= 0.00 m x= 015m +=030m
+Justify your ranking,
+

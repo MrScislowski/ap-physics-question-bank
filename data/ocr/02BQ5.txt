@@ -1,0 +1,14 @@
+E
+
+5000 N/C
+
+al
+2.0 x 10-2m
+
+Note: Figure not drawn to scale.
+
+5. (10 points)
+
+‘Two parallel conducting plates, each of area 0.30 m2, are separated by a distance of 2.0 x 10°? m of air. One
+plate has charge +Q; the other has charge -Q. An electric field of 5000 N/C is directed to the left in the space
+between the plates, as shown in the diagram above.

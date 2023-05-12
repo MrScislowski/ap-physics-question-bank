@@ -1,0 +1,10 @@
+Spring Scale ng Scale
+
+Object in Air Object in Water
+
+6. (10 points)
+
+An object is suspended from a spring scale first in air, then in water, as shown in the figure above. The spring
+scale reading in air is 17.8 N, and the spring scale reading when the object is completely submerged in water
+
+is 16.2 N. The density of water is 1000 kg/m?

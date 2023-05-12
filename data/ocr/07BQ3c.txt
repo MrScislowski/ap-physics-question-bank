@@ -1,0 +1,1 @@
+(c) Calculate the charge stored on the capacitor.

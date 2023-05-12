@@ -1,0 +1,3 @@
+(a) Car A accelerates at 1.5 m/s? toa speed of 5.0 m/s and then continues at constant velocity until it strikes
+-ar B, Calculate the total time for car A to travel the 15 m.
+

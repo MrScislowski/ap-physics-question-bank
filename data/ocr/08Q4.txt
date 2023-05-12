@@ -1,0 +1,4 @@
+4, (10 points)
+
+A drinking fountain projects water at an initial angle of 50° above the horizontal, and the water reaches a
+maximum height of 0.150 m above the point of exit. Assume air resistance is negligible.

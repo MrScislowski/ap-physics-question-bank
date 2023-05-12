@@ -1,0 +1,5 @@
+Now assume the bed of the truck is frictionless, but there is a spring of spring constant 9200 N/m attaching the
+crate to the truck, as shown below. The truck is initially at rest
+
+(d) If the truck and crate have the same acceleration, calculate the extension of the spring as the truck
+accelerates from rest to 25 m/s in 10s.

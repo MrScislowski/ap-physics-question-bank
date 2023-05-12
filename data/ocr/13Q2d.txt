@@ -1,0 +1,1 @@
+(@) Calculate the frequency of the oscillation of the box.

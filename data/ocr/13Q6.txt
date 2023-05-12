@@ -1,0 +1,11 @@
+65A
+
+Side View
+6. (15 points)
+
+‘Two long, straight horizontal wires are near each other and parallel, with one directly above the other as shown.
+in the figure, Wire X is fixed in place and connected to a battery (not shown) so that it carries a current of 65 A.
+Wire ¥, which is part of a second circuit, is free to move vertically and is suspended at rest by the magnetic force
+between the wires. The mass per length of wire ¥ is 5.6 x 107 kg/m . Neglect effects from the parts of the
+circuits that are not shown,
+

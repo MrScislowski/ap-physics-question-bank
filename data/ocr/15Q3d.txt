@@ -1,0 +1,4 @@
+(@) Explain how any correct aspects of the student's reasoning identified in part (b) are expressed by your
+‘mathematical relationships in part (c). Explain how your relationships in part (c) correct any incorrect
+aspects of the student’s reasoning identified in part (b). Refer to the relationships you wrote in part (c),
+not just the final answer you obtained by manipulating those relationships.

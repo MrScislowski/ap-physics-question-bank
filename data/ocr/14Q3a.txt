@@ -1,0 +1,7 @@
+(@)
+
+i, Rank the temperatures at the 4 labeled points from least to greatest, using I for the lowest temperature.
+If two or more points have the same temperature, give them the same ranking.
+
+Determine the temperature T;, at point D in terms of Py, Vy, and fundamental constants, as
+appropriate.

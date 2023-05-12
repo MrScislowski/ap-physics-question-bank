@@ -1,0 +1,6 @@
+5. (10 points)
+
+A cylinder with a movable frictionless piston contains an ideal gas that is initially in state | at 1 x 10° Pa,
+
+373 K, and 0.25 m? The gas is taken through a reversible thermodynamic cycle as shown in the PV diagram
+above.

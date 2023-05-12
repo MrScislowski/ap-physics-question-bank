@@ -1,0 +1,8 @@
+House
+
+6. (10 points)
+
+A pump, submerged at the bottom of a well that is 35 m deep, is used to pump water uphill to a house that is
+50 m above the top of the well, as shown above. The density of water is 1,000 kg/m’, Al pressures are gauge
+pressures. Neglect the effects of friction, turbulence, and viscosity.
+

@@ -1,0 +1,16 @@
+Suppose the gas in another heat engine follows the simplified path ABCDA in the PV diagram below at a rate of
+4-cycles per second.
+
+P (Nim?)
+3.0 x 108 f-——— c
+2.0 x 105
+1.0 x 108 'D
+
+oO Vim)
+
+0.20 0.40 0.60
+
+©
+i, What does the area bounded by path ABCDA represent?
+
+Calculate the power output of the engine.

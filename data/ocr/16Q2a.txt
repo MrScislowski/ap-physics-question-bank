@@ -1,0 +1,8 @@
+(a) Design an experiment to test the student's hypothesis about collisions of the ball with a hard surface.
+‘The student has equipment that would usually be found in a school physics laboratory
+
+i, What quantities would be measured?
+ii, What equipment would be used for the measurements, and how would that equipment be used?
+
+iii, Describe the procedure to be used to test the student's hypothesis. Give enough detail so that another
+student could replicate the experiment.

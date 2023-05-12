@@ -1,0 +1,17 @@
+An experiment is conducted with batteries of different emf connected between points P and Q. The current / it
+the rod and the stretch of the springs Ay are measured and recorded in the table below.
+
+T(amperes) | Ay (meters)
+
+10 0.0028
+2.0 0.0050
+3.0 0.0084
+4.0 0.0119
+
+5.0 0.0140
+
+(d) On the grid below, plot the data points for Ay as a function of J. Be sure to label your axes with variables,
+units, and scale, Draw a straight line that best represents the data,
+
+Sb i SO
+

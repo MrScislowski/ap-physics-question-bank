@@ -1,0 +1,5 @@
+‘The student can use these data for distance D and time 1 to produce a second graph from which the acceleration g
+due to gravity can be determined,
+
+(b) If only the variables D and 1 are used, what quantities should the student graph in order to produce a linear
+relationship between the two quantities?

@@ -1,0 +1,9 @@
+Note: Figure not drawn to scale.
+
+4. (15 points)
+
+Two small speakers S are positioned a distance of 0.75 m from each other, as shown in the diagram above. The
+‘two speakers are each emitting a constant 2500 Hz tone, and the sound waves from the speakers are in phase
+with each other. A student is standing at point P, which is a distance of 5.0 m from the midpoint between the
+speakers, and hears a maximum as expected. Assume that reflections from nearby objects are negligible. Use
+343 m/s for the speed of sound.

@@ -1,0 +1,7 @@
+(¢) Consider the collision for which your equation in part (d) was derived, except now suppose the disk bounces
+backward off the rod instead of sticking to the rod. Is the postcollision angular speed of the rod when the
+disk bounces off it greater than, less than, or equal to the postcollision angular speed of the rod when the
+disk sticks to it?
+
+Greater than Less than Equal to
+Briefly explain your reasoning.

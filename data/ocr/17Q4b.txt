@@ -1,0 +1,24 @@
+In another experiment, teams | and 2 use tables and low-friction slides with the same height. However, the two
+slides have different shapes, as shown below.
+
+Block 1
+
+r
+
+c
+Tet Tae?
+h h
+| |
+Team | Team 2
+
+(b) Both blocks are released from rest at the top of their respective slides at the same time.
+i. Which block, if either, lands farther from its respective table?
+
+Block | Block 2 ‘The two blocks land the same distance
+from their respective tables.
+
+Briefly explain your reasoning without manipulating equations.
+
+ii, Which block, if either, hits the floor first?
+Block 1 Block 2 ‘The two blocks hit the floor at the same time.
+Briefly explain your reasoning without manipulating equations.

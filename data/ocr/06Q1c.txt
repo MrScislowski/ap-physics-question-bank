@@ -1,0 +1,1 @@
+(c) Calculate the force constant of the spring.

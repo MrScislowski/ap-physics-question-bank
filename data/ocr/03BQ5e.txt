@@ -1,0 +1,5 @@
+(c) After one complete cycle, is the entropy of the gas greater, less, or the same as before?
+
+greater less the same
+
+Justify your answer.

@@ -1,0 +1,24 @@
+(b) Design an experimental procedure to test the hypothesis in which the student uses the Jauncher to Jaunch the
+sphere. Assume equipment usually found in a school physics laboratory is available.
+
+In the table below, list the quantities and associated symbols that would be measured in your experiment.
+Also list the equipment that would be used to measure each quantity. You do not need to fill in every row.
+If you need additional rows, you may add them to the space just below the table.
+
+Quantity to be Measured | Symbol for Quantity | _ Equipment for Measurement
+
+© 2019 The College Board,
+Visit the College Board on the web: collegeboard org.
+
+GO ON TO THE NEXT PAGE.
+
+2019 AP® PHYSICS 1 FREE-RESPONSE QUESTIONS
+
+(b) Continued
+
+Describe the overall procedure to be used to test the hypothesis that the spring constant of the spring inside
+the launcher has the same value for different compression distances, referring to the table. Provide enough
+detail so that another student could replicate the experiment, including any steps necessary to reduce
+experimental uncertainty. As needed, use the symbols defined in the table and/or include a simple diagram
+of the setup.
+

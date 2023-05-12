@@ -1,0 +1,4 @@
+(b) On the axes below, sketch a graph of electric potential V versus radius r from the center of the sphere, Label
+the value at r = 0 on the vertical axis
+
+v 1

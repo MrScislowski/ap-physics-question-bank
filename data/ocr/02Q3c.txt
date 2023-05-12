@@ -1,0 +1,8 @@
+(c) In the spaces below, number the bulbs in each situation described, in order of their brightness.
+(1_= brightest, 4 = dimmest)
+
+30 W bulb in the parallel circuit
+40 W bulb in the parallel circuit
+30 W bulb in the series circuit
+
+40 W bulb in the series circuit

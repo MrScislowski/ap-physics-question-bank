@@ -1,0 +1,1 @@
+(c) Calculate the component of the force of gravity acting on the box that is parallel to the plane.

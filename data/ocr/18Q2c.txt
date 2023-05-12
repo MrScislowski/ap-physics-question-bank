@@ -1,0 +1,4 @@
+(c) Describe an experimental procedure to determine whether or not the resistivity of the dough cylinders
+depends on the temperature of the dough. Give enough detail so that another student could replicate the
+experiment, As needed, include a diagram of the experimental setup. Assume equipment usually found
+in a school physics laboratory is available.

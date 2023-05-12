@@ -1,0 +1,13 @@
+15
+
+10 u
+c
+A
+5
+o 5 10 15 20 25
+‘Time (s)
+
+|. (15 points)
+
+A.0.40 kg object moves in a straight line under the action of a net force. The graph above shows the velocity as a
+function of time for the object during a 25 s interval. At time r= 0, the object is at the position x = 0.

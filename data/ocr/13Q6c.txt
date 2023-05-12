@@ -1,0 +1,3 @@
+(c) Now wire Y is moved to a new position that is closer to wire X, but wire Y is still below wire X and is still
+carrying the same current as determined in part (b). Wire Y is released from rest. Describe the initial motion
+of wire ¥, Justify your answer.

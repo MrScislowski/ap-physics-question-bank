@@ -1,0 +1,3 @@
+(c) Calculate the magnitude F of the force due to the water on a viewing port of the submarine at this depth if
+the viewing port has a surface area of 0.0100 m?
+

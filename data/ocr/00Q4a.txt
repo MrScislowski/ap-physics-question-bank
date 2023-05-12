@@ -1,0 +1,10 @@
+(a) Monochromatic light is incident on the glass sheet, as shown in the figure below, at an angle of incidence
+of 60°. On the figure, sketch the path the light takes the first time it strikes each of the two parallel surfaces.
+Calculate and label the size of each angle (in degrees) on the figure, including angles of incidence,
+reflection, and refraction at each of the two parallel surfaces shown.
+
+Air H 1, = 1.00
+
+Glass n,= 1.50
+
+Air 7, = 100

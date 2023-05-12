@@ -1,0 +1,2 @@
+(a) Determine an expression for the mechanical power in terms of M, H, At, and physical constants, as
+appropriate.

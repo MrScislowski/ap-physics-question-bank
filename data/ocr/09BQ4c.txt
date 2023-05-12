@@ -1,0 +1,1 @@
+(c) Calculate the change in internal energy of the gas.

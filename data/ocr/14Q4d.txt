@@ -1,0 +1,7 @@
+A third charge, q; = +3.0 nC, is moved by an external force from very far away to the origin. The third charge
+has the same speed at the start and end of the motion.
+
+(@) Indicate whether the total work done by the external force is positive, negative, or zero.
+Positive Negative Zero
+
+Justify your answer.

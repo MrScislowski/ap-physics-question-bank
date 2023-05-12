@@ -1,0 +1,2 @@
+(@) Calculate the minimum height /i,,,, above the bottom of the track at which the block can be released and
+still go around the loop without losing contact with the track.

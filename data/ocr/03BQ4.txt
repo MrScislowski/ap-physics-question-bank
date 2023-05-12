@@ -1,0 +1,12 @@
+Vertically
+Up
+A B
+
+M$
+
+4. (IS points)
+An electric field E exists in the region between the two electrically charged parallel plates shown above.
+A beam of electrons of mass m, charge g, and velocity v enters the region through a small hole at position A.
+The electrons exit the region between the plates through a small hole at position B. Express your answers to
+the following questions in terms of the quantities m, q, E, 8, and y. Ignore the effects of gravity,
+

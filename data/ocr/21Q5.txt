@@ -1,0 +1,22 @@
+Axle at Center
+of Pulleys
+
+Object 1
+mo
+
+Object 2
+Sm,
+
+5. (7 points, suggested time 13 minutes)
+
+‘Two pulleys with different radii are attached to each other so that they rotate together about a horizontal axle
+through their common center. There is negligible friction in the axle. Object 1 hangs from a light string
+‘wrapped around the larger pulley, while object 2 hangs from another light string wrapped around the smaller
+pulley, as shown in the figure above.
+
+‘mg is the mass of object 1
+15g is the mass of object 2
+
+ris the radius of the smaller pulley.
+2y is the radius of the larger pulley.
+

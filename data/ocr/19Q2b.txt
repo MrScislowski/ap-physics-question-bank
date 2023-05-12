@@ -1,0 +1,6 @@
+(b) Now suppose neither block’s mass is much greater than the other, but that they are not necessarily equal.
+The dots below represent block A and block B, as indicated by the labels. On each dot, draw and label the
+forces (not components) exerted on that block after release. Represent each force by a distinct arrow starting
+on, and pointing away from, the dot.
+
+Block A Block B

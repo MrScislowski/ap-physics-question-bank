@@ -1,0 +1,3 @@
+(©) Derive an expression for the minimum value of B needed to prevent the sphere from reaching the bottom
+plate. Express your answer in terms of m, q, v, L, and fundamental constants, as appropriate.
+

@@ -1,0 +1,6 @@
+(b) Derive an expression for the overflow volume Vp (the volume of oil that overflows due to the floating
+system) in terms of pg, ms, me, and fundamental constants. If you need to draw anything other than what
+
+you have shown in part (a) to assist in your solution, use the space below. Do NOT add anything to the
+figure in part (a).
+

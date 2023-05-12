@@ -1,0 +1,10 @@
+sWater 0.70 m
+0. ; m
+
+A cylindrical tank containing water of density 1000 kg/m is filled to a height of 0.70 m and placed on a stand
+as shown in the cross section above. A hole of radius 0.0010 m in the bottom of the tank is opened, Water then
+flows through the hole and through an opening in the stand and is collected in a tray 0.30 m below the hole, At
+the same time, water is added to the tank at an appropriate rate so that the water level in the tank remains
+‘constant.
+
+4, (10 points)

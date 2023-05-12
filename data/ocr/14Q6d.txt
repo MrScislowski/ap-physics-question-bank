@@ -1,0 +1,6 @@
+(d) If the power per unit area (intensity) of the incident light is increased and the wavelength stays the same,
+does the magnitude of the emf needed to stop the current increase, decrease, or remain the same?
+
+Increases. _Decreases____ Remains the same
+
+Justify your answer.

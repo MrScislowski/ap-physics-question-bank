@@ -1,0 +1,14 @@
+After the collision, the second cart eventually experiences a ramp, which it traverses with no frictional losses.
+The graph below shows the speed v of the second cart as a function of time f for the next 5.0 s, where 1=0 is
+now the instant at which the carts separate.
+
+20
+
+Speed v (m/s)
+
+1.0
+
+1 2 3 4 5
+Time ¢(s)
+
+(©) Calculate the acceleration of the cart at f= 3.0's.

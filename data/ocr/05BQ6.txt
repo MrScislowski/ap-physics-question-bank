@@ -1,0 +1,22 @@
+Piston
+7
+
+Gas
+
+Note: Figure not drawn to scale.
+6. (10 points)
+
+You are given a cylinder of cross-sectional area A containing n moles of an ideal gas. A piston fitting closely in
+the cylinder is lightweight and frictionless, and objects of different mass m can be placed on top of it, as shown
+in the figure above. In order to determine n, you perform an experiment that consists of adding 1 kg masses one
+ata time on top of the piston, compressing the gas, and allowing the gas to return to room temperature T before
+measuring the new volume V. The data collected are given in the table below.
+
+m(kg) | V(m*) Wv (m=) P (Pa)
+
+0 | 60x 10% _| 1.710%
+1 | 45x10 | 22104
+2__| 36x10" _| 2.8 x108
+3 |30x10% | 3.3x104
+4 | 26x10 | 3.8 x10*
+

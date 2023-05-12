@@ -1,0 +1,14 @@
+°
+L 24S plastic
+
+Sphere
+
+Note: Figure not drawn to scale.
+
+5. (15 points)
+
+In the experimental setup represented above, a very small plastic sphere of mass m with charge q is allowed to
+fall under the influence of gravity between two parallel metal plates separated by a fixed distance L.A variable
+potential difference may be applied between the two plates. The experiment is conducted inside a vacuum.
+chamber.
+

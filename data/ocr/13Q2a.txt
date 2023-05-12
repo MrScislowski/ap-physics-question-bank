@@ -1,0 +1,11 @@
+(@)
+i, The spring does work on the box from the moment the box first hits the spring to the moment the
+spring first reaches its maximum compression. Indicate whether the work done by the spring is
+
+positive, negative, or zero.
+
+Positive _Negative  __ Zero
+Justify your answer,
+
+Calculate the magnitude of the work described in part i
+

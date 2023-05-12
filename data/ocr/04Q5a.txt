@@ -1,0 +1,6 @@
+(a)
+i, Calculate the work done by the gas as it expands,
+
+ii, Calculate the change in internal energy of the gas as it expand:
+
+Calculate the heat added to or removed from the gas during this expansion.

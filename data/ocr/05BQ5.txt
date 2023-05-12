@@ -1,0 +1,6 @@
+5. (10 points)
+
+A large tank, 25 m in height and open at the top, is completely filled with saltwater (density 1025 kg/m’). A
+small drain plug with a cross-sectional area of 4.0 x 107 m? is located 5.0 m from the bottom of the tank.
+
+The plug breaks loose from the tank, and water flows from the drain.

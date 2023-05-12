@@ -1,0 +1,9 @@
+Pm h
+
+x(m)
+0.20 0 0.20 0.40 0.60
+
+3. (15 points)
+‘Two point charges, q, and gy, are placed 0.30 m apart on the x-axis, as shown in the figure above. Charge
+
+qyhas a value of -3.0 x 10” C. The net electric field at point P is zero.

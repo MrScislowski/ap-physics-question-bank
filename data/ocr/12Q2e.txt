@@ -1,0 +1,2 @@
+(e) Determine the height h that the small sphere rises above its lowest position, in terms of the original height H.
+

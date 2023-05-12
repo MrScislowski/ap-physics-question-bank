@@ -1,0 +1,6 @@
+(d) Indicate whether the magnitude of the buoyant force on the cube increases, decreases, or remains the same
+while the cube is rising, but before it reaches the surface.
+
+Increases Decreases Remains the same
+
+Justify your answer.

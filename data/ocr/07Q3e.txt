@@ -1,0 +1,4 @@
+(©) The switch $ is opened, resistor Ry is removed and replaced by a capacitor of capacitance 2.0 x 10 F,
+
+and the switch $ is again closed, Calculate the charge on the capacitor after all the currents have reached
+their final steady-state values.

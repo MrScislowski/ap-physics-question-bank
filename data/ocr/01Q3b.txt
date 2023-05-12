@@ -1,0 +1,12 @@
++0 s
+
+Arrangement 2
+
+The bottom two charged particles are now switched to form Arrangement 2, shown above, in which the
+positively charged particles are on the left and the negatively charged particles are on the right.
+
+(b) For Arrangement 2, determine the following.
+
+The electrostatic potential at the center of the square
+
+ii, The magnitude of the electric field at the center of the square

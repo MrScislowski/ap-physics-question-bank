@@ -1,0 +1,4 @@
+1, (IS points)
+
+An empty sled of mass 25 kg slides down a muddy hill with a constant speed of 2.4 m/s. The slope of the hill
+is inclined at an angle of 15° with the horizontal as shown in the figure above,

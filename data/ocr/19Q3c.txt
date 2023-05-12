@@ -1,0 +1,2 @@
+(c) Describe how the experimental data could be analyzed to confirm or disconfirm the hypothesis that the
+spring constant of the spring inside the launcher has the same value for different compression distances.

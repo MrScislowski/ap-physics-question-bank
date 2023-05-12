@@ -1,0 +1,4 @@
+The beam is incident on the surface of a metal in a photoelectric-effect experiment. The stopping potential for
+the emitted electron is measured to be 0.86 V.
+
+(c) Calculate the maximum speed of the emitted electrons.

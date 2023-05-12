@@ -1,0 +1,11 @@
+Ry, SR
+
+Pe R
+
+4. (10 points)
+
+In the circuit above, the battery of emf € is connected to two long, straight, parallel wires, which in turn are
+connected to four resistors with resistances given in the figure above. Assume that any other resistances in the
+circuit are negligible. Express all algebraic answers to the following parts in terms of the given quantities and
+fundamental constants.
+

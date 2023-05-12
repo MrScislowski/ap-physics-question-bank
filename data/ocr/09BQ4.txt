@@ -1,0 +1,9 @@
+Piston
+
+4. (15 points)
+
+‘The cylinder shown above has an open top, and gas is held inside it by a piston of mass m and area A. The gas is
+sulated from its surroundings and is initially in equilibrium at volume V, . Express all algebraic answers in
+
+terms of the given quantities and fundamental constants.
+

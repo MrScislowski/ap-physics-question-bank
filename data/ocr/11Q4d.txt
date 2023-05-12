@@ -1,0 +1,1 @@
+(d) Calculate the pressure due to the liquid (the gauge pressure) at the bottom of the beaker.

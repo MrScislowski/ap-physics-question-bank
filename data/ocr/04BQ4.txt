@@ -1,0 +1,8 @@
+Position 1 Position 2
+
+Boutof page Beequal to zero
+4. (15 points)
+‘A 20-turn wire coil in the shape of a rectangle, 0.25 m by 0.15 m, has a resistance of 5.0. In position 1 shown
+above, the loop is in a uniform magnetic field B of 0.20 T. The field is directed out of the page, perpendicular to
+the plane of the loop. The loop is pulled tothe right at a constant velocity, reaching position 2 in 0.50 s, where B
+is equal to zero.

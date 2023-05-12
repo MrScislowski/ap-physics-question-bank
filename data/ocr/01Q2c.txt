@@ -1,0 +1,16 @@
+Tabletop y Tabletop
+
+Ams,
+ectims, 4 ney
+A(0.10kg) C(.10 kg)
+
+Top View Top View
+Before Collision After Collision
+
+In another experiment on the same table, the target ball B is replaced by target ball C of mass 0.10 kg. The
+incident ball A again slides at 1.4 m/s, as shown above left, but this time makes a glancing collision with the
+target ball C that is at rest at the edge of the table, The target ball C strikes the floor at point P, which is at a
+horizontal displacement of 0.15 m from the point of the collision, and at a horizontal angle of 30° from the
+sre-axis, as shown above right.
+
+(c) Calculate the speed v of the target ball C immediately after the collision.

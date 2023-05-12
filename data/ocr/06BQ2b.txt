@@ -1,0 +1,1 @@
+(b) Determine the speed of the small block after the collision.

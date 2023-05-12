@@ -1,0 +1,15 @@
+Water
+
+‘The cylinder represented above contains 2.2 kg of water vapor initially at a volume of 2.0 m* and an absolute
+
+pressure of 3.0 x 10° Pa. This state is represented by point A in the PV diagram below. The molar mass of
+‘water is 18 g, and the water vapor can be treated as an ideal gas.
+
+P (Pa)
+4.0 x 105
+3.0.x 105
+2.0 x 105
+1.0 x 105
+
+0. vim’)
+0 05 10 15 20 25 30

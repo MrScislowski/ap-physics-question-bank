@@ -1,0 +1,5 @@
+2. (15 points)
+
+A ball attached to a string of length ¢ swings in a horizontal circle, as shown above, with a constant speed. The
+string makes an angle @ with the vertical, and T is the magnitude of the tension in the string. Express your
+‘answers to the following in terms of the given quantities and fundamental constants.

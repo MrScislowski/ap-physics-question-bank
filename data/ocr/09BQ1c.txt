@@ -1,0 +1,3 @@
+(c) On the grid below, plot the quantities determined in part (b), label the axes, and draw the best-fit line to the
+data, You may use the blank rows above to record any values you may need to calculate
+

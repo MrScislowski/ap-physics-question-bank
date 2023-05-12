@@ -1,0 +1,10 @@
+6. (10 points)
+In the laboratory, you are given a cylindrical beaker containing a fluid and you are asked to determine the
+density p of the fluid. You are to use a spring of negligible mass and unknown spring constant k attached to a
+
+stand, An irregularly shaped object of known mass m and density D (D >> p) hangs from the spring. You may
+also choose from among the following items to complete the task.
+
+# A metric ruler
+# A stopwatch
+* String

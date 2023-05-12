@@ -1,0 +1,5 @@
+For parts (d) and (e), do NOT assume that the rod is much more massive than the disk.
+
+(d) Immediately before colliding with the rod, the disk’s rotational inertia about the pivot is mgi, x° and its
+angular momentum with respect to the pivot is mgiy.vp.x- Derive an equation for the posteollision angular
+speed oof the rod, Express your answer in terms of d, mag.» 4.% Yo » and physical constants, as appropriate.

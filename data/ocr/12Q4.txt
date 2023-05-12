@@ -1,0 +1,4 @@
+4, (10 points)
+
+A cylindrical container is fitted with a frictionless piston that is initially locked in place. The cylinder contains a
+fixed amount of an ideal gas that is initially at room temperature and atmospheric pressure.

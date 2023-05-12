@@ -1,0 +1,17 @@
+A (0.10.kg) B(O.S0kg)
+
+Tabletop
+
+A
+
+Side View ⋅ a 4 Top View
+
+Before Collision Before Collision
+
+Note: Figures not drawn to scale.
+
+2. (15 points)
+
+An incident ball A of mass 0.10 kg is sliding at 1.4 m/s on the horizontal tabletop of negligible friction shown
+above. It makes a head-on collision with a target ball B of mass 0.50 kg at rest at the edge of the table. As a
+result of the collision, the incident ball rebounds, sliding backwards at 0.70 m/s immediately after the collision.

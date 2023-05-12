@@ -1,0 +1,3 @@
+(b) Indicate every time interval for which the speed (magnitude of velocity) of the cart is
+
+increasing,

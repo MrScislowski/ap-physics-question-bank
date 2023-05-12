@@ -1,0 +1,6 @@
+(©) The index of refraction of this glass is 1,66 for violet light, which has wavelength 425 nm in air,
+i. Given the same incident angle @,, show on the ray diagram on the previous page how the refracted ray
+for the violet light would vary from the refracted ray already drawn for the red light.
+
+ii, Sketch the graph of sin @, versus sin 8, for the violet light on the figure on the previous page that
+shows the same graph already drawn for the red light.

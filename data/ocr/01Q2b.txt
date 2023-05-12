@@ -1,0 +1,4 @@
+The tabletop is 1.20 m above a level, horizontal floor. The target ball is projected horizontally and initially
+strikes the floor at a horizontal displacement d from the point of collision.
+
+(b) Calculate the horizontal displacement 4,

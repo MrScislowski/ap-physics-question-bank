@@ -1,0 +1,1 @@
+(a) Derive an expression for the distance Xo in terms of Ho, 4, mo, and physical constants, as appropriate.

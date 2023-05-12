@@ -1,0 +1,4 @@
+7. (10 points)
+
+An experimenter determines that when a beam of monoenergetic electrons bombards a sample of a pure gas,
+atoms of the gas are excited if the kinetic energy of each electron in the beam is 3.70 eV or greater.

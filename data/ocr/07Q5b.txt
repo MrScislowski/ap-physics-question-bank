@@ -1,0 +1,3 @@
+(b) Calculate the volume of the gas
+
+if the temperature of the gas is 300 K.

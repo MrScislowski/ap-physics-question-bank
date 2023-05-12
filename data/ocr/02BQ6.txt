@@ -1,0 +1,16 @@
+6. (10 points)
+
+A sealed steel canister is being used to store neon gas (atomic mass = 20.2 u). The mass of the steel canister
+alone is 12.0 kg, and it has an interior volume of 8.00 liters = 8.00 x 107 m>. There are 4.50 moles of neon
+‘gas in the canister, and the temperature of the entire system is 300 K.
+
+Reference information:
+Specific heat of steel = 448 Jkg™! K7!
+Specific heat of neon = 12.5 J mole~! K~!
+Specific heat of water = 4186 J kg™! K7!
+
+Heat of
+
+Density of water = 1.00 x 10° kg m~>
+
+Density of ice = 0.917 x 10° kg m™>

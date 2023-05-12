@@ -1,0 +1,6 @@
+(a) On the axes below, sketch the speed of the center of mass of the two-block system as a function of
+time, from time 1 until the blocks pass point F at time 1. The times at which block I reaches points A
+
+through F are indicated on the time axis.
+
+Time

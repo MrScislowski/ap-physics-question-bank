@@ -1,0 +1,7 @@
+(a) The two bulbs are first connected in parallel to a 120 V source.
+
+i, Determine the resistance of the bulb rated 30 W and the current in it when it is connected
+in this circuit,
+
+Determine the resistance of the bulb rated 40 W and the current in it when it is connected in
+this circuit.

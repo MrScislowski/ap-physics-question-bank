@@ -1,0 +1,1 @@
+(c) Using the graph, calculate the index of refraction of the glass slab.

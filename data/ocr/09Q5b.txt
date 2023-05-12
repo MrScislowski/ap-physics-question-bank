@@ -1,0 +1,5 @@
+Object A has a volume of 1.0 X 10> m* and a density of 1300 kg/m? . The tension in the string to which
+
+object A is attached is 0.0098 N.
+
+(b) Calculate the buoyant force on object A.

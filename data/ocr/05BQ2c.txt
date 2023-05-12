@@ -1,0 +1,1 @@
+(c) Calculate the tension in the string when the bob is passing through its lowest position.

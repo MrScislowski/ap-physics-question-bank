@@ -1,0 +1,2 @@
+(d) Suppose that the string breaks at the instant the ball is at point P. Describe the motion of the ball
+immediately after the string breaks.

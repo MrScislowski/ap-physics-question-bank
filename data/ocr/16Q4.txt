@@ -1,0 +1,3 @@
+4. (7 points, suggested time 13 minutes)
+
+A circuit contains a battery and four identical resistors arranged as shown in the diagram above.

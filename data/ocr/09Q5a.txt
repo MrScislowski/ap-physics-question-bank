@@ -1,0 +1,4 @@
+(a) Must all three strings have the same tension?
+Yes No
+
+Justify your answer.

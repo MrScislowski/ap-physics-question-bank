@@ -1,0 +1,6 @@
+7. (10 points)
+
+In an electron microscope, a tungsten cathode with work function 4.5 eV is heated to release electrons that are
+then initially at rest just outside the cathode. The electrons are accelerated by a potential difference to create a
+beam of electrons with a de Broglie wavelength of 0.038 nm. Assume nonrelativistic equations apply to the
+motion of the electrons.

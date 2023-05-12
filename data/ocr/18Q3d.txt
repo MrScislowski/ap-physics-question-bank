@@ -1,0 +1,17 @@
+(d) The student is trying to mathematically model the magnitude ¢ of the torque exerted by the axle on the disk
+
+1
+when the oil is present at times ¢ > 51. The student writes down the following two equations, each of
+
+which includes a positive constant (C, or C,) with appropriate units.
+
+r= 6 (1-44) dor r>S0)
+
+(+3)
+
+Which equation better mathematically models this experiment?
+
+Q of (fort > 4n)
+
+Equation (1) Equation (2)
+Briefly explain why the equation you selected is plausible and why the other equation is not plausible

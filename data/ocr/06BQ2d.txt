@@ -1,0 +1,2 @@
+(d) Indicate whether the collision between the two blocks is elastic or inelastic. Justify your answer.
+

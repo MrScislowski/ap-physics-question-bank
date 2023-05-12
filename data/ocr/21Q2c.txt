@@ -1,0 +1,10 @@
+‘The table below shows results of measurements taken by another group of students for rods of different
+thicknesses.
+
+Rod radius (mm) os | 10 | 1s | 20 | 25
+
+Finax (N) 40 120 | 320 | 520 | 900
+
+(©) On the grid below, plot the data points from the table, Clearly scale and label all axes, including units.
+Draw either a straight line or a curve that best represents the data,
+

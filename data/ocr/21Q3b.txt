@@ -1,0 +1,7 @@
+(b) Assume that the student's mass is greater than that of the disk (Ms > Mp). On the grid below, sketch graphs
+of the speeds of both the student and the disk as functions of time ¢ between f= 0 and ¢ = 21. Assume that
+
+neither the disk nor the student collides with anything after 1 = 1. On the vertical axis, label vp and vs. Label
+
+the graphs “S” and “D” for the student and the disk, respectively.
+

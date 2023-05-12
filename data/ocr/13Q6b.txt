@@ -1,0 +1,5 @@
+(b)
+i, Calculate the magnitude of the current in wire ¥.
+ji. Indicate the direction of the current in wire Y.
+
+To the left To the right Neither left nor right, since there is no current

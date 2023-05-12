@@ -1,0 +1,2 @@
+(©) The right end of the tube is now capped shut, and the tube is placed in a chamber that is filled with another
+gas in which the speed of sound is 1005 m/s. Calculate the new fundamental frequency of the tube.

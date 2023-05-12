@@ -1,0 +1,6 @@
+‘The proton is directed toward a very distant stationary uranium nucleus, 233 U . The proton reaches a distance D
+
+from the center of the nucleus and then reverses direction, Assume that the nucleus is heavy enough to remain
+stationary during the interaction.
+
+(c) Calculate the value of D.

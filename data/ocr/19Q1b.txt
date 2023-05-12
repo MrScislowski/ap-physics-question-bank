@@ -1,0 +1,15 @@
+Plunger
+
+AB
+
+DE
+
+(b) ‘The plunger is retuned to its original position, and both blocks are removed. A uniform solid sphere is
+placed at point A, as shown. The sphere is pushed by the plunger from point A to point B with a con:
+horizontal force that is directed toward the sphere's center of mass. The sphere loses contact with the
+plunger at point B and continues moving across the horizontal surface toward point E. In which interval(s),
+iff any, does the sphere’s angular momentum about its center of mass change? Check all that apply.
+
+AtoB BwoC CoD DwE None
+
+Briefly explain your reasoning.

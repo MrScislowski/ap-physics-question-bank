@@ -1,0 +1,1 @@
+(c) Calculate the stopping potential for the emitted electrons.

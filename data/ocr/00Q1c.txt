@@ -1,0 +1,1 @@
+(c) Determine the horizontal position x of the cart at = 9.0 if the cart is located at x= 2.0m at 1=0.

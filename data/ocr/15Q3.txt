@@ -1,0 +1,11 @@
+=x
+-D 0 3D
+
+3. (12 points, suggested time 25 minutes)
+
+A block is initially at position x = 0 and in contact with an uncompressed spring of negligible mass. The block
+is pushed back along @ frictionless surface from position x = 0 to x = ~D,, as shown above, compressing the
+spring by an amount Ax = D . The block is then released, At x = 0 the block enters a rough part of the track
+and eventually comes to rest at position x = 3D. The coefficient of kinetic friction between the block and the
+rough track is.
+

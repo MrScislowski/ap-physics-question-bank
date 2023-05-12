@@ -1,0 +1,7 @@
+(@) After swinging for a long time, the pendulum eventually comes to rest. Assume that the room is perfectly
+thermally insulated, How will the temperature of the room change while the pendulum comes to rest?
+
+It would slightly increase. It would slightly decrease.
+No effect. It would remain the same.
+
+Justify your answer.

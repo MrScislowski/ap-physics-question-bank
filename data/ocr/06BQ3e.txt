@@ -1,0 +1,2 @@
+(e) Charge + is now moved along the positive x-axis to a very large distance from the other two charges. The
+magnitude of the force on the +g charge at this large distance now varies as I/x°, Explain why this happens.

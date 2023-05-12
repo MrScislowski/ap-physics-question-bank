@@ -1,0 +1,5 @@
+2. (10 points)
+
+A cube of mass m and side length L is completely submerged in a tank of water and is attached to the bottom of
+the tank by a string, as shown in the figure above, The tension in the string is 0.25 times the weight of the cube.
+‘The density of water is 1000 kg/m’.

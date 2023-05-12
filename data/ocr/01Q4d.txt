@@ -1,0 +1,2 @@
+(a) Determine the critical angle of incidence @, for the violet light in the glass in order for total internal
+reflection to occur.

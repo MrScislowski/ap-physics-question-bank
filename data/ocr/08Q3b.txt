@@ -1,0 +1,14 @@
+‘The wire loop is then used in an experiment to measure the strength of the magnetic field between the poles of
+a magnet. The magnet is placed on a digital balance, and the wire loop is held fixed between the poles of the
+magnet, as shown below. The 0.020 m long horizontal segment of the loop is midway between the poles and
+perpendicular to the direction of the magnetic field. The power supply in the loop is turned on, so that the 4.0 A.
+current is in the direction shown.
+
+Balance
+
+Note: Figure not drawn to scale.
+
+(b) In which direction is the force on the magnet due to the current in the wire segment?
+_—_Upward Downward
+
+Justify your answer.

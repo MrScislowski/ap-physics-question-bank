@@ -1,0 +1,3 @@
+(b) Derive an expression for the reading on the scale in terms of the acceleration @ of the elevator, the
+mass m of the student, and fundamental constants.
+

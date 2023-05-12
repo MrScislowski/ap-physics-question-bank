@@ -1,0 +1,8 @@
+(©) The first spacecraft is moved into a new circular orbit that has a radius greater than R, as shown in the figure
+below,
+
+Note: Figure not drawn to scale.
+
+Is the speed of the spacecraft in the new orbit greater than, less than, or equal to the original speed?
+Greater than Less than Equal to
+Briefly explain your reasoning.

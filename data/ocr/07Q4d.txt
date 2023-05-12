@@ -1,0 +1,9 @@
+(d) Suppose that there is now less liquid in the beaker so that the height /r is reduced to h/2. In relation to the
+beaker, where will the liquid hit the tabletop?
+
+Left of the beaker In the beaker Right of the beaker
+
+Justify your answer.
+
+should say “container”
+

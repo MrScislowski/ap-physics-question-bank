@@ -1,0 +1,1 @@
+(c) Calculate the minimum speed the block can have at point B without losing contact with the track.

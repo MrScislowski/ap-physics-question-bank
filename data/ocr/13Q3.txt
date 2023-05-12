@@ -1,0 +1,22 @@
+1 aser
+
+L
+6, Beam
+
+Side View ‘Top View
+3. (10 points)
+
+A student is asked to experimentally determine the index of refraction of the semicircular block of transparent
+plastic shown in the figure above. The student aims a red laser beam of wavelength 2 = 632. nm at the center of
+the flat side of the block, as shown. The ray is refracted from air into the plastic and strikes the semicircular side
+of the block perpendicularly. The student uses a protractor to aim the laser at several different angles of
+
+incidence @, between 0° and 90° and to measure the angles of refraction @, . The student’s data are given in the
+
+table below.
+
+6 | 0 | 15° | 30° | 45° | 60° | 75°
+6, | [10° | 21° | 30° | 37° | 44
+sind; | 0 | 0.26 | 0.50 | 0.71 | 0.87 | 0.97
+sin, | 0 [0.17 | 036 | 0.50 | 0.60 | 0.70
+

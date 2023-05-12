@@ -1,0 +1,17 @@
+y(m)
+
+0.040
+cy
+0.020
+4 qe
+* #——e x (m)
+0.040 0.020 oO 0.020 0.040
+
+2. (15 points)
+
+Three particles are arranged on coordinate axes as shown above. Particle A has charge q, = 0.20 nC , and is
+initially on the 0.030 m. The other two particles each have charge q = +0.30 nC and are held
+fixed on the x-axis at x = -0,040 m and x = 40.040 m, respectively.
+
+xis at
+

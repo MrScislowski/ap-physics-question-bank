@@ -1,0 +1,7 @@
+(b) For this red light, determine the following,
+
+i, The frequency in air
+
+ii, The speed in glass
+
+iii, The wavelength in glass

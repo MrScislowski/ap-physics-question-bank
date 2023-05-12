@@ -1,0 +1,3 @@
+In one of the trials, the photon is scattered at an angle of 120° with its original direction.
+
+(b) Calculate the wavelength of this photon after it is scattered off the nucleus.

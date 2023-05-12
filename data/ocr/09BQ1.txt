@@ -1,0 +1,6 @@
+1. (15 points)
+
+An experiment is performed using the apparatus above. A small disk of mass m, ona frictionless table is,
+attached to one end of a string, The string passes through a hole in the table and an attached narrow, vertical
+plastic tube. An object of mass mms is hung at the other end of the string. A student holding the tube makes the
+disk rotate in a circle of constant radius r, while another student measures the period P.

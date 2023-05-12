@@ -1,0 +1,15 @@
+4em
+
+2em
+
+Oem
+-2em
+~4em:
+
+Speed = 1 unit/second
+
+5. (7 points, suggested time 13 minutes)
+
+‘Two wave pulses are traveling in opposite directions on a string. The shape of the string at ¢ = 0 is shown above.
+pulse is moving with a speed of one unit per second in the direction indicated.
+

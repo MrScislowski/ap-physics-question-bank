@@ -1,0 +1,16 @@
+h
+
+—_
+
+Compressed Released Spring at
+Spring on Table Maximum Height
+
+1. (15 points)
+In an experiment, students are to calculate the spring constant & of a vertical spring in a small jumping toy
+that initially rests on a table. When the spring in the toy is compressed a distance x from its uncompressed
+length Ly and the toy is released, the top of the toy rises to a maximum height / above the point of maximum,
+compression. The students repeat the experiment several times, measuring ht with objects of various masses
+
+taped to the top of the toy so that the combined mass of the toy and added objects is m. The bottom of the toy
+and the spring each have negligible mass compared to the top of the toy and the objects taped to it
+

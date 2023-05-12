@@ -1,0 +1,8 @@
+Water Surface
+
+1. (15 points)
+
+Starting from rest at point A, a 50 kg person swings along a circular arc from a rope attached to a tree branch
+over a lake, as shown in the figure above, Point D is at the same height as point A. The distance from the point of
+attachment to the center of mass of the person is 6.4 m. Ignore air resistance and the mass and elasticity of the
+rope.

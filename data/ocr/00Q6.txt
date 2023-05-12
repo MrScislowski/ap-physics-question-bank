@@ -1,0 +1,4 @@
+6. (10 points)
+
+You are to design a procedure to determine experimentally the specific heat of an unknown liquid. You may not
+damage or destroy any equipment you use, and your method must be feasible and practical.

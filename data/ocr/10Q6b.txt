@@ -1,0 +1,8 @@
+(b) When the front edge of the rectangular loop is at x = 0.12 m, its speed is
+for that instant
+
+3.0 m/s. Calculate the following
+
+i, The magnitude of the induced current in the rectangular loop of wire
+
+|. The magnitude of the net force on the loop

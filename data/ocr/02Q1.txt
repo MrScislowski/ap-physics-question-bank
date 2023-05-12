@@ -1,0 +1,10 @@
+Ground
+1=0 28 Maximum height; Rocket
+Engine ignites. Engine shuts down. parachute deploys. descends.
+Note: Figures not drawn to scale.
+
+1. C15 points)
+
+‘A model rocket of mass 0.250 kg is launched vertically with an engine that is ignited at time t= 0, as shown
+above. The engine provides an impulse of 20.0 Nes by firing for 2.0 s. Upon reaching its maximum height, the
+rocket deploys a parachute, and then descends vertically to the ground,

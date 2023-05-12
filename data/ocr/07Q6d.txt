@@ -1,0 +1,26 @@
+‘You are to determine the focal length using a linear graph of I/s, versus 1/s, . Assume that you obtain the
+following data for object distance s, and image distance 5,
+
+Trial # 4s (mm) (mm) Ys, (mm
+∣ ⋀⋯∣ ∣⋯ 25
+2 030) 075 20
+3 060) 060) fl 7
+4 030 050 12 20
+5 120 038 os 26
+
+0 207 the Coleg Boar ll ighs eer
+Visit apenl caller com or AP profsonal) snd wurepur conaptaens for sens npn),
+
+GO ON TO THE NEXT PAGE.
+
+2007 AP PHYSICS B FREE-RESPONSE QUESTIONS
+
+(@) On the grid below, plot the points in the last two columns of the table above and draw a best-fit ine through
+the points.
+
+40
+
+Us, (av)
+
+00s 10 15 20 25 30 35 40
+Us, (ax)

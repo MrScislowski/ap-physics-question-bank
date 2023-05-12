@@ -1,0 +1,14 @@
+Light Source
+
+Air
+Oil film
+Water
+
+‘The student is also asked to determine the thickness of a film of oil (n = 1.43) on the surface of water (n = 1.33).
+Light from a variable wavelength source is incident vertically onto the oil film as shown above. The student
+measures a maximum in the intensity of the reflected light when the incident light has a wavelength of 600 nm.
+
+(d) At which of the two interfaces does the light undergo a 180° phase change on reflection?
+__The air-oil interface only The oil-water interface only
+
+__Both interfaces __Neither interface

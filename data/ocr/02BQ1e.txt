@@ -1,0 +1,2 @@
+(e) State whether the ramp goes up or down and calculate the maximum elevation (above or below the initial
+height) reached by the second cart on the ramp during the 5.0 s interval after the collision (0s << 5.05).

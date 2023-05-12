@@ -1,0 +1,1 @@
+(@) At what time after = 0 will the maximum height be reached?

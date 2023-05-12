@@ -1,0 +1,14 @@
+After the capacitor is fully charged, switches S, and S, remain open, switch 5 remains closed, the plates are held
+fixed, and a conducting copper block is inserted midway between the plates, as shown below. The plates of the
+capacitor are separated by a distance of 1.0 mm, and the copper block has a thickness of 0.5 mm,
+
+1.0 mm Copper
+
+(©) i, Whatis the potential difference between the plates?
+ii, What is the electric field inside the copper block?
+
+On the diagram above, draw arrows to clearly indicate the direction of the electric field between the
+plates.
+
+iv. Determine the magnitude of the electric field in each of the spaces between the plates and the copper
+block.

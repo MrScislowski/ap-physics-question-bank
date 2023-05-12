@@ -1,0 +1,1 @@
+(d) Calculate the ratio of the image size to the object size.

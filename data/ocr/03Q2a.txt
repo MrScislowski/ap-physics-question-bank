@@ -1,0 +1,1 @@
+(a) Calculate the total capacitance of the circuit.

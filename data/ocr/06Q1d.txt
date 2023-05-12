@@ -1,0 +1,2 @@
+The string is now cut at point P.
+(d) Calculate the time taken by the 4.0 kg block to hit the floor.

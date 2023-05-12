@@ -1,0 +1,3 @@
+(b) The spring-object system is now arranged so that the object (but none of the spring) is immersed in the
+unknown fluid, as shown above. Describe any changes that are observed in the spring-object system and
+explain why they occur,

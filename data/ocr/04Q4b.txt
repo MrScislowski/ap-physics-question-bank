@@ -1,0 +1,2 @@
+(b) The student moves a distance Y to point Q and notices that the sound intensity has decreased to a
+minimum. Calculate the shortest distance the student could have moved to hear this minimum.

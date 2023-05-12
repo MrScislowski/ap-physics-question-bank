@@ -1,0 +1,11 @@
+Note: Figure not drawn to scale,
+
+3. (12 points, suggested time 25 minutes)
+
+A long track, inclined at an angle @ to the horizontal, has small speed bumps on it. The bumps are evenly
+spaced a distance d apart, as shown in the figure above. The track is actually much longer than shown, with over
+100 bumps. A cart of mass M is released from rest at the top of the track. A student notices that after reaching
+the 40th bump the cart’s average speed between successive bumps no longer increases, reaching a maximum
+
+value v,,,. This means the time interval taken to move from one bump to the next bump becomes constant,
+

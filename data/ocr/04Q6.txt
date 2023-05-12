@@ -1,0 +1,18 @@
+6. (10 points)
+
+A student performs a photoelectric effect experiment in which light of various frequencies is incident on a
+photosensitive metal plate. This plate, a second metal plate, and a power supply are connected in a circuit,
+which also contains two meters, M, and M,, as shown above.
+
+The student shines light of a specific wavelength A onto the plate. The voltage on the power supply is then
+adjusted until there is no more current in the circuit, and this voltage is recorded as the stopping potential Vs
+
+The student then repeats the experiment several more times with different wavelengths of light. The data, along
+with other values calculated from it, are recorded in the table below.
+
+Am) | 4.00107 | 4.25107 | 4.50107 | 4.75 x 107
+Vg (volts) 0.65 0.45 0.30 O.15
+
+f(H2) | 7.50 x10" | 7.06 x10" | 6.67 x10" | 6.32 x 10!
+Kina@V) | 0.65 0.45 0.30 On
+

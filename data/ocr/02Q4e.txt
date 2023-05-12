@@ -1,0 +1,4 @@
+30 25CO SS 5 10 15) 2002530
+
+(€) The object A is now moved to the right from x = 6 cm to a position of x = 20 em, as shown above. Describe
+the image position, size, and orientation when the object is at x = 20 em.

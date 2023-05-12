@@ -1,0 +1,8 @@
+die
+
+Front View Top View
+
+3. (15 points)
+
+‘Two metal strips are brought together until their edges are separated by a small distance d, forming a narrow slit,
+‘as represented above. You are to design a laboratory experiment to determine the width of the slit.

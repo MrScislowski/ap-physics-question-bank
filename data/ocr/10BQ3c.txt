@@ -1,0 +1,3 @@
+‘The masses of the objects are m, = 0.030 kg and m, = 0.060 kg. The string is now cut.
+
+(c) Calculate the magnitude of the initial acceleration of each object.

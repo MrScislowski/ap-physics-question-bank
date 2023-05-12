@@ -1,0 +1,2 @@
+(b) The fountain is fed by a pipe that at one point has a radius of 0.025 m and is 2.5 m below the fountain’s
+opening. Calculate the absolute pressure in the pipe at this point.

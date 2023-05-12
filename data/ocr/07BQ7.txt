@@ -1,0 +1,6 @@
+7. (10 points)
+
+In the vicinity of a heavy nucleus, a high-energy photon can be converted into two particles: an electron and a
+positron. A positron has the same mass as the electron and equal but opposite charge. This process is called pair
+production.
+

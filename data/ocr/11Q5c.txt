@@ -1,0 +1,2 @@
+(c) If the value of L is 0.050 m, calculate the mass m of the spheres.
+

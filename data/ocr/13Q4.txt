@@ -1,0 +1,12 @@
+25 kg
+24m
+
+—T
+
+4, (10 points)
+
+A 0.30 kg ball is in a cup of negligible mass attached to a block of mass M that is on a table. A string passing
+over a light pulley connects the block to a 2.5 kg object, as shown above. The system is released from rest, the
+block accelerates to the right, and after moving 0.95 m the block collides with a bumper near the end of the table.
+The ball continues to move and lands on the floor at a position 2.4 m below and 1.8 m horizontally from where it
+leaves the cup. Assume all friction is negligible.

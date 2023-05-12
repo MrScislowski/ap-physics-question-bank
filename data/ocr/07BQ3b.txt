@@ -1,0 +1,7 @@
+(b)
+i, Draw an ammeter in the circuit above in a location such that it could measure the current in the 500 Q
+
+resistor. Use the symbot @) to indicate the ammeter.
+
+Draw a voltmeter in the circuit above in a location such that it could measure the voltage across the
+1000 © resistor. Use the symbol © to indicate the voltmeter

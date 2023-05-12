@@ -1,0 +1,21 @@
+Glass
+
+4. (1S points)
+In an experiment a beam of red light of wavelength 675 nm in air passes from glass into air, as shown above.
+The incident and refracted angles are @, and @,, respectively. In the experiment, angle 8, is measured for
+various angles of incidence @,, and the sines of the angles are used to obtain the line shown in the following
+‘graph.
+
+10
+
+08
+
+06
+
+04
+
+02
+
+0 on 02 03 04 05 06 07
+n
+

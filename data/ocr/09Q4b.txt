@@ -1,0 +1,4 @@
+‘The absolute pressure of the water vapor is increased at constant volume to 4.0 x 10° Pa at point B, and then the
+volume of the water vapor is increased at constant pressure to 2.5 m* at point C, as shown in the PV diagram.
+
+(b) Calculate the temperature of the water vapor at point C.

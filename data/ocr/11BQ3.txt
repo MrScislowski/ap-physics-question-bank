@@ -1,0 +1,13 @@
+25m
+
+Double Slits
+
+Note: Figure not drawn to scale.
+
+3. (15 points)
+
+A microwave source is placed behind two identical slits, as represented in the diagram above. The slit centers are
+separated by a distance of 0.20 m, and the slit widths are small compared to the slit separation but not negligible.
+
+‘The microwave wavelength is 2.4 x 10 m. The resulting interference pattern is centered on a screen 0.60 m
+wide, located 2.5 m from the slits.

@@ -1,0 +1,10 @@
+Sphere Sphere
+A B
+
+4, (7 points, suggested time 13 minutes)
+
+‘Two identical spheres are released from a device at time f = 0 from the same height H, as shown above.
+Sphere A has no initial velocity and falls straight down. Sphere B is given an initial horizontal velocity of
+magnitude vy and travels a horizontal distance D before it reaches the ground. The spheres reach the ground at
+
+the same time f,, even though sphere B has more distance to cover before landing. Air resistance is negligible.

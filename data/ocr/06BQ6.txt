@@ -1,0 +1,4 @@
+6. (10 points)
+
+An electron of mass mis initially moving with a constant speed v, where v << ¢. Express all algebraic
+answers in terms of the given quantities and fundamental constants.

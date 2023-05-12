@@ -1,0 +1,2 @@
+(©) Outline the process of data analysis, including how you will identify the portion of the race that has uniform
+acceleration, and how you would calculate the uniform acceleration.

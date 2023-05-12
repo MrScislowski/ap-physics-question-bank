@@ -1,0 +1,7 @@
+(e) Another pendulum using a thin, light, metal rod instead of a string is used in a clock to keep time. If the
+temperature of the room was to increase significantly, what effect, if any, would this have on the period of
+the pendulum?
+
+It would increase. It would decrease. No effect. It would remain the same.
+
+Justify your answer.

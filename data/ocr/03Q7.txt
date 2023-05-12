@@ -1,0 +1,8 @@
+7. (10 points)
+Energy-level diagrams for atoms that comprise a helium-neon laser are given above. As indicated on the left, the
+helium atom is excited by an electrical discharge and an electron jumps from energy level Eo to energy level Ey
+The helium atom (atomic mass 4) then collides inelastically with a neon atom (atomic mass 20), and the helium
+
+atom falls to the ground state, giving the neon atom enough energy to raise an electron from Ey’ to E>’. The
+
+laser emits light when an electron in the neon atom falls from energy level Ey’ to energy level Ey’.

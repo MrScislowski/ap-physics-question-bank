@@ -1,0 +1,25 @@
+A physics class consisting of six lab groups wants to test the hypothesis that the coefficient of static friction
+between the board and the block equals the coefficient of kinetic friction between the board and the block. Each
+group determines the coefficients of kinetic and static friction between the board and the block. The groups’
+results are shown below, with the class averages indicated in the bottom row.
+
+Lab] Coefficient | Coefficient
+Group | of Kinetic | of Stati
+
+Number | Friction | Friction
+∣ ∘⊿≤ 0.54
+2 0.46 0.52
+3 0.42 0.56
+4 0.43 0.55
+5 0.74 0.23
+6 0.44 0.54
+
+‘Average | 0.49 0.49
+
+(©) Based on these data, what conclusion should the students make about the hypothesis that the coefficients of
+static and kinetic friction are equal”?
+
+‘The static and kinetic coefficients are equal.
+‘The static and kinetic coefficients are not equal
+
+Briefly justify your reasoning.

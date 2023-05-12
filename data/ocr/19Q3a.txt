@@ -1,0 +1,8 @@
+(a) The student plans to test the hypothesis by launching the sphere using the launcher.
+
+i. State a basic physics principle or law the student could use in designing an experiment to test the
+hypothesis,
+
+ii, Using the principle or law stated in part (a)(i), determine an expression for the spring constant in terms
+of quantities that can be obtained from measurements made with equipment usually found in a school
+physics laboratory.

@@ -1,0 +1,15 @@
+650. N/m
+
+0.80.m
+
+‘Target
+Note; Figure not drawn to scale.
+
+1. (15 points)
+Block A of mass 4.0 kg is on a horizontal, frictionless tabletop and is placed against a spring of negligible mass
+and spring constant 650 N/m. The other end of the spring is attached to a wall. The block is pushed toward the
+
+wall until the spring has been compressed a distance x, as shown above. The block is released and follows the
+trajectory shown, falling 0.80 m vertically and striking a target on the floor that is a horizontal distance of 1.2m
+from the edge of the table. Air resistance is negligible.
+

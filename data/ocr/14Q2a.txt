@@ -1,0 +1,4 @@
+(a) On the dot below that represents the cube, draw and label the forces (not components) that act on the cube
+while it is attached to the string. Each force must be represented by a distinct arrow starting on, and pointing
+away from, the dot.
+

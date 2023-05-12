@@ -1,0 +1,6 @@
+4. (15 points)
+
+Your teacher gives you two speakers that are in phase and are emitting the same frequency of sound, which is
+between 5000 and 10,000 Hz. She asks you to determine this frequency more precisely. She does not have a
+frequency or wavelength meter in the lab, so she asks you to design an interference experiment to determine the
+frequency. The speed of sound is 340 m/s at the temperature of the lab room.

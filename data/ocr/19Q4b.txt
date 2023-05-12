@@ -1,0 +1,10 @@
+(b) Without M or H being changed, the time interval At can be decreased by adding one re:
+resistance R,,, where R, > R,, tothe circuit shown above. How should the resistor of resistance R
+
+be added to the circuit to decrease At ?
+
+_—Inparallel with _In parallel_-__In parallel with ___ In series with the battery,
+the battery with Ry the motor R,-and the motor
+
+In a clear, coherent, paragraph-length response that may also contain figures and/or equations, justify why
+your selection would decrease At.

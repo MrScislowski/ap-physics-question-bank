@@ -1,0 +1,2 @@
+(e) Now assume that the effects of gravity cannot be ignored in this problem. How would the distance d change
+for an electron entering the region at A and leaving at B? Explain your reasoning,

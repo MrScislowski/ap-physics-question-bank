@@ -1,0 +1,3 @@
+(c) Calculate the frictional force on the sled as
+
+it slides down the slope.

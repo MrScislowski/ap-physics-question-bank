@@ -1,0 +1,7 @@
+(@) Consider the scenario from part (a)(ii), where the mass of block A is much less than the mass of block B.
+Does your equation for the acceleration of the blocks from part (c) agree with your reasoning in part (a)(ii) ?
+
+——Yes  __No
+
+Briefly explain your reasoning by addressing why, according to your equation, the acceleration becomes (or
+approaches) a certain value when m, is much less than m,

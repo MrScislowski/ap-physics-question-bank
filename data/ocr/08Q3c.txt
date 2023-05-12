@@ -1,0 +1,2 @@
+(c) The reading on the balance changed by 0.060 N when the power supply was turned on. Calculate the
+strength of the magnetic field.

@@ -1,0 +1,3 @@
+(c) The center of mass of the person at point B, the lowest point along the arc, is 2.4 m above the surface of the
+water. Calculate the person's speed at point B.
+

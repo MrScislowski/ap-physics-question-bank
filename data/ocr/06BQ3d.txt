@@ -1,0 +1,1 @@
+(d) Calculate the electric potential at the position of the +q charge due to the other two charges.

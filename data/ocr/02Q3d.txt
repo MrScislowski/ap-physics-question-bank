@@ -1,0 +1,5 @@
+(d) Calculate the total power dissipated by the two bulbs in each of the following cases.
+
+The parallel circuit
+
+‘The series circuit

@@ -1,0 +1,6 @@
+3. (15 points)
+
+‘The figure above shows two point charges, each of charge ~20, fixed on the y-axis at y = +a and at y =—a.
+A third point charge of charge ~Q is placed on the x-axis at x = 2a. Express all algebraic answers in terms of
+Q, a, and fundamental constants.
+

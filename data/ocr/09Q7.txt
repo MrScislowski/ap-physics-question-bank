@@ -1,0 +1,4 @@
+7. (10 points)
+
+A photon of wavelength 250 nm ejects an electron from a metal. The ejected electron has a de Broglie
+wavelength of 0.85 nm.

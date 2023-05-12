@@ -1,0 +1,1 @@
+(c) Derive an expression for the electrical potential at the origin due to all three charges.

@@ -1,0 +1,21 @@
+ug)
+0.6
+
+|
+
+0.4
+
+0.3)
+0.24
+0.1
+
+MW 4
+-14-12-10 8 6 4 2 0 2 4 6 8 10 12 14
+
+=x(cm)
+
+2. (15 points)
+
+A3.0 kg object subject to a restoring force F is undergoing simple harmonic motion with a small amplitude.
+The potential energy U of the object as a function of distance x from its equilibrium position is shown above.
+This particular object has a total energy E of 0.4 J.

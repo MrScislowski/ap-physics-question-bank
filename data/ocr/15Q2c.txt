@@ -1,0 +1,6 @@
+A lightbulb is nonohmic if its resistance changes as a function of current, Your setup from part (a) is to be used
+or modified to determine whether the lightbulb is nonohmic.
+
+)
+i. How, if at all, does the setup need to be modified?
+ii, What additional data, if any, would need to be collected?

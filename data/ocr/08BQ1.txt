@@ -1,0 +1,5 @@
+1. (10 points)
+A.70 kg woman and her 35 kg son are standing at rest on an ice rink, as shown above. They push against each
+other for a time of 0.60 s, causing them to glide apart. The speed of the woman immediately after they separate is,
+0.55 m/s. Assume that during the push, friction is negligible compared with the forces the people exert on each
+other.

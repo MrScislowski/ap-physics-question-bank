@@ -1,0 +1,3 @@
+For parts (c) through (¢), use € = 12 V and R= 200 Q
+
+(©) Calculate the equivalent resistance of the circuit

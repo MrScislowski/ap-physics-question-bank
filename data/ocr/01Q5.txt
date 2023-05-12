@@ -1,0 +1,26 @@
+2607S
+S ferhe
+sxotrt
+& EEEEE
+2207+--++
+
+20 30 40 50 60 70 80 90 100
+‘Temperature (°C)
+
+5. (10 points)
+
+A platinum resistor has a resistance that changes with temperature. Values of the resistance were obtained exper~
+imentally for several temperatures from 5°C to 30°C only and plotted on the graph above. Design a procedure in
+which this resistor can be used as a thermometer to measure the temperature of a liquid that is in the 50°C to
+75°C range. The resistor can be safely immersed in liquids. Along with the resistor and the container of the
+liquid of unknown temperature, the following equipment and materials may be used.
+
+Power supply
+Ammeter (Note: The ammeter and the voltmeter cannot
+Voltmeter _be used directly as an ohmmeter.)
+
+Connecting wires
+
+Iee-water bath
+
+Boiling-water bath

@@ -1,0 +1,6 @@
+2. (IS points)
+
+You are to determine the magnitude and direction of the electric field at a point between two large parallel
+conducting plates. The two plates have equal but opposite charges, but it is not known which is positive and
+which is negative. The plates are mounted vertically on insulating stands.
+

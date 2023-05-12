@@ -1,0 +1,12 @@
+2. (12 points, suggested time 25 minutes)
+
+Some students want to know what gets used up candescent lightbulb when itis in series with a resistor:
+current, energy, or both. They come up with the following two questions.
+
+(1)_In one second, do fewer electrons leave the bulb than enter the bulb?
+(2) Does the electric potential energy of electrons change while inside the bulb?
+
+The students have an adjustable power source, insulated wire, lightbulbs, resistors
+ammeters, and other standard lab equipment. Assume that the power supply and voltmeters are marked in 0.1.V
+increments and the ammeters are marked in 0.01 A increments.
+

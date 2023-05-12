@@ -1,0 +1,2 @@
+(©) Determine the angle @ that the string makes with the vertical during the acceleration of the plane before it
+leaves the ground.

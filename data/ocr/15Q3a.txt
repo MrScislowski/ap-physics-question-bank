@@ -1,0 +1,10 @@
+(a) On the axes below, sketch and label graphs of the following two quantities as a function of the position
+of the block between x = ~D and x = 3D. You do not need to calculate values for the vertical axis, but the
+same vertical scale should be used for both quantities.
+
+i, The kinetic energy K of the block
+
+ii, The potential energy U of the block-spring system
+
+Energy
+

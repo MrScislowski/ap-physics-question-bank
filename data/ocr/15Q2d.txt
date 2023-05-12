@@ -1,0 +1,3 @@
+(@) How would you analyze the data to determine whether the bulb is nonohmic? Include a discussion of how
+the uncertainties in the voltmeters and ammeters would affect your argument for concluding whether the
+resistor is nonohmic.

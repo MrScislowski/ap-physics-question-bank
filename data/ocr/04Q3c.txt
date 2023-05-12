@@ -1,0 +1,7 @@
+(©)
+
+i, Calculate the magnitude / of the current in the loop during this period.
+What is the direction of the current in the loop?
+Clockwise Counterclockwise
+
+Justify your answer.

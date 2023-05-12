@@ -1,0 +1,5 @@
+Immediately after striking the floor, the large sphere is moving upward with speed v,, and collides head-on with
+the small sphere, which is moving downward with identical speed v,, at that instant. Immediately after the
+collision, the small sphere moves upward with speed vs and the large sphere has speed v;,
+
+(b) Derive an equation that relates v,,, vs, and v,

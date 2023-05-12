@@ -1,0 +1,7 @@
+(b) Suppose the distance between the bumps is increased but everything else stays the same.
+
+Is the maximum speed of the cart now greater than, less than, or the same as it was with the bumps closer
+together?
+
+Greater than Less than ‘The same as
+Briefly explain your reasoning.

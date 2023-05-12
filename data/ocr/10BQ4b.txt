@@ -1,0 +1,1 @@
+(b) Derive an expression for the power dissipated in this circuit.

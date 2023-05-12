@@ -1,0 +1,1 @@
+(c) Calculate the wavelength corresponding to the photon energy found in part (b).

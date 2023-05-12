@@ -1,0 +1,2 @@
+(d) This laser light is now used to repair a detached retina in a patient's eye. The laser puts out pulses of length
+20 x 10° s that average 0.50 W output per pulse. How many photons does each pulse contain?

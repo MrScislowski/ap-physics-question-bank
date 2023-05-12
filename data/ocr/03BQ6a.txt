@@ -1,0 +1,6 @@
+(a) Residents of the house use 0.35 m} of water per day. The day’s pumping is completed in 2 hours during
+the day.
+
+i, Calculate the minimum work required to pump the water used per day
+
+|. Calculate the minimum power rating of the pump,

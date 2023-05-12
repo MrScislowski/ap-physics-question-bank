@@ -1,0 +1,10 @@
+Resonance | Resonance 2
+Note: Figure not drawn to scale
+
+3. (AS points)
+
+A vibrating tuning fork is held above a column of air, as shown in the diagrams above. The reservoir is raised
+and lowered to change the water level, and thus the length of the column of air. The shortest length of air column
+that produces a resonance is L, = 0.25 m., and the next resonance is heard when the air column is Ly = 0.80 m
+
+long. The speed of sound in air at 20°C is 343 m/s and the speed of sound in water is 1490 m/s.

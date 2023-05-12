@@ -1,0 +1,7 @@
+(e) If the wavelength of light is decreased while the power per unit area (intensity) of the incident light stays
+the same, does the number of electrons emitted from the metal surface per unit time increase, decrease, or
+remain the same? (Assume that the light is initially above the threshold frequency.)
+
+Increases Decreases Remains the same
+
+Justify your answer.

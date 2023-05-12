@@ -1,0 +1,11 @@
+Top of Bell
+= 9.0 m2
+Area A = 9.0 m _—
+
+(r=0.25 m)
+
+2. (15 points)
+‘The experimental diving bell shown above is lowered from rest at the ocean's surface and reaches @ maximum
+depth of 80 m. Initially it accelerates downward at a rate of 0.10 m/s? until it reaches a speed of 2.0 m/s,
+which then remains constant. During the descent, the pressure inside the bell remains constant at 1 atmosphere.
+‘The top of the bell has a cross-sectional area A = 9,0 m?, The density of seawater is 1025 kg/m?

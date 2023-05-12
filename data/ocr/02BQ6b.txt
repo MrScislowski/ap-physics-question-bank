@@ -1,0 +1,5 @@
+The sealed cylinder is now placed in a large tank containing a mixture of ice and water at 273 K. You may
+neglect any change in the volume of the cylinder.
+
+(b) Determine the pressure of the neon gas after the cylinder and its contents have reached thermal equilibrium
+with the ice-water mixture.

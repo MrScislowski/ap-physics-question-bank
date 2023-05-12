@@ -1,0 +1,12 @@
+CA
+
+2. (12 points, suggested time 25 minutes)
+
+A group of students is investigating how the thickness of a plastic rod affects the maximum force Fina With which
+the rod can be pulled without breaking, Two students are discussing models to represent how Figx depends on rod
+thickness.
+
+Student A claims that Fray is directly proportional to the radius of the rod.
+
+Student B claims that Fjyax is directly proportional to the cross-sectional area of the rod—the area of the base of the
+cylinder, shaded gray in the figure above.

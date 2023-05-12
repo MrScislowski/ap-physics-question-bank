@@ -1,0 +1,1 @@
+(d) Determine the distance d between positions A and B.

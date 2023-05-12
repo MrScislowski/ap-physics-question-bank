@@ -1,0 +1,2 @@
+(@) Now suppose that friction is not negligible. How could the loop be modified to maintain the same speed at
+the top of the loop as found in (b)? Justify your answer.

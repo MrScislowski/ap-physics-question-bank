@@ -1,0 +1,12 @@
+4
++2
+
+Arrangement |
+
+3. (15 points)
+
+Four charged particles are held fixed at the comers of a square of side s. All the charges have the same
+magnitude Q, but two are positive and two are negative, In Arrangement 1, shown above, charges of the same
+
+sign are at opposite comers. Express your answers to parts (a) and (b) in terms of the given quantities and
+fundamental constants,

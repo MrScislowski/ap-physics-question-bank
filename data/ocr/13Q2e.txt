@@ -1,0 +1,13 @@
+(c) Let x= 0 be the point where the box makes contact with the spring, with positive x directed toward the right.
+
+i, On the axes below, sketch the kinetic energy K of the oscillating box as a function of position x for the
+range x = -0.50 m to x= +0.50 m
+
+x(m)
+-0.50 9 0.50
+
+ji, On the axes below, sketch the acceleration a of the oscillating box as a function of position x for the
+range x = -0,50 m to x = 40.50 m
+
+x(m)
+-0.50 ol 0.50

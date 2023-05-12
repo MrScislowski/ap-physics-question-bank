@@ -1,0 +1,7 @@
+(e) The capacitor is now discharged, and the 500 Q resistor is removed and replaced by a resistor of greater
+resistance. The circuit is reconnected, and currents are again allowed to come to their steady-state values. Is
+the charge now stored on the capacitor larger, smaller, or the same as it was in part (c)?
+
+Larger Smaller The same as
+
+Justify your answer.

@@ -1,0 +1,1 @@
+(d) Calculate the magnitude of the electric field at the position of particle 3 due to the other two particles.

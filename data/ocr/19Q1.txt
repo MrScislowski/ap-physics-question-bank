@@ -1,0 +1,14 @@
+Plunger
+
+alll
+
+BoC OD
+
+. (7 points, suggested time 13 minutes)
+
+Identical blocks I and 2 are placed on a horizontal surface at points A and E, respectively, as shown. The surface
+is frictionless except for the region between points C and D, where the surface is rough. Beginning at time 1, ,
+block 1 is pushed with a constant horizontal force from point A to point B by a mechanical plunger. Upon
+reaching point B, block 1 loses contact with the plunger and continues moving to the right along the horizontal
+surface toward block 2. Block 1 collides with and sticks to block 2 at point E, after which the two-block system
+continues moving across the surface, eventually passing point F.

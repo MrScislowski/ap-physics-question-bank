@@ -1,0 +1,5 @@
+(e) Rank the bulbs in order of brightness, with 1 being the brightest. If any bulbs have the same brightness, give
+them the same ranking,
+
+Bulb A Bulb B Bulb C Bulb D
+

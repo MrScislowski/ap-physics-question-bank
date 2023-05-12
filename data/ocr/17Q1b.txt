@@ -1,0 +1,10 @@
+(b) The batteries all start with an identical amount of usable energy and are all connected to the lightbulbs in the
+circuits at the same time.
+
+In which circuit will the battery run out of usable energy first?
+—_Cireuit 1 __Cireuit2——_Ciireuit 3
+In which circuit will the battery run out of usable energy last?
+—_Cireuit 1 _Cireuit2—_Ciireuit 3
+
+Ina clear, coherent paragraph-length response that may also contain equations and drawings, explain your
+reasoning.

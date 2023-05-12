@@ -1,0 +1,3 @@
+(©) Calculate the maximum height above the ground that the water reaches upon leaving the pipe vertically at
+ground level, assuming air resistance is negligible.
+

@@ -1,0 +1,11 @@
+A B
+
+4.0N
+
+LOKI 80ke
+
+2. (1S points)
+
+Block A of mass 2.0 kg and block B of mass 8.0 kg are connected as shown above by a spring of spring constant
+80 N/m and negligible mass. The system is being pulled to the right across a horizontal frictionless surface by a
+horizontal force of 4.0 N, as shown, with both blocks experiencing equal constant acceleration.

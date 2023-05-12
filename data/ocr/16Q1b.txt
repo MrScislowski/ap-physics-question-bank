@@ -1,0 +1,5 @@
+(b) For this ramp angle, the force of friction exerted on the wheel is less than the maximum possible static
+friction force. Instead, the magnitude of the force of static friction exerted on the wheel is 40 percent of the
+‘magnitude of the force or force component directed opposite to the force of friction. Derive an expression
+for the linear acceleration of the wheel’s center of mass in terms of M, 8, and physical constants, as
+appropriate.

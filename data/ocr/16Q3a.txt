@@ -1,0 +1,11 @@
+(a) Consider the cart’s motion between bump 41 and bump 44.
+
+i, In the figure below, sketch a graph of the cart’s velocity v as a function of time from the moment it
+reaches bump 41 until the moment it reaches bump 44.
+
+ii, Over the same time interval, draw a dashed horizontal line at v = v,,,- Label this line “v4.”
+
+0.
+
+Bump Bump Bump Bump.
+41 420 43044

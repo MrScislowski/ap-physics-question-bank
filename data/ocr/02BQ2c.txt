@@ -1,0 +1,1 @@
+(c) Determine the speed of the ball.

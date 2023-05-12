@@ -1,0 +1,23 @@
+Block B, also of mass 4.0 kg, is now placed at the edge of the table, The spring is again compressed a distance x,
+and block A is released. As it nears the end of the table, it instantaneously collides with and sticks to block B.
+The blocks follow the trajectory shown in the figure below and strike the floor at a horizontal distance d from the
+edge of the table.
+
+© 2010 The College Board,
+Visit the College Board on the Web: www.collegeboard.com,
+
+GO ON TO THE NEXT PAGE.
+
+2010 AP® PHYSICS B FREE-RESPONSE QUESTIONS
+
+-——a—_+4
+
+\  4.0kg 4.0 kg
+==
+
+650. N/m
+4
+
+Note; Figure not drawn to scale.
+
+(d) Calculate d if x is equal to the value determined in part (c).

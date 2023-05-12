@@ -1,0 +1,7 @@
+Circuit 2
+
+1. (7 points, suggested time 13 minutes)
+
+In the three circuits shown above, the batteries are all identical, and the lightbulbs are all identical. In circuit 1 a
+single lightbulb is connected to the battery. In circuits 2 and 3, two lightbulbs are connected to the battery in
+different ways, as shown, The lightbulbs are labeled AE.

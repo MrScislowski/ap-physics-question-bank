@@ -1,0 +1,6 @@
+4, (15 points)
+
+Your teacher gives you a slide with two closely spaced slits on it. She also gives you a laser with a wavelength
+2. = 632 nm, The laboratory task that you are assigned asks you to determine the spacing between the slits
+These slits are so close together that you cannot measure their spacing with a typical measuring device.
+

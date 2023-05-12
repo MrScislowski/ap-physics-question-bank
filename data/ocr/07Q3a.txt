@@ -1,0 +1,8 @@
+(@)
+
+i, Rank the currents in the three resistors from greatest to least, with number I being greatest. If two
+resistors have the same current, give them the same ranking.
+
+ls Ip ie
+
+ii, Justify your answers.

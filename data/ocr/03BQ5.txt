@@ -1,0 +1,6 @@
+vim)
+
+O10 20 30 40 50 60 70 80
+
+5. (10 points)
+‘One mole of an ideal gas is taken around the cycle A->B-C—4A_ as shown on the PV diagram above.

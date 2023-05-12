@@ -1,0 +1,1 @@
+(b) Calculate the de Broglie wavelength of an electron with kinetic energy equal to the energy of the photon.

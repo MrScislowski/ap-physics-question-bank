@@ -1,0 +1,2 @@
+(c) Determine the electric field (magnitude and direction) at the position of the +9 charge due to the other
+two charges.

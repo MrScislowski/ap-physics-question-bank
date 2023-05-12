@@ -1,0 +1,16 @@
+Metal Rod
+2
+
+0807 Lenk
+—— 1.8 ms
+302 052m
+Pe a ee er
+
+3. (15 points)
+
+A metal rod of mass 0.22 kg lies across two parallel conducting rails that are a distance of 0.52 m apart on a
+tabletop, as shown in the top view above. A 3.0 Q resistor is connected across the left ends of the rails. The
+rod and rails have negligible resistance but signifi
+There is a magnetic field of 0.80 T perpendicular to the plane of the tabletop. A string pulls the metal rod to
+the right with a constant speed of 1.8 m/s.
+

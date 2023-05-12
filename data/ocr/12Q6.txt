@@ -1,0 +1,20 @@
+Sine-wave
+Generator
+
+Speaker L
+-$————1. 4
+_ Mable Piston
+om Gi >
+la la Glass Tube
+J . ∣ ∣
+Microphone Meterstick
+Waveform
+Display
+
+6. (10 points)
+
+You are given the apparatus represented in the figure above. A glass tube is fitted with a movable piston that
+allows the indicated length L to be adjusted. A sine-wave generator with an adjustable frequency is connected to
+speaker near the open end of the tube. The output of a microphone at the open end is connected to a waveform
+splay. You are to use this apparatus to measure the speed of sound in air.
+

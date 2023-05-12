@@ -1,0 +1,9 @@
+62@ S32
++
+wav I
+nag "S210
+Zz
+
+5. (15 points)
+
+Four lightbulbs are connected in a circuit with a 24 V battery as shown above.

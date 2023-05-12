@@ -1,0 +1,5 @@
+(@) Show explicitly, using equations, how you will use your measurements to calculate the fluid density p. Start
+by identifying any symbols you use in your equations.
+
+Symbol | Physical quantit
+

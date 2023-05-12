@@ -1,0 +1,28 @@
+(d) Before deriving an equation for a quantity such as v4... it can be useful to come up with an equation that is
+intuitively expected to be true. That way, the derivation can be checked later to see if it makes sense
+
+physically, A student comes up with the following equation for the cart's maximum average speed:
+Mgsin@
+d
+
+i, To test the equation, the student rolls a cart down the long track with speed bumps many times in front
+of a motion detector. The student varies the mass M of the cart with each trial but keeps everything else
+
+the same, The graph shown below is the student's plot of the data for v,,_ as a function of M.
+
+, where Cis a positive constant.
+
+Yog =
+
+0. -M (kg)
+0 1 2 *
+
+Are these data consistent with the student’s equation?
+Yes __No
+Briefly explain your reasoning,
+
+ii, Another student suggests that whether or not the data above are consistent with the equation, the
+‘equation could be incorrect for other reasons. Does the equation make physical sense?
+
+Yes No
+Briefly explain your reasoning,

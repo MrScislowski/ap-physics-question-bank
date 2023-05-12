@@ -1,0 +1,12 @@
+attg
+
+-x
+
+~at+2q
+
+3. (15 points)
+
+‘Two point charges are fixed on the y-axis at the locations shown in the figure above. A charge of +q is located
+aty =+a and a charge of +2 is located at y =a. Express your answers to parts (a) and (b) in terms of q, a,
+and fundamental constants.
+

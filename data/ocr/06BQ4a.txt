@@ -1,0 +1,11 @@
+(a) Part of the incident ray is reflected and part is refracted at the first interface.
+
+i, Determine the angle of reflection at the first interface. Draw and label the reflected ray on the
+diagram above.
+
+ii, Determine the angle of refraction at the first interface. Draw and label the refracted ray on the
+diagram above,
+
+Determine the speed of the light in the plastic block.
+
+iv. Determine the wavelength of the light in the plastic block.

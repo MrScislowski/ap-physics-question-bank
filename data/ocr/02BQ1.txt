@@ -1,0 +1,18 @@
+3.0 m/s
+
+2.0 kg m
+
+(15 points)
+
+A.2.0 kg frictionless cart is moving at a constant speed of 3.0 mV/s to the right on a horizontal surface, as shown
+above, when it collides with a second cart of undetermined mass m that is initially at rest. The force F of the
+collision as a function of time + is shown in the graph below, where t= 0 is the instant of initial contact. As a
+result of the collision, the second cart acquires a speed of 1.6 m/s to the right. Assume that friction is negligible
+
+before, during, and after the collision.
+∣∣≻∧
+
+Force F (kN)
+
+0 0s 1.0
+‘Time # (ms)

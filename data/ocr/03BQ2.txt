@@ -1,0 +1,3 @@
+2. (IS points)
+A student is asked to design a circuit to supply an electric motor with 1.0 mA of current at 3.0 V potential
+difference.

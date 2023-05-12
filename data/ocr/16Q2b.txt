@@ -1,0 +1,2 @@
+(b) Describe how you would represent the data in a graph or table. Explain how that representation would be
+used to determine whether the data are consistent with the student's hypothesis.

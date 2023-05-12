@@ -1,0 +1,2 @@
+(®) Calculate the work done by the person pushing the box, assuming the box is raised to the vertical height
+of 3.0m.

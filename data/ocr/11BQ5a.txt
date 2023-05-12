@@ -1,0 +1,14 @@
+(@)
+
+i, Derive the equation v = E/B, for the speed v of particles that move in a straight line through
+region |
+
+ii, Some particles are emitted from the source with speeds greater than E/B, . Which of the following
+describes the initial path of one of these particles immediately after entering region 1 ?
+
+It curves toward the top of the page. It curves toward the bottom of the page.
+It curves into the page. It curves out of the page.
+
+It moves ina straight line,
+
+Explain your reasoning.

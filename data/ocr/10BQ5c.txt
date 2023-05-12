@@ -1,0 +1,4 @@
+(c) In the interference pattern on the screen, the distance from the central bright fringe to the third bright fringe
+‘on one side is measured to be 3 . Derive an expression for the wavelength of the light in terms of the given
+
+quantities and fundamental constants.

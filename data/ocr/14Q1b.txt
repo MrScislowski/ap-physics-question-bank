@@ -1,0 +1,3 @@
+(b) The center of mass of the person standing on the platform is at point A, 4.1 m above the surface of the water.
+Calculate the gravitational potential energy when the person is at point A relative to when the person is at the
+surface of the water.

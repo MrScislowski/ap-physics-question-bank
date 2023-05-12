@@ -1,0 +1,2 @@
+(c) Calculate the wavelength of light that will eject photoelectrons with the maximum kinetic energy found in
+part (b).

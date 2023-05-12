@@ -1,0 +1,8 @@
+2. (15 points)
+
+A large pan is filled to the top with oil of density pg . A plastic cup of mass m, containing a sample of known
+mass ms, is placed in the oil so that the cup and sample float, as shown above. The oil that overflows from the
+
+pan is collected, and its volume is measured. The procedure is repeated with a variety of samples of different
+mass, and the pan is refilled each
+

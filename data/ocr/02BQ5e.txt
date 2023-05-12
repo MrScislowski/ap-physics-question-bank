@@ -1,0 +1,2 @@
+(e) If the electron is released from rest at this location midway between the plates, determine its speed just
+before striking one of the plates. Assume that gravitational effects are negligible.

@@ -1,0 +1,10 @@
+(e) While the blocks are accelerating, the tension in the vertical portion of the string is 7;. Next, the pulley of
+
+negligible mass is replaced with a second pulley whose mass is not negligible. When the blocks are
+accelerating in this scenario, the tension in the vertical portion of the string is 73. How do the two tensions,
+
+compare to each other?
+
+T>T, Ty =1, 1, <7,
+
+Briefly explain your reasoning.

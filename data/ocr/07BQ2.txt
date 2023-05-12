@@ -1,0 +1,20 @@
+x x | x KK x
+
+Region I ' Region II
+
+x x Lx KK x
+x x bx x x x
+Bl
+
+x Bx tx x Bx x
+
+2. (10 points)
+
+A beam of particles of charge g = +3.2 x 107! C and mass m = 6.68 x 10° kg enters region I with a range
+
+of velocities all in the direction shown in the diagram above. There is a magnetic field in region I directed into
+the page with magnitude B = 0.12 T. Charged metal plates are placed in appropriate locations to create a uniform
+electric field of magnitude E = 4800 N/C in region I. As a result, some of the charged particles pass straight
+
+through region I undeflected. Gravitational effects are negligible
+

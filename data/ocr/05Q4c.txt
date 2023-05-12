@@ -1,0 +1,6 @@
+() On the axes below, sketch a graph of intensity versus position that would be produced by your setup,
+‘assuming that the slits are very narrow compared to their separation.
+
+Intensity
+
+Position

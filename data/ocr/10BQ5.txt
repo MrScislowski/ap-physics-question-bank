@@ -1,0 +1,15 @@
+5 T
+
+. b
+
+| — D
+Card Screen
+
+Note: Figure not drawn to scale.
+
+5. (10 points)
+
+Ina double-slit interference experiment, a parallel beam of monochromatic light is needed to illuminate two
+narrow parallel slits of width w that are a distance b apart in an opaque card as shown in the figure above. A lens
+is inserted between the point light source S and the slits in order to produce the parallel beam of light. The
+interference pattern is formed on a screen a distance D from the slits, where D >> b.

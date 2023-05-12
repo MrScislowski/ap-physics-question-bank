@@ -1,0 +1,7 @@
+(d) The bottom of the boat is at a depth d below the surface of the water. Suppose the anchor is lifted back into
+the boat so that the bottom of the boat is at a new depth d’ below the surface of the water. How does d”
+compare to d ?
+
+d<d dad
+
+Justify your answer.

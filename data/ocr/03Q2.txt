@@ -1,0 +1,3 @@
+2. (1S points)
+A circuit contains two resistors (10 Q and 20 Q) and two capacitors (12 uF and 6 uF) connected to a 6 V battery,
+as shown in the diagram above. The circuit has been connected for a long time,

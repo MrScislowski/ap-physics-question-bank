@@ -1,0 +1,4 @@
+3. (15 points)
+
+‘Two lightbulbs, one rated 30 W at 120 V and another rated 40 W at 120 V, are arranged in two
+different circuits.

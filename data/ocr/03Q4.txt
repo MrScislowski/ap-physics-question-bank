@@ -1,0 +1,17 @@
+4. (15 points)
+In your physics lab, you have a concave mirror with radius of curvature r= 60 cm. You are assigned the task of,
+finding experimentally the location of a lit candle such that the mirror will produce an image that is 4 times the
+
+height of the lit candle.
+ZO Holder
+
+Optical Bench
+
+You have an optical bench, which is a long straight track as shown above. Objects in holders can be attached at
+any location along the bench. In addition to the concave mirror and the lit candle in holders, you also have the
+following equipment.
+
+convex mirror in holder concave lens in holder convex lens in holder
+
+__ meter stick ruler ___ screen in holder
+

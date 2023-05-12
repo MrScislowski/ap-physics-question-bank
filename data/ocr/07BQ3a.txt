@@ -1,0 +1,2 @@
+(a) Calculate the current in the 500 Q resistor.
+

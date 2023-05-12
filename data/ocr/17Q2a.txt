@@ -1,0 +1,9 @@
+(a) Describe an experiment for determining the coefficient of static friction between the wood board and the
+‘wood block. Assume equipment usually found in a school physics laboratory is available.
+
+i, Draw a diagram of the experimental setup of the board and block. In your diagram, indicate each
+‘quantity that would be measured and draw or state what equipment would be used to measure each
+quantity.
+
+ii, Describe the overall procedure to be used, including any steps necessary to reduce experimental
+uncertainty, Give enough detail so that another student could replicate the experiment,

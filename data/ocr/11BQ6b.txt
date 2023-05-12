@@ -1,0 +1,3 @@
+‘The photon emitted during transition B is then incident on a metal surface of work function 2.46 eV.
+
+(b) Calculate the maximum kinetic energy of the electron ejected from the metal by the photon.

@@ -1,0 +1,4 @@
+(a) On the grid below, sketch a graph of the acceleration as a function of time for the object. Label the scale for
+the acceleration.
+
+‘Time (s)

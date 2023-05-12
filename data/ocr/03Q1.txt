@@ -1,0 +1,10 @@
+Student B
+60 kg
+
+Student A
+70 kg
+
+1. C15 points)
+A rope of negligible mass passes over a pulley of negligible mass attached to the ceiling, as shown above. One
+end of the rope is held by Student A of mass 70 kg, who is at rest on the floor. The opposite end of the rope is
+held by Student B of mass 60 kg, who is suspended at rest above the floor.

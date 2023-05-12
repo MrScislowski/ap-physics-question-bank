@@ -1,0 +1,1 @@
+(c) Calculate the speed of the ions with charge +2e that exit at distance x

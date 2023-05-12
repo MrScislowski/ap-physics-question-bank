@@ -1,0 +1,5 @@
+‘The electron encounters a particle with the same mass and opposite charge (a positron) moving with the same
+speed in the opposite direction. The two particles undergo a head-on collision, which results in the disappearance
+of both particles and the production of two photons of the same energy,
+
+(c) Determine the energy of each photon.

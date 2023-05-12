@@ -1,0 +1,4 @@
+(c) Was heat added to or removed from the gas during the cycle?
+Added Removed Neither added nor removed
+
+Justify your answer.

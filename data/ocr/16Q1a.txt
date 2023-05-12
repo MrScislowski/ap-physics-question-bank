@@ -1,0 +1,12 @@
+@
+
+i, On the diagram below, draw and label the forces (not components) that act on the wheel as it rolls,
+down the ramp, which is indicated by the dashed line. To clearly indicate at which point on the whee!
+each force is exerted, draw each force as a distinct arrow starting on, and pointing away from, the point
+at which the force is exerted. The lengths of the arrows need not indicate the relative magnitudes of the
+forces
+
+ii. As the wheel rolls down the ramp, which force causes a change in the angular velocity of the wheel
+with respect to its center of mass?
+
+Briefly explain your reasoning,

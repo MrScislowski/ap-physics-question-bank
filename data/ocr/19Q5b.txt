@@ -1,0 +1,5 @@
+(b) The column of air in the tube is still resonating at its fundamental frequency. On the axes below, sketch a
+graph of the maximum speed of air molecules as they oscillate in the tube, as a function of position x, from
++= 0 (left end of tube) to. = L (right end of tube). (Ignore random thermal motion of the air molecules.)
+
+o La 12 3L/4 L

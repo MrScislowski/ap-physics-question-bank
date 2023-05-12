@@ -1,0 +1,3 @@
+(d) Calculate how many degrees the compass needle rotates from its
+
+itial position pointing directly north.

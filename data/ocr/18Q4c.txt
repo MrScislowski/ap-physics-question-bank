@@ -1,0 +1,3 @@
+(c) Now consider the wave at time r= T. Determine the distance traveled (not the displacement) by dot P
+between times f= 0 and r= T.
+

@@ -1,0 +1,9 @@
+2.0 kg
+ISN
+
+1. C15 points)
+
+Block A of mass 2.0 kg is pulled along a horizontal table by a force of 15 N, which is applied by a light string
+that passes over a light frictionless pulley, as shown above. The coefficient of kinetic friction between the block
+and the surface is 0.25.
+

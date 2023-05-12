@@ -1,0 +1,2 @@
+(d) The string between blocks I and 2 is now cut. Determine the acceleration of block | while it is on the
+inclined plane

@@ -1,0 +1,10 @@
+An inspector provides the student with the following graph showing the acceleration a of the elevator as a
+function of time 1.
+
+——Time 1 (s)
+
+©
+i, During what time interval(s) is the force exerted by the platform scale on the student a maximum,
+value?
+
+ii, Calculate the magnitude of that maximum force for a 45 kg student.

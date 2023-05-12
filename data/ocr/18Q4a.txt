@@ -1,0 +1,15 @@
+(a) Two dots have been painted on the string. In the diagrams below, those dots are labeled P and Q.
+
+i, The figure below shows the string at an instant in time. At the instant shown, dot P has maximum,
+displacement and dot @ has zero displacement from equilibrium. At each of the dots P and Q, draw an
+arrow indicating the direction of the instantaneous velocity of that dot. If either dot has zero velocity,
+write “v = 0" next to the dot.
+
+Direction of Wave
+
+ii, The figure below shows the string at the same instant as shown in part (ai. At each of the dots P and
+Q, draw an arrow indicating the direction of the instantaneous acceleration of that dot. If either dot has
+zero acceleration, write “a = 0” next to the dot.
+
+Direction of Wave
+

@@ -1,0 +1,3 @@
+(@) Determine the magnitude of the acceleration @ of the proton just after it leaves the box, in terms of the given
+quantities and fundamental constants
+

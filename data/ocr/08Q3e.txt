@@ -1,0 +1,16 @@
+(e) Suppose the loops are correctly placed perpendicular to the field and the following data are obtained.
+Describe a likely cause of the discrepancy between the data and the theoretical relationship.
+
+0335
+0.30
+§ os|
+£020
+
+8 0.15} <
+= 0.10
+0.05} >
+
+0.00k==
+0.00 0.02 0.04 0.06 0.08 0.10 0.12
+Length (meters)
+

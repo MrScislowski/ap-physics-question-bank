@@ -1,0 +1,2 @@
+(a) Using the conditions of equilibrium, write—but do not solve—two equations that could, together, be solved
+for @ and the tension T in the left-hand string.

@@ -1,0 +1,4 @@
+(©) On the axes below, sketch a graph of the angular velocity @ of the system consisting of the two pulleys as a
+function of time ¢. Include the entire time interval shown. The pulleys are released at ¢ = 0, and the string is cut
+at r=.
+

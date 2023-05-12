@@ -1,0 +1,6 @@
+(b) The average pressure the pump actually produces is 9.20 x 10° N/m?. Within the well the water flows at
+0.50 m/s and the pipe has a diameter of 3.0 cm. At the house the pipe diameter is 1.25 em,
+
+|. Calculate the flow velocity when a faucet in the house is open.
+
+ii, Explain how you would calculate the minimum pressure at the faucet.

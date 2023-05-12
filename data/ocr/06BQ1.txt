@@ -1,0 +1,31 @@
+Recording
+
+Plate
+
+1. C15 points)
+
+A student wishing to determine experimentally the acceleration g due to gravity has an apparatus that holds
+aa small steel sphere above a recording plate, as shown above. When the sphere is released, a timer automatically
+begins recording the time of fall. The timer automatically stops when the sphere strikes the recording plate.
+
+‘The student measures the time of fall for different values of the distance D shown above and records the data in
+the table below. These data points are also plotted on the graph.
+
+Distance of Fall (m) [0.10 050 1.00 1.70 2.00
+Time of Fall (6) 014 032 0.46 0359 0.63
+
+Distance (m)
+ry
+
+25
+
+20
+
+Ls
+
+1.0
+
+0s
+
+Time (s)
+0 Ol 02 03 04 os 0.6 07

@@ -1,0 +1,6 @@
+(b) Indicate all segments of the path ABCDA, if any, for which the work done by the gas is positive. If the work
+done by the gas is not positive for any of the segments, then check “None”.
+
+AB BC CD DA _None
+
+Justify your answer.

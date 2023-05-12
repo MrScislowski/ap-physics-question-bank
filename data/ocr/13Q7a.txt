@@ -1,0 +1,4 @@
+(a) A collection of such atoms with electrons in the n = 3 state undergo transitions in which the atoms only
+emit photons, and the electrons eventually end in the m = 1 state. On the diagram above, draw arrows to
+indicate all possible transitions, given the starting and ending states for the electrons,
+

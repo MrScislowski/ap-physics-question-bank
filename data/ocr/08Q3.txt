@@ -1,0 +1,7 @@
+3. (15 points)
+
+A rectangular wire loop is connected across a power supply with an internal resistance of 0.50 © and an emf
+
+‘of 16 V. The wire has resistivity 1.7 x 10° Qem and cross-sectional area 3.5 x 10-? m?. When the power
+
+supply is turned on, the current in the wire is 4.0 A.

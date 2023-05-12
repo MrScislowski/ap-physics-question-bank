@@ -1,0 +1,1 @@
+(a) Calculate the volume rate of flow of liquid from the hole in m3/s.

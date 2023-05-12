@@ -1,0 +1,7 @@
+3. (12 points, suggested time 25 minutes)
+‘The left end of a rod of length d and rotational inertia / i attached to a frictionless horizontal surface by a
+frictionless pivot, as shown above. Point C marks the center (midpoint) of the rod, The rod is initially motionless
+but is free to rotate around the pivot. A student will slide a disk of mass my. toward the rod with velocity vp
+
+perpendicular to the rod, and the disk will stick to the rod a distance x from the pivot. The student wants the rod-
+disk system to end up with as much angular speed as possible.

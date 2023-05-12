@@ -1,0 +1,1 @@
+(d) Indicate whether the collision is elastic, Justify your answer using your results from parts (b) and (c).

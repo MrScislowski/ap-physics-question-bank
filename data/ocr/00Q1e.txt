@@ -1,0 +1,10 @@
+(e) From r= 25 s until the cart reaches the end of the track, the cart continues with constant horizontal velocity.
+‘The cart leaves the end of the track and hits the floor, which is 0.40 m below the track. Neglecting air
+resistance, determine each of the following,
+
+‘The time from when the cart leaves the track until it first hits the floor
+
+‘The horizontal distance from the end of the track to the point at which the cart first hits the floor
+
+‘The kinetic energy of the cart immediately before it hits the floor
+

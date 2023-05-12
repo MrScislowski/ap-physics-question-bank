@@ -1,0 +1,19 @@
+A uniform magnetic field of magnitude B, directed into the page, is now applied in the bottom half of the region
+between the plates, as shown in the figure below. The experiment is repeated, with the potential difference
+adjusted again so that the charged sphere falls with constant speed prior to entering the magnetis
+
+1 °
+vy
+
+L
+
+XXXXXXXXKXXX UBT
+XXX XXX KX KKK Xa LID
+5H KKK KX nf
+
+Note: Figure not drawn to scale.
+
+@
+i, Describe the motion of the sphere as it travels through the magnetic field.
+
+ii. Describe how the motion could be used to determine the sign of the charge.

@@ -1,0 +1,5 @@
+‘Suppose that the ocean liner came to rest at the surface of the ocean before it started to sink. Due to the
+resistance of the seawater, the sinking ocean liner then reached a terminal velocity of 10.0m/s after falling
+for 30.0
+
+(d) Determine the magnitude a of the average acceleration of the ocean liner during this period of time.

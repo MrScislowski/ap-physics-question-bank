@@ -1,0 +1,2 @@
+(b) Calculate the longest wavelength of photons that the atom can emit during the transitions identified in
+part (a),

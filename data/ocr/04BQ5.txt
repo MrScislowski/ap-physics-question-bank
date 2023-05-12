@@ -1,0 +1,6 @@
+5. (10 points)
+
+One mole of an ideal gas is initially at pressure A, volume V; , and temperature 7; , represented by point A on
+
+the PV diagram above. The gas is taken around cycle ABCA shown, Process AB is isobaric, process BC is
+isochoric, and process CA is isothermal

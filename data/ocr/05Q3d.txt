@@ -1,0 +1,4 @@
+(d) The -g charge can also be placed at other points on the x-axis. At each of the labeled points (A, B, and C)
+in the following diagram, draw a vector to represent the direction of the net force on the ~g charge due to the
+other two charges when itis at those points.
+

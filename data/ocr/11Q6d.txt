@@ -1,0 +1,9 @@
+(d) Another electron excites the atom from the ground state to the n = 2 state. The atom then decays back to the
+ground state by emitting a photon.
+
+i, Calculate the energy of the emitted photon in joules.
+ii In what region of the electromagnetic spectrum is the radiation?
+Radio X-rays Visible light
+
+It cannot be determined with the information given.
+

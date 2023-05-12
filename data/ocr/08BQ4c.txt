@@ -1,0 +1,2 @@
+(c) The fountain owner wants to launch the water 4.0 m into the air with the same volume flow rate. A nozzle
+can be attached to change the size of the opening. Calculate the radius needed on this new nozzle.

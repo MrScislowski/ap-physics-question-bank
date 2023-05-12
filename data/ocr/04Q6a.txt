@@ -1,0 +1,5 @@
+(a) Indicate which meter is used as an ammeter and which meter is used as a voltmeter by checking the
+appropriate spaces below.
+M M2
+Ammeter
+Voltmeter

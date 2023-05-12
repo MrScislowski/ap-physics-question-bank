@@ -1,0 +1,5 @@
+(d) A second copper sphere of radius R, that is uncharged is placed near the first sphere, as represented in the
+
+figure below. On the axes below, sketch a graph of electric potential V versus distance along the x-axis,
+shown, where the center of the first sphere is at x= 0.
+

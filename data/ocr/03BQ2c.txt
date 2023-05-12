@@ -1,0 +1,2 @@
+(c) Operating as designed above, the motor can lift a 0.012 kg mass a distance of 1.0 m in 60 s at constant
+velocity. Determine the efficiency of the motor.

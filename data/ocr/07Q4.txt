@@ -1,0 +1,11 @@
+5
+
+4. (10 points)
+
+The large container shown in the cross section above is filled with a liquid of density 1.1 10° kg/m? . A small
+
+hole of area 2.5 x 10° m? is opened in the side of the container a distance h below the liquid surface, which
+allows a stream of liquid to flow through the hole and into a beaker placed to the right of the container. At the
+same time, liquid is also added to the container at an appropriate rate so that ft remains constant. The amount of
+
+liquid collected in the beaker in 2.0 minutes is 7.2 x 10 m?.

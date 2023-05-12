@@ -1,0 +1,17 @@
+P(x10° Pa)
+
+V (x10 m5)
+
+0.75 1.0
+
+5. (10 points)
+A cylinder with a movable piston contains 0.1 mole of a monatomic ideal gas. The gas, initially at state a, can be
+taken through either of two cycles, abca or abcda, as shown on the PV diagram above. The following
+information is known about this system.
+
+Q,-44 = 685 J along the curved path
+Weg = 7120 J along the curved path
+U, =U, =4503
+
+Wasps = 750
+

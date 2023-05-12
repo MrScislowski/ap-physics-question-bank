@@ -1,0 +1,14 @@
+Equipment Inside of
+Ny Submarine
+
+Archaeologist
+
+4. (15 points)
+
+A marine archaeologist looks out the port of a research submarine, as shown above. The port is spherically
+shaped with center of curvature at point C and radius of curvature r. It is made of a material that has an index of
+refraction of n,,, the same as the index of refraction of seawater, which is greater than 1,,, the index of
+refraction of air. The archaeologist is located to the left of point C and some equipment in the submarine is
+located behind the archaeologist. The archaeologist can see through the port, but the port also acts as a mirror so
+the archaeologist can see the reflection of the equipment.
+

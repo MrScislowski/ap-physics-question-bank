@@ -1,0 +1,16 @@
+R
+
+Motor
+Battery: Block of
+Mas’
+H
+
+A motor is a device that when connected to a battery converts electrical energy into mechanical energy. The
+motor shown above is used to lift a block of mass M at constant speed from the ground to a height H above the
+ground in a time interval At. The motor has constant resistance and is connected in series with a resistor of
+resistance R, and a battery.
+
+4. (7 points, suggested time 13 minutes)
+
+Mechanical power, the rate at which mechanical work is done on the block, increases if the potential difference
+(voltage drop) between the two terminals of the motor increases.

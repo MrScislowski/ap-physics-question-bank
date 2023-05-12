@@ -1,0 +1,21 @@
+View from above
+
+y
+Ons ! vw.{[
+
+z (out
+of page) I L
+
+x=0
+
+3. (15 points)
+A rail gun is a device that propels a projectile using a magnetic force. A simplified diagram of this device is
+shown above. The projectile in the picture is a bar of mass M and length D, which has a constant current
+flowing through it in the +y-direction, as shown. The space between the thin frictionless rails contains a uniform
+magnetic field B, perpendicular to the plane of the page. The magnetic field and rails extend for a distance L.
+‘The magnetic field exerts a constant force F on the projectile, as shown,
+
+Express all algebraic answers to the following parts in terms of the mag
+‘other quantities given above, and fundamental constants.
+
+tude F of the constant magnetic force,

@@ -1,0 +1,7 @@
+(©) When resistor B is removed, does the current through resistor C increase, decrease, or remain the same?
+
+Increa
+
+Decrease Remain the same
+
+Briefly explain your reasoning.

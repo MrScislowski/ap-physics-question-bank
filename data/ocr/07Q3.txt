@@ -1,0 +1,4 @@
+3. (15 points)
+
+‘The circuit above contains a battery with negligible internal resistance, a closed switch S, and three resistors,
+each with a resistance of R or 2R.

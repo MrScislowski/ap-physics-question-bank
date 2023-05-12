@@ -1,0 +1,17 @@
+2. (12 points, suggested time 25 minutes)
+A group of students prepare a large batch of conductive dough (a soft substance that can conduct electricity) and
+then mold the dough into several cylinders with various cross-sectional areas A and lengths . Each student
+
+applies a potential difference AV across the ends of a dough cylinder and determines the resistance Rof the
+cylinder. The results of their experiments are shown in the table below.
+
+Dough
+AC rim | avy | R@)
+
+Cylinder
+∣ 0.00049 | 0.030 1.02 23.6
+2 0.00049 | 0.050 234 31S
+3 0.00053 | 0.080 3.58 61.2
+
+4 0.00057 | 0.150 621 105
+

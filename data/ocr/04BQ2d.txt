@@ -1,0 +1,2 @@
+On the top of the bell there is a circular hatch of radius r = 0.25 m,
+(d) Calculate the minimum force necessary to lift open the hatch of the bell at the maximum depth.

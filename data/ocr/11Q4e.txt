@@ -1,0 +1,6 @@
+(e) The string is cut, and the ball rises to the surface and floats. Indicate whether the water level is higher, lower,
+or the same after equilibrium is reached.
+
+Higher ___Lower __ The same.
+
+Justify your answer.

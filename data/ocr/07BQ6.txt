@@ -1,0 +1,13 @@
+6. (10 points)
+A student is asked to determine the index of refraction of a glass slab. She conducts several trials for
+measurement of angle of incidence @, in the air versus angle of refraction 8, in the glass at the surface of the
+slab, She records her data in the following table. The index of refraction in air is 1
+
+Trial # | @, (degrees) | 8, (degrees) | Sin, | Sin,
+
+1 5.0 8.0 0.09 | 0.14
+2 15 21 0.26 | 0.36
+3 25 39 0.42 | 0.63
+
+4 35 56 057 | 0.83
+

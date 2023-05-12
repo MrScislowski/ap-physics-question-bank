@@ -1,0 +1,1 @@
+(©) Calculate the minimum frequency of light that will cause photoemission from this sodium surface.

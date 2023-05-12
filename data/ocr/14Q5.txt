@@ -1,0 +1,15 @@
+P Q
+
+P Q
+3 spate Hy
+
+No Battery Battery Connected
+
+5. (15 points)
+
+A conducting rod of mass m and length L hangs at rest from two identical conducting springs, each with spring
+constant k, as shown in the figure at left above. The upper ends of the springs are fixed at points P and Q, and the
+rod is in a uniform magnetic field B directed into the page. A battery is then connected between points P and Q,
+as shown in the figure at right above, resulting in a current / in the rod. The rod is displaced downward,
+eventually reaching a new equilibrium position with the springs stretched an additional distance Ay.
+

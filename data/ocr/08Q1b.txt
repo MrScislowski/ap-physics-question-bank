@@ -1,0 +1,5 @@
+(b) After the collision, car B moves to the right at a speed of 4.8 m/s
+i. Calculate the speed of car A after the collision.
+|. Indicate the direction of motion of car A after the collision.
+
+To the left To the right None; car A is at rest.

@@ -1,0 +1,2 @@
+(a) Write a relationship between the quantities T and H, in terms of the given quantities and fundamental
+constants, that will allow you to determine n.

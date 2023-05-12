@@ -1,0 +1,16 @@
+6. (10 points)
+
+An experiment is performed to determine the number n of moles of an ideal gas in the cylinder shown above.
+The cylinder is fitted with a movable, frictionless piston of area A. The piston is in equilibrium and is supported
+by the pressure of the gas. The gas is heated while its pressure P remains constant. Measurements are made of
+the temperature T'of the gas and the height H of the bottom of the piston above the base of the cylinder and are
+recorded in the table below. Assume that the thermal expansion of the apparatus can be ignored,
+
+TK) | Him)
+300 | Lr
+325 |_1.19
+355 | 1.29
+375 | 137
+
+405 | 147
+

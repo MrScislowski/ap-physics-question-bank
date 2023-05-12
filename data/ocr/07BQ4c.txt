@@ -1,0 +1,1 @@
+(c) Calculate the volume of water collected in the tray in r= 2.0 minutes.

@@ -1,0 +1,17 @@
+6. (10 points)
+In a classroom demonstration, a beam of coherent light of wavelength 550 nm is incident perpendicularly
+onto a pair of slits. Each slit has a width w of 1.2 x 10° m, and the distance d between the centers of the
+slits is 1.8 x 10> m. The class observes light and dark fringes on a screen that is a distance L of 2.2 m
+
+from the slits. Your notebook shows the following setup for the demonstration,
+
+wt
+Te
+wt
++
+
+—
+
+Slits Screen
+
+Note: Figure not drawn to scale.

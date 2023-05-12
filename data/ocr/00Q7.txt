@@ -1,0 +1,15 @@
+d =60x 103m
+
+v = 19x 10° mis
+B=020T
+r= 010m
+
+7. (10 points)
+
+A particle with unknown mass and charge moves with constant speed v= 1.9 x 10° mis as it passes undeflected
+through a pair of parallel plates, as shown above. The plates are separated by a distance d= 6.0 x 10 m, and a
+constant potential difference V is maintained between them. A uniform magnetic field of magnitude B = 0.20'T
+directed into the page exists both between the plates and in a region to the right of them as shown. After the
+particle passes into the region to the right of the plates where only the magnetic field exists, its trajectory is
+circular with radius r= 0.10 m.
+

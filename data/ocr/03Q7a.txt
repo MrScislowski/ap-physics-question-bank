@@ -1,0 +1,2 @@
+(a) Calculate the minimum speed the helium atom must have in order to raise the neon electron from Eo’
+to Ey’

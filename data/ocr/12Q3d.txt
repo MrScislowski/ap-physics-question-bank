@@ -1,0 +1,4 @@
+(@) A small piece of wood with density less than that of the oil is placed so that it floats in the left side of the
+tube. Indicate whether the pressure at the bottom of the tube increases, decreases, or remains the same.
+
+Increases Decreases Remains the same

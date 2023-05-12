@@ -1,0 +1,1 @@
+(a) Derive an expression for the total resistance of the circuit.

@@ -1,0 +1,7 @@
+Resistor B is now removed from the circuit, and there is no connection between the wires that were attached to it.
+‘The new circuit diagram is shown below.
+
+(b) When resistor B is removed, does the current through resistor A increase, decrease, or remain the same?
+Increase Decrease Remain the same
+
+Briefly explain your reasoning.

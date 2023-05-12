@@ -1,0 +1,1 @@
+(b) Calculate the DeBroglie wavelength of the helium atom when it has the speed determined in (a).

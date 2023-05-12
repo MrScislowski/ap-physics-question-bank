@@ -1,0 +1,1 @@
+(d) Calculate the power dissipated in the 1000 Q resistor.

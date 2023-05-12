@@ -1,0 +1,9 @@
+Bulb A
+9.0V 6.02 3.02
+BulbB Bulb C
+
+3. (15 points)
+
+Lightbulbs of fixed resistance 3.0 @ and 6.0, a 9.0 V battery, and a switch S are connected as shown in the
+schematic diagram above, The switch $ is closed.
+

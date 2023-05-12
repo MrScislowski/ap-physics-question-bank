@@ -1,0 +1,4 @@
+(d) Assume that 0.015% of the hydrogen atoms in seawater (HO) are deuterium, The atomic mass number of
+oxygen is 16. About how many kilograms of seawater would be needed per year to provide the hydrogen
+fuel for fusion reactors to meet the energy needs of the United States?
+

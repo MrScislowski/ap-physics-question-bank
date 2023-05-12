@@ -1,0 +1,7 @@
+(a) The person swings two times, each time letting go of the rope at a different point.
+
+i, On the first swing, the person lets go of the rope when first arriving at point C. Draw a solid line to
+represent the trajectory of the center of mass alter the person releases the rope.
+
+ji, A second time, the person lets go of the rope at point D. Draw a dashed line to represent the trajectory
+of the center of mass after the person releases the rope.

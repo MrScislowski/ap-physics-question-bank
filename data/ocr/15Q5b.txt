@@ -1,0 +1,2 @@
+(b) A student graphs frequency as a function of the inverse of the linear mass density. Will the graph be linear?
+Explain how you arrived at your answer.

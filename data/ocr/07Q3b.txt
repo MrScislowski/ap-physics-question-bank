@@ -1,0 +1,8 @@
+(b)
+
+i, Rank the voltages across the three resistors from greatest to least, with number | being greatest. If two
+resistors have the same voltage across them, give them the same ranking.
+
+v4 Vp VC
+
+ii, Justify your answers.

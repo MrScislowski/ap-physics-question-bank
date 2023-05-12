@@ -1,0 +1,3 @@
+(d) Now the piston is pulled up quickly, so no heat is added to or removed from the gas during the process. On
+the axes above, sketch a graph of pressure versus volume for the process the gas undergoes as a result, and.
+indicate the direction of the process on the graph. Label this process “D.”

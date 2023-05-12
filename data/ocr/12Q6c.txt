@@ -1,0 +1,4 @@
+(©) A more accurate experimental value can be obtained by varying one of the measured quantities to obtain
+multiple sets of data. Indicate one quantity that can be Varied, and describe how a graph of the resulting data
+could be used to determine the speed of sound. Clearly identify independent and dependent variables, and
+indicate how the slope of the graph relates to the speed of sound.

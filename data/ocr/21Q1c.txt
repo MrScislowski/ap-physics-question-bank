@@ -1,0 +1,8 @@
+(©) On the axes below, sketch a graph of the vertical component of the stunt cyclist’s velocity as a function of
+time from immediately after the cyclist leaves the ramp to immediately before the cyclist lands on the second.
+ramp. On the vertical axis, clearly indicate the initial and final vertical velocity components in terms of Ho, 8,
+‘mg, and physical constants, as appropriate. Take the positive direction to be upward.
+
+Vertical Component of
+Stunt Cyclist’s Velocity
+

@@ -1,0 +1,11 @@
+(©) The incident beam is now perpendicular to the surface. The glass is coated with a thin film that has an index
+of refraction n, = 1.38 to reduce the partial reflection of the beam at this angle.
+
+i, Calculate the wavelength of the red light in the film.
+
+|. Calculate the minimum thickness of the film for which the inter
+
+zero.
+
+ity of the reflected red ray is near
+

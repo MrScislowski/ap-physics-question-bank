@@ -1,0 +1,6 @@
+(@)
+i, Determine the average potential energy change of an electron as it moves from point Z to point X.
+
+|. Indicate whether the electron gains or loses potential energy as it moves from point Z to point X.
+
+Gains energy Loses energy

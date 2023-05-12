@@ -1,0 +1,28 @@
+-—S
+
+Disk Block
+
+(©) The disk is now moving at a constant speed vy on the surface toward a block of mass Mg, which is at rest on
+the surface, as shown above, The disk and block collide head-on and stick together, and the center of mass of,
+the disk-block system moves with speed Yim,
+
+i. Suppose the mass of the disk is much greater than the mass of the block. Estimate the velocity of
+
+the center of mass of the disk-block system. Explain how you arrived at your prediction without
+deriving it mathematically
+
+Suppose the mass of the disk is much less than the mass of the block, Estimate the velocity of the
+center of mass of the disk-block system. Explain how you arrived at your prediction without
+deriving it mathematically
+
+Now suppose that neither object’s mass is much greater than the other but that they are not
+necessarily equal. Derive an equation for Yim. Express your answer in terms of vy, Mp, Mp, and
+physical constants, as appropriate
+
+iv. Consider the scenario from part (c)(i), where the mass of the disk was much greater than the mass
+of the block. Does your equation for tiq_ from part (c)(iii) agree with your reasoning from part
+(on)?
+
+Yes _No
+Explain your reasoning by addressing why, according to your equation, vig, becomes (or
+approaches) a certain value when Mp is much greater than Mp

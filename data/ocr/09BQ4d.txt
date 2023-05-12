@@ -1,0 +1,8 @@
+After the time 1, the circuit is disconnected. The piston is then released and the gas is allowed to expand
+adiabatically until it reaches volume V,_
+
+(d) Indicate below whether the temperature increases, decreases, or remains the same during this process.
+
+Increases Decreases Remains the same
+
+Justify your answer.

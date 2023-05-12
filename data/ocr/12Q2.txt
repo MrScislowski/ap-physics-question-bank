@@ -1,0 +1,15 @@
+fps
+
+@®
+of @)
+
+Before Immediately After
+Release Large Sphere
+Strikes Floor
+
+. (10 points)
+
+A small and a large sphere, of mass M and 3M respectively, are arranged as shown on the left side of the figure
+above. The spheres are then simultaneously dropped from rest. When the large sphere strikes the floor, the
+spheres have fallen a height H. Assume air resistance is negligible. Express all answers in terms of M, H, and
+fundamental constants, as appropriate,

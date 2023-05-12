@@ -1,0 +1,1 @@
+(d) Calculate the friction force between the plane and the box.

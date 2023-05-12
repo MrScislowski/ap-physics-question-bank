@@ -1,0 +1,9 @@
+(c) Ina second experiment on the same ramp, a block of ice, also with mass M, is released from rest at the same
+instant the wheel is released from rest, and from the same height. The block slides down the ramp with
+negligible friction.
+
+i, Which object, if either, reaches the bottom of the ramp with the greatest speed?
+Wheel Block Neither; both reach the bottom with the same speed.
+Briefly explain your answer, reasoning in terms of forces.
+
+ii, Briefly explain your answer again, now reasoning in terms of energy

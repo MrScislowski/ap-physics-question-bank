@@ -1,0 +1,9 @@
+is now compressed twice as much, to Ax = 2D. A student is asked to predict whether the
+final position of the block will be twice as far at x = 6D . The student reasons that since the spring will be
+compressed twice as much as before, the block will have more energy when it leaves the spring, so it will slide
+farther along the track before stopping at position x = 6D
+
+()
+i. Which aspects of the student’s reasoning, if any, are correct? Explain how you arrived at your answer.
+ii, Which aspects of the student's reasoning, if any, are incorrect? Explain how you arrived at your
+‘answer.

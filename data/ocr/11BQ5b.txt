@@ -1,0 +1,12 @@
+A constant magnetic field of magnitude B, directed into the page is now added in region 2 to the right of
+region 1, as represented in the figure below. Suppose a particle leaves the radioactive source, travels through
+region 1 in a straight line, and enters region 2. For each of the following, express algebraic answers in terms
+of E, By, By, q, and fundamental constants, as appropriate.
+
+a a ae
++4 Bo ee
+
+Feet HEH HTH HS
+Region 1
+
+(b) Determine an expression for the initial magnetic force on the particle in region 2 and state its direction.

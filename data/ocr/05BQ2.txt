@@ -1,0 +1,7 @@
+2. (10 points)
+
+A simple pendulum consists of a bob of mass 0.085 kg attached to a string of length 1.5 m, The pendulum is
+raised to point Q, which is 0.08 m above its lowest position, and released so that it oscillates with small
+amplitude @ between the points P and Q as shown below.
+
+Note: Figure not drawn to scale.

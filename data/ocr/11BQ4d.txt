@@ -1,0 +1,16 @@
+(d) A child holds the string midway between the balloon and the 0.015 kg object. The child gets into a car,
+brings the balloon and the 0.015 kg object into the car, and holds the string so that neither the balloon nor the
+0.015 kg object touches any surface. The car then begins to move forward, accelerating in a straight line
+What behavior does the 0.015 kg object exhibit when the car accelerates?
+
+____ It swings toward the front of the car.
+
+It swings toward the back of the car.
+
+It swings toward the right side of the car.
+
+___ It swings toward the left side of the car.
+
+It remains vertical below the child’s hand.
+
+Explain your reasoning.

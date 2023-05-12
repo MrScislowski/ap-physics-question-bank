@@ -1,0 +1,2 @@
+(a) Assuming an index of refraction of 1.00 for air, use the graph to determine a value for the index of refraction
+of the glass for the red light. Explain how you obtained this value.

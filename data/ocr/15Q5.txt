@@ -1,0 +1,27 @@
+; L |
+
+Oscillator
+
+hb
+
+Block
+Side View
+
+5. (7 points, suggested time 13 minutes)
+
+The figure above shows a string with one end attached to an oscillator and the other end attached to a block. The
+string passes over a massless pulley that turns with negligible friction. Four such strings, A, B, C, and D, are set
+up side by side, as shown in the diagram below. Each oscillator is adjusted to vibrate the string at its fundamental
+frequency f. The distance between each oscillator and pulley L. is the same, and the mass M of each block is the
+same, However, the fundamental frequency of each string is different.
+
+i L 4
+Sa= 400 He. M
+Sp= 382 He M
+So= 364 Hz M
+p= 350 Hz M
+‘Top View
+
+‘The equation for the velocity v of a wave on a string is v = where F, is the tension of the string
+
+and m/L is the mass per unit length (linear mass density) of the string.

@@ -1,0 +1,6 @@
+5. (7 points, suggested time 13 minutes)
+Block Pof mass_m is on a horizontal, frictionless surface and i attached to a spring with spring constant &. The
+block is oscillating with period 7} and amplitude Ap about the spring's equilibrium position). A second
+block Qof mass. 2m is then dropped from rest and lands on block P at the instant it passes through the
+‘equilibrium position, as shown above. Block Q immediately sticks to the top of block P, and the two-block
+system oscillates with period Tyo and amplitude Apo.

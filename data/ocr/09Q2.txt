@@ -1,0 +1,6 @@
+2. (10 points)
+
+‘Two small objects, labeled 1 and 2 in the diagram above, are suspended in equilibrium from strings of length L.
+Each object has mass m and charge +@. Assume that the strings have negligible mass and are insulating and
+electrically neutral. Express all algebraic answers in terms of m, L, Q, @, and fundamental constants,
+

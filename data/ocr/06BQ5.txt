@@ -1,0 +1,16 @@
+_ A (Po Voy To)
+
+ML I
+
+° Yo 2Vo,
+5. (10 points)
+
+A sample of ideal gas is taken through steps I, Il, and III in a closed cycle, as shown on the pressure P versus
+volume V diagram above, so that the gas returns to its original state. The steps in the cycle are as follows.
+
+1. An isothermal expansion occurs from point A to point B, and the volume of the gas doubles.
+
+IL. An isobaric compression occurs from point B to point C, and the gas returns to its original volume.
+
+IIL. A constant volume addition of heat occurs from point C to point A and the gas returns to its original
+pressure,

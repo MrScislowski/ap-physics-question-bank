@@ -1,0 +1,6 @@
+(a) At time 1 = 0, the pulleys are released from rest and the objects begin to accelerate.
+
+i, Derive an expression for the magnitude of the net torque exerted on the objects-pulleys system about the axle
+after the pulleys are released, Express your answer in terms of mo, ro, and physical constants, as appropriate.
+
+ii, Object 1 accelerates downward after the pulleys are released. Briefly explain why.

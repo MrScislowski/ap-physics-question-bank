@@ -1,0 +1,4 @@
+(c) Is this an elastic collision?
+Yes No
+
+Justify your answer.

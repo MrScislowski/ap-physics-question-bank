@@ -1,0 +1,10 @@
+hr
+
+‘The cylinder is again placed at the top of the incline. A block, also of mass mo, is placed at the top of a
+separate rough incline of length Lg and height Hp, as shown above. When the cylinder and block are released
+at the same instant, the cylinder begins to roll without slipping while the block begins to accelerate uniformly.
+‘The cylinder and the block reach the bottoms of their respective inclines with the same translational speed.
+
+(b) In terms of energy, explain why the two objects reach the bottom of their respective inclines with the same
+translational speed. Provide your answer in a clear, coherent paragraph-length response that may also contain
+figures and/or equations.

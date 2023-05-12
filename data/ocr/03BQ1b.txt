@@ -1,0 +1,3 @@
+The plane reaches a takeoff speed of 65 m/s after accelerating for a total of 30 s.
+
+(b) Determine the minimum length of the runway needed.

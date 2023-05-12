@@ -1,0 +1,11 @@
+2. (5 points)
+A world-class runner can complete a 100 m dash in about 10 s, Past studies have shown that runners in such a
+race accelerate uniformly for a time 4, and then run at constant speed for the remainder of the race, A world-
+
+class runner is visiting your physics class. You are to develop a procedure that will allow you to determine the
+uniform acceleration a, and an approximate value of ¢, for the runner in a 100 m dash, By necessity your
+
+experiment will be done on a
+
+traight track and include your whole class of eleven students.
+

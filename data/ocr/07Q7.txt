@@ -1,0 +1,7 @@
+7. (10 points)
+
+It is possible for an electron and a positron to orbit around their stationary center of mass until they annihilate
+each other, creating two photons of equal energy moving in opposite directions. A positron is a particle that has
+the same mass as an electron and equal but opposite charge. The amount of kinetic energy of the electron-
+positron pair before annihilation is negligible compared to the energy of the photons created.
+

@@ -1,0 +1,22 @@
+State 1 State 2 State 3 State 4
+
+A= 1.20% 103? m2
+
+T; = 100°C
+
+Figures not drawn to scale.
+
+6. (10 points)
+A cylinder is fitted with a freely moveable piston of area 1.20 x 10°? m? and negligible mass. The cylinder
+below the piston is filled with a gas. At state 1, the gas has volume 1.50 x 107m, pressure 1.02 x 10° Pa, and
+
+the cylinder is in contact with a water bath at a temperature of 0°C. The gas is then taken through the following
+four-step process.
+
+* A250 kg metal block is placed on top of the piston, compressing the gas to state 2, with the gas still at 0°C.
+
+* The cylinder is then brought in contact with a boiling water bath, raising the gas temperature to 100°C at
+state 3
+
+‘* The metal block is removed and the gas expands to state 4 still at 100°C.
+‘* Finally, the cylinder is again placed in contact with the water bath at 0°C, returning the system to state 1

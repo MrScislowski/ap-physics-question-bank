@@ -1,0 +1,7 @@
+©
+i. Calculate the minimum coefficient of friction between the crate and truck that prevents the crate from
+sliding.
+
+ii, Indicate whether this friction is static or kinetic
+
+Static __Kinetic

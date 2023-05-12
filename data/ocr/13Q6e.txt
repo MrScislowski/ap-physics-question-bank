@@ -1,0 +1,9 @@
+(e) With wire ¥ still above wire X, the circuit connected to wire Y is removed. Wire Y, which is 1.2 m long, is
+then moved vertically up and away from wire X at a constant speed of 3.0 m/s,
+
+i, Calculate the magnitude of the induced emf in wire ¥ when the wires are 0,050 m apart
+
+ji, Indicate which end of wire Y is at a higher electric potential.
+The leftend ____ The right end
+___Neither end, since they are at the same electric potential
+Justify your answer.

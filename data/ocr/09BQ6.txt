@@ -1,0 +1,7 @@
+Note: Energy levels not drawn to scale.
+6. (10 points)
+
+The electron energy levels above are for an electron confined to a certain very small one-dimensional region of
+space. The energy E,, of the levels, where n= 1, 2, 3, ... is given by E, = n°E,. Express all algebraic answers
+
+in terms of E, and fundamental constants,

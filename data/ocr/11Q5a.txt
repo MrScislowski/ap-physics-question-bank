@@ -1,0 +1,4 @@
+(a) A potential difference of magnitude V is applied between the top and bottom plates such that the sphere
+falls at constant speed v. Derive an expression for the magnitude of the charge q on the sphere. Express
+your answer in terms of m,L, V, and fundamental constants, as appropriate.
+

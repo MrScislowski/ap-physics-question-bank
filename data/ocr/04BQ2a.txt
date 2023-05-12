@@ -1,0 +1,1 @@
+(a) Calculate the total time it takes the bell to reach the maximum depth of 80 m.

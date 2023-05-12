@@ -1,0 +1,2 @@
+The field strength now increases uniformly to 0.20 T in 0.50 s.
+(b) Calculate the emf & induced in the loop during this period.

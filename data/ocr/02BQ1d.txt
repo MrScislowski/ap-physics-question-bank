@@ -1,0 +1,1 @@
+(d) Calculate the distance traveled by the second cart during the 5.0 s interval after the collision (0s < 1< 5.05).

@@ -1,0 +1,2 @@
+(c) The horizontal string is now cut close to the bob, and the pendulum swings down. Calculate the speed of the
+bob at its lowest position.

@@ -1,0 +1,9 @@
+Side View
+
+1. (15 points)
+
+A ball of mass M is attached to a string of length R and negligible mass. The ball moves clockwise in a vertical
+circle, as shown above. When the ball is at point P, the string is horizontal. Point Q is at the bottom of the circle
+and point Z is at the top of the circle. Air resistance is negligible. Express all algebraic answers in terms of the
+‘given quantities and fundamental constants.
+

@@ -1,0 +1,3 @@
+(b) The magnitude of the frictional torque exerted on the disk is 7. Derive an equation for the rotational
+
+inertia / of the disk in terms of T), @. 1), and physical constants, as appropriate.

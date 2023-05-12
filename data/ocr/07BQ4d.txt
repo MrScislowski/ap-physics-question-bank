@@ -1,0 +1,1 @@
+(d) Calculate the time it takes for a given droplet of water to fall 0.25 m from the hole.

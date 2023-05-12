@@ -1,0 +1,1 @@
+(c) Calculate the distance of the image from the center of the lens,

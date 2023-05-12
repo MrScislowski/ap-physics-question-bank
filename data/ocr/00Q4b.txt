@@ -1,0 +1,18 @@
+(b) Next a thin film of material is to be tested on the glass sheet for use in making reflective coatings. The film
+has an index of refraction; = 1.38. White light is incident normal to the surface of the film as shown
+
+below. It is observed that at a point where the light is incident on the film, light reflected from the surface
+appears green (2 = 525 nm).
+
+Air
+Film
+
+Glass
+
+Air
+
+i, What is the frequency of the green light in air
+ii, What is the frequency of the green light in the film?
+ii, What is the wavelength of the green light in the film?
+
+iv. Calculate the minimum thickness of film that would produce this green reflection.

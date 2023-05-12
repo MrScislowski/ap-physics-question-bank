@@ -1,0 +1,8 @@
+The gas is heated by a circuit that contail stance Ry , connected in parallel to
+
+‘a power source of emf & . The piston is held fixed so that the gas remains at constant volume while being heated
+for a period of time t.
+
+three resistors, each of known res
+
+(b) Determine the resistance of the circuit.

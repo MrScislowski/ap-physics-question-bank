@@ -1,0 +1,4 @@
+3. (15 points)
+
+Three electric charges are arranged on an x-y coordinate system, as shown above, Express all algebraic answers
+to the following parts in terms of Q, q, x, d, and fundamental constants.

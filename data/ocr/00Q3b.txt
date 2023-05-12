@@ -1,0 +1,2 @@
+(b) Switches S, and S, are now opened, and then switch S; is closed. Determine the charge Q on the capacitor
+after S, has been closed for a very long time.

@@ -1,0 +1,2 @@
+(b) Calculate the magnitude of the resistive forces acting on the locomotive when it is moving with a constant
+speed of 7.0 m/s

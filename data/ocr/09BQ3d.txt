@@ -1,0 +1,2 @@
+(d) Calculate the horizontal distance from the pipe that is reached by water exiting the pipe at 60° from the
+level ground, assuming air resistance is negligible,

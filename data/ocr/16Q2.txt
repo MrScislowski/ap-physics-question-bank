@@ -1,0 +1,7 @@
+2, (12 points, suggested time 25 minutes)
+
+A new kind of toy ball is advertised to “bounce perfectly elastically” off hard surfaces. A student suspects,
+however, that no collision can be perfectly elastic. The student hypothesizes that the collisions are very close to
+being perfectly elastic for low-speed collisions but that they deviate more and more from being perfectly elast
+as the collision speed increases.
+

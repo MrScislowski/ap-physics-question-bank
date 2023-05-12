@@ -1,0 +1,8 @@
+0.50 m
+
+1. (10 points)
+
+A small block of mass 0.15 kg is placed at point A at a height 2.0 m above the bottom of a track, as shown in the
+figure above, and is released from rest. It slides with negligible friction down the track, around the inside of the
+loop of radius 0.60 m, and leaves the track at point C at a height 0.50 m above the bottom of the track,
+

@@ -1,0 +1,2 @@
+(d) Determine the x-coordinate of the point on the line between the two charges at which the electric potential is
+zero.

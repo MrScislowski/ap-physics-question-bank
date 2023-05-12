@@ -1,0 +1,1 @@
+(c) Calculate the energy dissipated in the resistor in 2.0 s.

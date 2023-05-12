@@ -1,0 +1,8 @@
+Block I ‘Mz | Block 2
+
+Note: Figure not drawn to scale.
+1. (7 points, suggested time 13 minutes)
+
+‘Two blocks are connected by a string of negligible mass that passes over massless pulleys that turn with
+negligible friction, as shown in the figure above. The mass m, of block 2 is greater than the mass m, of block 1
+‘The blocks are released from rest.

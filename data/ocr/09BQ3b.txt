@@ -1,0 +1,1 @@
+(b) Calculate the absolute water pressure in the pipe at point A.

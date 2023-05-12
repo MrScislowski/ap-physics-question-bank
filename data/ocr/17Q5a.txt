@@ -1,0 +1,8 @@
+(a) Between time = 0 and 1 = 5 seconds, the entire left-hand pulse approaches and moves beyond point P on
+the string. On the coordinate axes below, plot the velocity of the piece of string located at point P as a
+function of time between
+
+5 seconds.
+
+Velocity Versus Time
+

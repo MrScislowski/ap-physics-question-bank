@@ -1,0 +1,4 @@
+(b) Calculate the smallest frequency of light that can be absorbed by an electron in t
+ground state, n = 1
+
+system when it is in the

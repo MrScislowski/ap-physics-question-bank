@@ -1,0 +1,8 @@
+‘The diver finds a rectangular aluminum plate having dimensions 1.0 m x 2.0 m x 0.03 m. A hoisting cable is
+
+lowered from the ship and the diver connects it to the plate, The density of aluminum is 2.7 x 10" kg/m’. Ignore
+the effects of viscosity.
+
+(c) Calculate the tens
+
+mn in the cable if it lifts the plate upward at a slow, constant velocity.

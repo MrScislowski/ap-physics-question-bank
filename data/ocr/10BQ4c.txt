@@ -1,0 +1,8 @@
+Assume that any magnetic fields result only from the currents in the two long wires,
+
+(©) What is the direction of the magnetic field, if any, at point P, which is in the plane of the page?
+___ To the left ___ Toward the top of the page ___ Out of the plane of the page
+othe right _ Toward the bottom of the page -__Into the plane of the page
+___None of the above, because the magnetic field is zero
+
+Explain your reasoning.

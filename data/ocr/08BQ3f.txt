@@ -1,0 +1,1 @@
+(f) Calculate the rate at which energy is dissipated in the circuit,

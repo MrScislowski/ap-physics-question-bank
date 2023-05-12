@@ -1,0 +1,6 @@
+(@) Another student uses the launcher to consecutively launch several spheres that have the same diameter but
+different masses, one after another. Each sphere is launched from position A. Consider each sphere’s launch
+speed, which is the speed of the sphere at the instant it loses contact with the plate, On the axes below,
+sketch a graph of launch speed as a function of sphere mass
+
+‘Sphere Mass

@@ -1,0 +1,5 @@
+Ts 345678 91 TDIS
+Frequency (x 10'* Hz)
+
+7. (10 points)
+Your teacher gives you the above graph of stopping potential versus frequency for the photoelectric effect.

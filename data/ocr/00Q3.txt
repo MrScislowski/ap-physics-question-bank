@@ -1,0 +1,7 @@
+30V => R R C= 10x 10°F
+
+3. (15 points)
+
+‘Three identical resistors, each with resistance R, and a capacitor of 1.0 x 10° F are connected to a 30 V battery
+with negligible internal resistance, as shown in the circuit diagram above. Switches S, and S, are initially closed,
+and switch S; is initially open. A voltmeter is connected as shown.

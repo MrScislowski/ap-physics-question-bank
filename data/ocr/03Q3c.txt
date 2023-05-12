@@ -1,0 +1,1 @@
+(c) Determine the energy supplied to the projectile by the rail gun.

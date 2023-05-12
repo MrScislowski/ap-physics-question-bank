@@ -1,0 +1,6 @@
+(e) The student performing this experiment determines that the temperature of the room is actually slightly
+higher than 20°C. Is the calculation of the frequency in part (b) too high, too low, or still correct?”
+
+Too high Too low Still correct
+
+Justify your answer.

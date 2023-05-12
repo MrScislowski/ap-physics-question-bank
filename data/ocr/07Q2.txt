@@ -1,0 +1,18 @@
+Region of Magnetic Field B
+
+Top View
+2. (10 points)
+
+Your research director has assigned you to set up the laboratory's mass spectrometer so that it will separate
+strontium ions having a net charge of +2e from a beam of mixed ions. The spectrometer above accelerates a
+beam of ions from rest through a potential difference € , after which the beam enters a region containing a
+uniform magnetic field B of constant magnitude and perpendicular to the plane of the path of the ions. The ions
+leave the spectrometer at a distance x from the entrance point. You can manually change €
+
+Numerical values for this experiment:
+Strontium atomic number: 38
+
+‘Strontium ion mass: 1.45 x10 kg.
+
+Magnitude of B field: 0.090 T
+Desired exit distancex: 1.75 m

@@ -1,0 +1,5 @@
+‘The particles that pass straight through enter region II in which there is no electric field and the magnetic field
+has the same magnitude and direction as in region I. The path of the particles in region Il is a circular are of
+radius R.
+
+(b) Calculate the radius R.

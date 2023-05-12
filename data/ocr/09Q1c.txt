@@ -1,0 +1,2 @@
+(c) On the axes below, plot your data and draw a best-fit straight line, Label the axes and indicate the scale,
+

@@ -1,0 +1,3 @@
+(b) Calculate the weight of the water on the top of the bell when it
+
+at the maximum depth.

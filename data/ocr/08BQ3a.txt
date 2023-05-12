@@ -1,0 +1,1 @@
+(a) On the graph, plot new points for the field due only to the wire.

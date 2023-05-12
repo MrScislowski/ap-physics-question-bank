@@ -1,0 +1,10 @@
+2. (1S points)
+
+Blox respectively, are connected by alight string, as shown above. These
+blocks are further connected to a block of mass M by another light string that passes over a pulley of negligible
+mass and friction. Blocks | and 2 move with a constant velocity v down the inclined plane, which makes an
+
+angle @ with the horizontal. The kinetic frictional force on block | is f and that on block 2 is 2f.
+
+$1 and 2 of masses m and my
+

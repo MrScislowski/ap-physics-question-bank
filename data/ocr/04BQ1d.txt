@@ -1,0 +1,2 @@
+(@) In order to stop the car at point A, some friction must be introduced. Calculate the work that must be done
+by the friction force in order to stop the car at point A.

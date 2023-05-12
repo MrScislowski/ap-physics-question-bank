@@ -1,0 +1,13 @@
+(a) A student of mass Ms, standing on a smooth surface, uses a stick to push a disk of mass Mp. The student
+exerts a constant horizontal force of magnitude Fj, over the time interval from time
+pushing the disk. Assume there is negligible friction between the disk and the surface.
+
+tor ty while
+
+i. Assuming the disk begins at rest, determine an expression for the final speed vp of the disk relative
+to the surface. Express your answer in terms of Fy, ty, Ms, Mp, and physical constants, as
+appropriate.
+
+ii, Assume there is negligible friction between the student's shoes and the surface. After time ty, the
+student slides with speed vs. Derive an equation for the ratio vp/ vs. Express your answer in terms
+of Ms, Mp, and physical constants, as appropriate.

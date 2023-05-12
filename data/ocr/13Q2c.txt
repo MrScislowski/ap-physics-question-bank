@@ -1,0 +1,1 @@
+(c) Calculate the magnitude of the maximum acceleration of the box.

@@ -1,0 +1,15 @@
+Radioactive
+Source 4g
+
+eee ett ee tes
+Region 1
+
+5. (15 points)
+The diagram above illustrates a velocity selector, labeled region 1. It consists of two parallel conducting
+plates, with charges on the plates as indicated creating an electric field of magnitude E directed toward the
+top of the page. A uniform magnetic field of magnitude B, directed out of the page exists between the plates.
+‘The magnitude of the magnetic field can be adjusted so that only particles of a particular speed pass through the
+selector in a straight line. A radioactive source to the left of the selector emits charged particles, each having the
+same charge +q and moving to the right in the plane of the page. The effect of gravity can be neglected
+
+throughout the problem.

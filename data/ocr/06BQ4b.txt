@@ -1,0 +1,4 @@
+(b) The source of red light is replaced with one that produces blue light (A = 450 nm ), for which the plas
+hhas a greater index of refraction than for the red light. Qualitatively describe what happens to the
+reflected and refracted rays.
+

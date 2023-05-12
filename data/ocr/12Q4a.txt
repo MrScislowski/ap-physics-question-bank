@@ -1,0 +1,4 @@
+(a) The cylinder is placed in a hot-water bath. On the axes below, sketch a graph of pressure versus temperature
+for the process the gas undergoes as a result, and indicate the direction of the process on the graph.
+
+Temperature (K)

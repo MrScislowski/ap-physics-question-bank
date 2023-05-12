@@ -1,0 +1,9 @@
+A new tube, identical to the U-tube except for a cone shape on the left, as shown above, is filled with the same
+volume of mercury that was in the U-tube. The mercury is at the same height on both sides of the new tube as it
+was in the U-tube, as shown by the dashed line. The same volumes of oil and water that were in the U-tube are
+now poured into the new tube, on the left and right respectively.
+(©) Indicate the new position of B relative to A.
+
+_—_AboveA __ Below A At the same height as A
+
+Justify your answer.

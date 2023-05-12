@@ -1,0 +1,4 @@
+The photon is then incident on a silver surface in a photoelectric experiment, and the surface emits an electron
+with maximum possible kinetic energy. The work function of silver is 4.7 eV.
+
+(c) Calculate the kinetic energy, in eV, of the emitted electron.

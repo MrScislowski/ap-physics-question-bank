@@ -1,0 +1,9 @@
+‘The procedure is repeated, and the period P is determined for four different values of my , where
+
+m, = 0.012 kg and r = 0.80 m. The data, which are presented below, can be used to compute an
+experimental value for g.
+
+m, (kg) |0.020 [0.040 | 0.060 | 0.080
+Ps) 1.40 1.05 0.80 0.75
+
+(b) What quantities should be graphed to yield a straight line with a slope that could be used to determine g

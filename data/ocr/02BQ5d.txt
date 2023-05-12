@@ -1,0 +1,3 @@
+An electron is initially located at a point midway between the plates.
+
+(d) Determine the magnitude of the electrostatic force on the electron at this location and state its direction.

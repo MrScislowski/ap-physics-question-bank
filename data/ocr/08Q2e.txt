@@ -1,0 +1,3 @@
+(e) Ina new situation, the blocks and spring are moving together at a constant speed of 0.50 m/s to the left.
+Block A then hits and sticks to a wall. Calculate the maximum compression of the spring,
+

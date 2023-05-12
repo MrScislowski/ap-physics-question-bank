@@ -1,0 +1,4 @@
+(c) The fountain is fed by a pipe that at one point has a radius of 7.00 x 10° m and is 3.00 m below the
+
+fountain’s opening. The density of water is 1.0 10° kg/m? . Calculate the gauge pressure in the feeder
+pipe at this point.

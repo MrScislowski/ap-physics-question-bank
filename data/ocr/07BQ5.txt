@@ -1,0 +1,5 @@
+5. (10 points)
+The cylinder above contains an ideal gas and has a movable, frictionless piston of diameter D and mass M. The
+cylinder is in a laboratory with atmospheric pressure P,,, - Express all algebraic answers in terms of the given
+‘quantities and fundamental constants.
+
