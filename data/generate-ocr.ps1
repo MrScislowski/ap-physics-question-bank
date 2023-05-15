@@ -9,4 +9,4 @@ function Generate-OCR-Text-Using-Tesseract {
   }
 }
 
-Generate-OCR-Text-Using-Tesseract
+# Generate-OCR-Text-Using-Tesseract

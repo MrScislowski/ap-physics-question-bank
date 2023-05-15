@@ -7,7 +7,9 @@ import { DataFrame } from './DataFrame';
 import styled from 'styled-components';
 
 // https://stackoverflow.com/questions/58524990/react-relative-imports-outside-of-src-are-not-supported
-const questionList = require("./assets/Categorization.json");
+import { questionList } from './questionList';
+
+
 let topicList = require("./assets/APTopicNames.json");
 
 
