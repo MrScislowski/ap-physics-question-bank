@@ -1,5 +1,6 @@
 import { TopicSelector } from './TopicSelector';
 import { YearSelector } from './YearSelector';
+import { TextSelector } from './TextSelector';
 
 // is this just for react native...? should i be using a web app version...?
 // (the example with react navigation just look so good that I don't want to mess with
@@ -20,6 +21,8 @@ export const DataFrame = (props) => {
     <>
       { filterMode === 'topic' && <TopicSelector questionList={questionList} topicList={topicList} /> }
       { filterMode === 'year' && <YearSelector questionList={questionList} topicList={topicList} /> }
+      { filterMode === 'text' && <TextSelector questionList={questionList} topicList={topicList} /> }
+
     </>
   )
 }

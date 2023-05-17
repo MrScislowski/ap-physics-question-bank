@@ -16,6 +16,8 @@ export const ModeSelector = (props) => {
     <>
       <button onClick={() => {setFilterMode('topic')}}> By Topic </button>
       <button onClick={() => {setFilterMode('year')}}> By Year </button>
+      <button onClick={() => {setFilterMode('text')}}> Search Text </button>
+
     </>
   )
 }
