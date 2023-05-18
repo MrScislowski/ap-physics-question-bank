@@ -15,7 +15,6 @@ import styled from 'styled-components';
 const Wrapper = styled.div`
   background-color: #eee0cbff;
   border-radius: 25px;
-  @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
   font-family: "Roboto", sans-serif;
 `;
 
