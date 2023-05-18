@@ -9,14 +9,19 @@
 
 import styled from 'styled-components';
 
+const Button = styled.button`
+  background-color: #bfd7eaff;
+  border-radius: 5px;
+`;
+
 export const ModeSelector = (props) => {
   const setFilterMode = props.setFilterMode;
 
   return (
     <>
-      <button onClick={() => {setFilterMode('topic')}}> By Topic </button>
-      <button onClick={() => {setFilterMode('year')}}> By Year </button>
-      <button onClick={() => {setFilterMode('text')}}> Search Text </button>
+      <Button onClick={() => {setFilterMode('topic')}}> By Topic </Button>
+      <Button onClick={() => {setFilterMode('year')}}> By Year </Button>
+      <Button onClick={() => {setFilterMode('text')}}> Search Text </Button>
 
     </>
   )
