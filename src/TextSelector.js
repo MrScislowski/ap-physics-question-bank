@@ -4,7 +4,9 @@ import styled from 'styled-components';
 import { QuestionSet } from './QuestionSet';
 
 const filterQuestionsByText = (allQuestions, searchText) => {
-    return allQuestions.filter(question => question.questionText.match(searchText));
+    return allQuestions.filter(
+        question => question.questionText.toLowerCase().indexOf(searchText.toLowerCase()) !== -1
+    )
 }
 
 export const TextSelector = (props) => {
