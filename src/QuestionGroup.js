@@ -10,6 +10,7 @@ export const QuestionGroup = (props) => {
     <>
     <h2>{theGroup[0].year} Q{theGroup[0].question}</h2>
     <img key={groupFilename} src={'/images/' + groupFilename} alt=""></img>
+    <br/>
     {theGroup.map(question => {
       return <Question key={`Q${question.filename}`} questionData={question} />
     })}
