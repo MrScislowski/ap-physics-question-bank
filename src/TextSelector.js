@@ -4,6 +4,10 @@ import styled from 'styled-components';
 import { QuestionSet } from './QuestionSet';
 
 const filterQuestionsByText = (allQuestions, searchText) => {
+    if (searchText.trim().length === 0) {
+        return [];
+    }
+
     return allQuestions.filter(
         question => question.questionText.toLowerCase().indexOf(searchText.toLowerCase()) !== -1
     )
