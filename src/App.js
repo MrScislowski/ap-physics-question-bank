@@ -31,8 +31,8 @@ function App() {
   
   return (
     <Wrapper>
-    <ModeSelector setFilterMode={setFilterMode} />
-    <DataFrame filterMode={filterMode} questionList={questionList} topicList={topicList} />
+      <ModeSelector filterMode={filterMode} setFilterMode={setFilterMode} />
+      <DataFrame filterMode={filterMode} questionList={questionList} topicList={topicList} />
     </Wrapper>
   );
 }

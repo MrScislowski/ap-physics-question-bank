@@ -9,20 +9,40 @@
 
 import styled from 'styled-components';
 
-const Button = styled.button`
-  background-color: #bfd7eaff;
-  border-radius: 5px;
+const TopNavbar = styled.div`
+display: flex;
+flex-direction: row;
+justify-content: space-evenly;
 `;
 
+const Button = styled.button`
+  text-decoration: ${props => (props.isSelected && 'underline') || 'none'};
+  background-color: #bfd7eaff;
+  border-radius: 5px;
+  flex-grow: 1;
+  font-size: 100%;
+  font-weight: bolder;
+`;
+
+const buttonList = [
+  { typeId: 'topic', text: "BY TOPIC" },
+  { typeId: 'year', text: "BY YEAR" },
+  { typeId: 'text', text: "SEARCH TEXT" },
+];
+
 export const ModeSelector = (props) => {
+  const filterMode = props.filterMode;
   const setFilterMode = props.setFilterMode;
 
   return (
     <>
-      <Button onClick={() => {setFilterMode('topic')}}> By Topic </Button>
-      <Button onClick={() => {setFilterMode('year')}}> By Year </Button>
-      <Button onClick={() => {setFilterMode('text')}}> Search Text </Button>
-
+      <TopNavbar>
+        {buttonList.map((button, index) => {
+          return <Button isSelected={filterMode === button.typeId} key={index} onClick={() => { setFilterMode(button.typeId) }}>
+            {button.text}
+          </Button>
+        })}
+      </TopNavbar>
     </>
   )
 }
