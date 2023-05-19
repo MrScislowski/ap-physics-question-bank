@@ -12,6 +12,12 @@ const CheckboxList = styled.ul`
   column-gap: 10px;
 `;
 
+const CheckboxLabel = styled.label`
+font-weight: ${props => props.count === 0? 'lighter' : 'normal'};
+font-style: ${props => props.count === 0? 'italic' : 'normal'};
+`;
+
+
 // add a count to how many questions of each topic type exist
 const addCountToTopics = (topicList, questionList) => {
   topicList = topicList.map(topic => {
@@ -113,7 +119,7 @@ export const TopicSelector = (props) => {
             onChange={() =>
               handleCheckboxChange(index)} 
           />
-          <label htmlFor={`custom-checkbox-${index}`}>{`${topicInfo["ApTopicId"]} - ${topicInfo["TopicDescription"]} (${topicInfo["count"]})`}</label>
+          <CheckboxLabel htmlFor={`custom-checkbox-${index}`} count={topicInfo.count}>{`${topicInfo["ApTopicId"]} - ${topicInfo["TopicDescription"]} (${topicInfo["count"]})`}</CheckboxLabel>
           </li>
         );
       })}
