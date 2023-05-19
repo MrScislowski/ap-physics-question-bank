@@ -5,6 +5,11 @@ import { QuestionSet } from './QuestionSet';
 
 const CheckboxList = styled.ul`
   list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  row-gap: 10px;
+  column-gap: 10px;
 `;
 
 // add a count to how many questions of each topic type exist
