@@ -1,1 +1,2 @@
-[ ] make menu more mobile friendly (images scale to screen width)
+[ ] make top buttons look more clean
+[ ] add whitespace in various locations to improve look
