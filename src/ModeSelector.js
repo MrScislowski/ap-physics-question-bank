@@ -15,13 +15,19 @@ flex-direction: row;
 justify-content: space-evenly;
 `;
 
+// text-decoration-line: ${props => (props.isSelected && 'underline') || 'none'};
+// text-decoration-thickness: 15px;
+
 const Button = styled.button`
-  text-decoration: ${props => (props.isSelected && 'underline') || 'none'};
-  background-color: #bfd7eaff;
-  border-radius: 5px;
-  flex-grow: 1;
-  font-size: 100%;
-  font-weight: bolder;
+border: none;
+flex-grow: 1;
+font-size: 100%;
+font-weight: ${props => (props.isSelected && 'bolder') || 'normal'};
+padding-top: 20px;
+padding-bottom: 20px;
+&:hover {
+  background-color: #baa898ff;
+}
 `;
 
 const buttonList = [
