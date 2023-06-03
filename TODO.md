@@ -1,1 +1,2 @@
+[ ] allow selection of multiple filters; show the filter(s) currently selected above the tab of that particular filter. Use more complex state management if appropriate
 [ ] add whitespace in various locations to improve look (especially around text search box)
